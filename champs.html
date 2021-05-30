@@ -1,0 +1,109 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <style>
+            body {
+                margin: 0;
+            }
+        </style>
+        <script src="//unpkg.com/three"></script>
+        <script src="//unpkg.com/three-spritetext"></script>
+        <script src="//unpkg.com/3d-force-graph"></script>
+        <script src="../alliances.js"></script>
+    </head>
+    <body>
+        <div id="3d-graph"></div>
+        <script>
+            graphData.links.forEach((link) => {
+                const a = graphData.nodes.filter(function (node) {
+                    return node.id === link.source;
+                })[0];
+                const b = graphData.nodes.filter(function (node) {
+                    return node.id === link.target;
+                })[0];
+                !a.neighbors && (a.neighbors = []);
+                !b.neighbors && (b.neighbors = []);
+                a.neighbors.push(b);
+                b.neighbors.push(a);
+
+                !a.links && (a.links = []);
+                !b.links && (b.links = []);
+                a.links.push(link);
+                b.links.push(link);
+            });
+
+            const highlightNodes = new Set();
+            const highlightLinks = new Set();
+            let hoverNode = null;
+
+            const Graph = ForceGraph3D()(document.getElementById("3d-graph"))
+                .graphData(graphData)
+                .linkWidth((link) => (highlightLinks.has(link) ? 4 : 1))
+                .linkDirectionalParticles((link) => (highlightLinks.has(link) ? 4 : 0))
+                .linkDirectionalParticleWidth(4)
+                .onNodeHover((node) => {
+                    // no state change
+                    if ((!node && !highlightNodes.size) || (node && hoverNode === node)) return;
+
+                    highlightNodes.clear();
+                    highlightLinks.clear();
+                    if (node) {
+                        highlightNodes.add(node);
+                        console.log(node);
+                        node.neighbors.forEach((neighbor) => highlightNodes.add(neighbor));
+                        node.links.forEach((link) => highlightLinks.add(link));
+                    }
+
+                    hoverNode = node || null;
+
+                    updateHighlight();
+                })
+                .onNodeClick((node) => {
+                    // Aim at node from outside it
+                    const distance = 400;
+                    const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
+
+                    Graph.cameraPosition(
+                        { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }, // new position
+                        node, // lookAt ({ x, y, z })
+                        3000 // ms transition duration
+                    );
+                })
+                .onLinkHover((link) => {
+                    highlightNodes.clear();
+                    highlightLinks.clear();
+
+                    if (link) {
+                        highlightLinks.add(link);
+                        highlightNodes.add(link.source);
+                        highlightNodes.add(link.target);
+                    }
+
+                    updateHighlight();
+                })
+                .nodeLabel("id")
+                .nodeAutoColorBy("group")
+                .nodeThreeObject((node) => {
+                    const sprite = new SpriteText(node.id);
+                    sprite.material.depthWrite = false; // make sprite background transparent
+                    sprite.color = node.color;
+                    sprite.textHeight = 8;
+                    return sprite;
+                })
+                .linkThreeObjectExtend(true)
+                .linkLabel("label")
+                .onNodeDragEnd((node) => {
+                    node.fx = node.x;
+                    node.fy = node.y;
+                    node.fz = node.z;
+                });
+
+            function updateHighlight() {
+                // trigger update of highlighted objects in scene
+                Graph.nodeColor(Graph.nodeColor())
+                    .linkWidth(Graph.linkWidth())
+                    .linkDirectionalParticles(Graph.linkDirectionalParticles());
+            }
+        </script>
+    </body>
+</html>
