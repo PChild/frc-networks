@@ -49,7 +49,6 @@
                     highlightLinks.clear();
                     if (node) {
                         highlightNodes.add(node);
-                        console.log(node);
                         node.neighbors.forEach((neighbor) => highlightNodes.add(neighbor));
                         node.links.forEach((link) => highlightLinks.add(link));
                     }
