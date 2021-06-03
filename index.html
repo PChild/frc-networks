@@ -10,10 +10,26 @@
         <script src="//unpkg.com/three-spritetext"></script>
         <script src="//unpkg.com/3d-force-graph"></script>
         <script src="alliances.js"></script>
+        <script type="text/javascript" src="dat.gui.min.js"></script>
     </head>
     <body>
         <div id="3d-graph"></div>
         <script>
+            colors = [
+                "#a6cee3",
+                "#1f78b4",
+                "#b2df8a",
+                "#33a02c",
+                "#fb9a99",
+                "#e31a1c",
+                "#fdbf6f",
+                "#ff7f00",
+                "#cab2d6",
+                "#6a3d9a",
+                "#ffff99",
+                "#b15928",
+            ];
+
             graphData.links.forEach((link) => {
                 const a = graphData.nodes.filter(function (node) {
                     return node.id === link.source;
@@ -38,18 +54,36 @@
 
             const Graph = ForceGraph3D()(document.getElementById("3d-graph"))
                 .graphData(graphData)
-                .linkWidth((link) => (highlightLinks.has(link) ? 4 : 1))
+                .nodeAutoColorBy("region")
+                .enableNodeDrag(false)
+                .linkWidth((link) => (highlightLinks.has(link) ? 4 : 0))
                 .linkDirectionalParticles((link) => (highlightLinks.has(link) ? 4 : 0))
                 .linkDirectionalParticleWidth(4)
-                .onNodeHover((node) => {
+                .onNodeHover((node, prev) => {
+                    if (!node && prev) {
+                        prev.__threeObj.textHeight = 8;
+                        prev.neighbors.forEach((neighbor) => {
+                            try {
+                                neighbor.__threeObj.textHeight = 8;
+                            } catch (error) {}
+                        });
+                    }
                     // no state change
-                    if ((!node && !highlightNodes.size) || (node && hoverNode === node)) return;
+                    if ((!node && !highlightNodes.size) || (node && hoverNode === node)) {
+                        return;
+                    }
 
                     highlightNodes.clear();
                     highlightLinks.clear();
                     if (node) {
+                        node.__threeObj.textHeight = 10;
                         highlightNodes.add(node);
-                        node.neighbors.forEach((neighbor) => highlightNodes.add(neighbor));
+                        node.neighbors.forEach((neighbor) => {
+                            try {
+                                neighbor.__threeObj.textHeight = 10;
+                                highlightNodes.add(neighbor);
+                            } catch (error) {}
+                        });
                         node.links.forEach((link) => highlightLinks.add(link));
                     }
 
@@ -68,11 +102,22 @@
                         3000 // ms transition duration
                     );
                 })
-                .onLinkHover((link) => {
+                .onLinkHover((link, prev) => {
                     highlightNodes.clear();
                     highlightLinks.clear();
 
+                    if (!link && prev) {
+                        try {
+                            prev.source.__threeObj.textHeight = 8;
+                            prev.target.__threeObj.textHeight = 8;
+                        } catch (error) {}
+                    }
+
                     if (link) {
+                        try {
+                            link.source.__threeObj.textHeight = 10;
+                            link.target.__threeObj.textHeight = 10;
+                        } catch (error) {}
                         highlightLinks.add(link);
                         highlightNodes.add(link.source);
                         highlightNodes.add(link.target);
@@ -81,7 +126,7 @@
                     updateHighlight();
                 })
                 .nodeLabel("id")
-                .nodeAutoColorBy("group")
+                .nodeVisibility("visible")
                 .nodeThreeObject((node) => {
                     const sprite = new SpriteText(node.id);
                     sprite.material.depthWrite = false; // make sprite background transparent
@@ -91,11 +136,14 @@
                 })
                 .linkThreeObjectExtend(true)
                 .linkLabel("label")
+                .linkVisibility("visible")
                 .onNodeDragEnd((node) => {
                     node.fx = node.x;
                     node.fy = node.y;
                     node.fz = node.z;
                 });
+
+            var colors_map = {};
 
             function updateHighlight() {
                 // trigger update of highlighted objects in scene
@@ -103,6 +151,27 @@
                     .linkWidth(Graph.linkWidth())
                     .linkDirectionalParticles(Graph.linkDirectionalParticles());
             }
+
+            var gui = new dat.GUI({ name: "My GUI" });
+            var folder1 = gui.addFolder("Regions");
+            Object.keys(graphData.regions_show).forEach((region) => {
+                folder1.add(graphData.regions_show, region).onChange((status) => {
+                    Graph.graphData().nodes.forEach((node) => {
+                        if (node.region === region) {
+                            node.__threeObj.visible = status;
+                        }
+                    });
+
+                    Graph.graphData().links.forEach((link) => {
+                        if (link.__lineObj && link.source.__threeObj && link.target.__threeObj) {
+                            link.__lineObj.visible = link.source.__threeObj.visible && link.target.__threeObj.visible;
+                        } else if (link.__lineObj) {
+                            link.__lineObj.visible = false;
+                        }
+                    });
+                });
+            });
+            folder1.open();
         </script>
     </body>
 </html>

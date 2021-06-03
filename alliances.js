@@ -1,11418 +1,15253 @@
 graphData = {
-    "nodes": [
+    nodes: [
         {
-            "id": "1058",
-            "group": "NE"
+            id: "1058",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "67",
-            "group": "FIM"
+            id: "67",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1640",
-            "group": "FMA"
+            id: "1640",
+            region: "FMA",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2137",
-            "group": "FIM"
+            id: "2137",
+            region: "FIM",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "225",
-            "group": "FMA"
+            id: "225",
+            region: "FMA",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "558",
-            "group": "NE"
+            id: "558",
+            region: "NE",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6334",
-            "group": "CHS"
+            id: "6334",
+            region: "CHS",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "865",
-            "group": "ONT"
+            id: "865",
+            region: "ONT",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "245",
-            "group": "FIM"
+            id: "245",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "188",
-            "group": "ONT"
+            id: "188",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3539",
-            "group": "FIM"
+            id: "3539",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1025",
-            "group": "FIM"
+            id: "1025",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2611",
-            "group": "FIM"
+            id: "2611",
+            region: "FIM",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2337",
-            "group": "FIM"
+            id: "2337",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2363",
-            "group": "CHS"
+            id: "2363",
+            region: "CHS",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "222",
-            "group": "FMA"
+            id: "222",
+            region: "FMA",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "217",
-            "group": "FIM"
+            id: "217",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5172",
-            "group": "REG"
+            id: "5172",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2834",
-            "group": "FIM"
+            id: "2834",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1629",
-            "group": "CHS"
+            id: "1629",
+            region: "CHS",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1730",
-            "group": "REG"
+            id: "1730",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3357",
-            "group": "FIM"
+            id: "3357",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2590",
-            "group": "FMA"
+            id: "2590",
+            region: "FMA",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4779",
-            "group": "FIM"
+            id: "4779",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5847",
-            "group": "REG"
+            id: "5847",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "70",
-            "group": "FIM"
+            id: "70",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1987",
-            "group": "REG"
+            id: "1987",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1880",
-            "group": "REG"
+            id: "1880",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3467",
-            "group": "NE"
+            id: "3467",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "930",
-            "group": "REG"
+            id: "930",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1325",
-            "group": "ONT"
+            id: "1325",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4476",
-            "group": "ONT"
+            id: "4476",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "303",
-            "group": "FMA"
+            id: "303",
+            region: "FMA",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2451",
-            "group": "REG"
+            id: "2451",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2194",
-            "group": "REG"
+            id: "2194",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "25",
-            "group": "FMA"
+            id: "25",
+            region: "FMA",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "33",
-            "group": "FIM"
+            id: "33",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5024",
-            "group": "ONT"
+            id: "5024",
+            region: "ONT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2052",
-            "group": "REG"
+            id: "2052",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "20",
-            "group": "REG"
+            id: "20",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "125",
-            "group": "NE"
+            id: "125",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5687",
-            "group": "NE"
+            id: "5687",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1796",
-            "group": "REG"
+            id: "1796",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "597",
-            "group": "REG"
+            id: "597",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "135",
-            "group": "FIN"
+            id: "135",
+            region: "FIN",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4003",
-            "group": "FIM"
+            id: "4003",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6329",
-            "group": "NE"
+            id: "6329",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4961",
-            "group": "FIM"
+            id: "4961",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "195",
-            "group": "NE"
+            id: "195",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "177",
-            "group": "NE"
+            id: "177",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1080",
-            "group": "CHS"
+            id: "1080",
+            region: "CHS",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1073",
-            "group": "NE"
+            id: "1073",
+            region: "NE",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4237",
-            "group": "FIM"
+            id: "4237",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1732",
-            "group": "REG"
+            id: "1732",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4253",
-            "group": "REG"
+            id: "4253",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3538",
-            "group": "FIM"
+            id: "3538",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5114",
-            "group": "FIM"
+            id: "5114",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5401",
-            "group": "FMA"
+            id: "5401",
+            region: "FMA",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2832",
-            "group": "FIM"
+            id: "2832",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5150",
-            "group": "FIM"
+            id: "5150",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3494",
-            "group": "FIN"
+            id: "3494",
+            region: "FIN",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "503",
-            "group": "FIM"
+            id: "503",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1018",
-            "group": "FIN"
+            id: "1018",
+            region: "FIN",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5053",
-            "group": "FIM"
+            id: "5053",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2056",
-            "group": "ONT"
+            id: "2056",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1241",
-            "group": "ONT"
+            id: "1241",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "384",
-            "group": "CHS"
+            id: "384",
+            region: "CHS",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1511",
-            "group": "REG"
+            id: "1511",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2481",
-            "group": "REG"
+            id: "2481",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2791",
-            "group": "REG"
+            id: "2791",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "203",
-            "group": "FMA"
+            id: "203",
+            region: "FMA",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1807",
-            "group": "FMA"
+            id: "1807",
+            region: "FMA",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6009",
-            "group": "ONT"
+            id: "6009",
+            region: "ONT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4039",
-            "group": "ONT"
+            id: "4039",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "234",
-            "group": "FIN"
+            id: "234",
+            region: "FIN",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2609",
-            "group": "ONT"
+            id: "2609",
+            region: "ONT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4500",
-            "group": "REG"
+            id: "4500",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4143",
-            "group": "REG"
+            id: "4143",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2077",
-            "group": "REG"
+            id: "2077",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5205",
-            "group": "FIM"
+            id: "5205",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5155",
-            "group": "FIM"
+            id: "5155",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "226",
-            "group": "FIM"
+            id: "226",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "449",
-            "group": "CHS"
+            id: "449",
+            region: "CHS",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3875",
-            "group": "FIM"
+            id: "3875",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4917",
-            "group": "ONT"
+            id: "4917",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4946",
-            "group": "ONT"
+            id: "4946",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2169",
-            "group": "REG"
+            id: "2169",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3929",
-            "group": "FMA"
+            id: "3929",
+            region: "FMA",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "494",
-            "group": "FIM"
+            id: "494",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1918",
-            "group": "FIM"
+            id: "1918",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4272",
-            "group": "FIN"
+            id: "4272",
+            region: "FIN",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3098",
-            "group": "FIM"
+            id: "3098",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "71",
-            "group": "FIN"
+            id: "71",
+            region: "FIN",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "230",
-            "group": "NE"
+            id: "230",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1675",
-            "group": "REG"
+            id: "1675",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1720",
-            "group": "FIN"
+            id: "1720",
+            region: "FIN",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2767",
-            "group": "FIM"
+            id: "2767",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "254",
-            "group": "REG"
+            id: "254",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "862",
-            "group": "FIM"
+            id: "862",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1676",
-            "group": "FMA"
+            id: "1676",
+            region: "FMA",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5436",
-            "group": "FIM"
+            id: "5436",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4967",
-            "group": "FIM"
+            id: "4967",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4362",
-            "group": "FIM"
+            id: "4362",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "85",
-            "group": "FIM"
+            id: "85",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4976",
-            "group": "ONT"
+            id: "4976",
+            region: "ONT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "27",
-            "group": "FIM"
+            id: "27",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4678",
-            "group": "ONT"
+            id: "4678",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2614",
-            "group": "REG"
+            id: "2614",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "238",
-            "group": "NE"
+            id: "238",
+            region: "NE",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5406",
-            "group": "ONT"
+            id: "5406",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1285",
-            "group": "ONT"
+            id: "1285",
+            region: "ONT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "66",
-            "group": "FIM"
+            id: "66",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2960",
-            "group": "FIM"
+            id: "2960",
+            region: "FIM",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3620",
-            "group": "FIM"
+            id: "3620",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2164",
-            "group": "REG"
+            id: "2164",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "141",
-            "group": "FIM"
+            id: "141",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "708",
-            "group": "FMA"
+            id: "708",
+            region: "FMA",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "910",
-            "group": "FIM"
+            id: "910",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1481",
-            "group": "FIM"
+            id: "1481",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5442",
-            "group": "REG"
+            id: "5442",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5690",
-            "group": "REG"
+            id: "5690",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2062",
-            "group": "REG"
+            id: "2062",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1806",
-            "group": "REG"
+            id: "1806",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "694",
-            "group": "REG"
+            id: "694",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "75",
-            "group": "FMA"
+            id: "75",
+            region: "FMA",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "340",
-            "group": "REG"
+            id: "340",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1718",
-            "group": "FIM"
+            id: "1718",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6763",
-            "group": "NE"
+            id: "6763",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1986",
-            "group": "REG"
+            id: "1986",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3310",
-            "group": "FIT"
+            id: "3310",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "302",
-            "group": "FIM"
+            id: "302",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3719",
-            "group": "NE"
+            id: "3719",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1114",
-            "group": "ONT"
+            id: "1114",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "610",
-            "group": "ONT"
+            id: "610",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "359",
-            "group": "REG"
+            id: "359",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6387",
-            "group": "ONT"
+            id: "6387",
+            region: "ONT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1305",
-            "group": "ONT"
+            id: "1305",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "314",
-            "group": "FIM"
+            id: "314",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "48",
-            "group": "REG"
+            id: "48",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2370",
-            "group": "NE"
+            id: "2370",
+            region: "NE",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1885",
-            "group": "CHS"
+            id: "1885",
+            region: "CHS",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "229",
-            "group": "REG"
+            id: "229",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5036",
-            "group": "ONT"
+            id: "5036",
+            region: "ONT",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "74",
-            "group": "FIM"
+            id: "74",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4814",
-            "group": "ONT"
+            id: "4814",
+            region: "ONT",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2648",
-            "group": "NE"
+            id: "2648",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4028",
-            "group": "REG"
+            id: "4028",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "236",
-            "group": "NE"
+            id: "236",
+            region: "NE",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4939",
-            "group": "ONT"
+            id: "4939",
+            region: "ONT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "78",
-            "group": "NE"
+            id: "78",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "131",
-            "group": "NE"
+            id: "131",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5413",
-            "group": "REG"
+            id: "5413",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "548",
-            "group": "FIM"
+            id: "548",
+            region: "FIM",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4525",
-            "group": "ONT"
+            id: "4525",
+            region: "ONT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6201",
-            "group": "NE"
+            id: "6201",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1418",
-            "group": "CHS"
+            id: "1418",
+            region: "CHS",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1506",
-            "group": "FIM"
+            id: "1506",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3928",
-            "group": "REG"
+            id: "3928",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4391",
-            "group": "FIM"
+            id: "4391",
+            region: "FIM",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3277",
-            "group": "REG"
+            id: "3277",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "469",
-            "group": "FIM"
+            id: "469",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "148",
-            "group": "FIT"
+            id: "148",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3464",
-            "group": "NE"
+            id: "3464",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "51",
-            "group": "FIM"
+            id: "51",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "829",
-            "group": "FIN"
+            id: "829",
+            region: "FIN",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1519",
-            "group": "NE"
+            id: "1519",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "191",
-            "group": "REG"
+            id: "191",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3414",
-            "group": "FIM"
+            id: "3414",
+            region: "FIM",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2168",
-            "group": "NE"
+            id: "2168",
+            region: "NE",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3015",
-            "group": "REG"
+            id: "3015",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3546",
-            "group": "FIM"
+            id: "3546",
+            region: "FIM",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "11",
-            "group": "FMA"
+            id: "11",
+            region: "FMA",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3452",
-            "group": "FIM"
+            id: "3452",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3683",
-            "group": "ONT"
+            id: "3683",
+            region: "ONT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2084",
-            "group": "NE"
+            id: "2084",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2537",
-            "group": "CHS"
+            id: "2537",
+            region: "CHS",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3419",
-            "group": "REG"
+            id: "3419",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1706",
-            "group": "REG"
+            id: "1706",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4481",
-            "group": "REG"
+            id: "4481",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1391",
-            "group": "FMA"
+            id: "1391",
+            region: "FMA",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2619",
-            "group": "FIM"
+            id: "2619",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3130",
-            "group": "REG"
+            id: "3130",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "193",
-            "group": "FMA"
+            id: "193",
+            region: "FMA",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4485",
-            "group": "FIN"
+            id: "4485",
+            region: "FIN",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6538",
-            "group": "FIM"
+            id: "6538",
+            region: "FIM",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "834",
-            "group": "FMA"
+            id: "834",
+            region: "FMA",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "95",
-            "group": "NE"
+            id: "95",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2607",
-            "group": "FMA"
+            id: "2607",
+            region: "FMA",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "190",
-            "group": "NE"
+            id: "190",
+            region: "NE",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "111",
-            "group": "REG"
+            id: "111",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1023",
-            "group": "FIM"
+            id: "1023",
+            region: "FIM",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3284",
-            "group": "REG"
+            id: "3284",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1690",
-            "group": "ISR"
+            id: "1690",
+            region: "ISR",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "971",
-            "group": "REG"
+            id: "971",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2992",
-            "group": "REG"
+            id: "2992",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2974",
-            "group": "PCH"
+            id: "2974",
+            region: "PCH",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2122",
-            "group": "REG"
+            id: "2122",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "987",
-            "group": "REG"
+            id: "987",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4910",
-            "group": "PCH"
+            id: "4910",
+            region: "PCH",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6314",
-            "group": "REG"
+            id: "6314",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4334",
-            "group": "REG"
+            id: "4334",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2471",
-            "group": "PNW"
+            id: "2471",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3256",
-            "group": "REG"
+            id: "3256",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "599",
-            "group": "REG"
+            id: "599",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3238",
-            "group": "PNW"
+            id: "3238",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3339",
-            "group": "ISR"
+            id: "3339",
+            region: "ISR",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1700",
-            "group": "REG"
+            id: "1700",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2637",
-            "group": "REG"
+            id: "2637",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1671",
-            "group": "REG"
+            id: "1671",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1746",
-            "group": "PCH"
+            id: "1746",
+            region: "PCH",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1577",
-            "group": "ISR"
+            id: "1577",
+            region: "ISR",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4125",
-            "group": "PNW"
+            id: "4125",
+            region: "PNW",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2930",
-            "group": "PNW"
+            id: "2930",
+            region: "PNW",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "179",
-            "group": "REG"
+            id: "179",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3674",
-            "group": "PNW"
+            id: "3674",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2557",
-            "group": "PNW"
+            id: "2557",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4063",
-            "group": "FIT"
+            id: "4063",
+            region: "FIT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "231",
-            "group": "FIT"
+            id: "231",
+            region: "FIT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4911",
-            "group": "PNW"
+            id: "4911",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2059",
-            "group": "FNC"
+            id: "2059",
+            region: "FNC",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5468",
-            "group": "PNW"
+            id: "5468",
+            region: "PNW",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1425",
-            "group": "PNW"
+            id: "1425",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1937",
-            "group": "ISR"
+            id: "1937",
+            region: "ISR",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3802",
-            "group": "FIT"
+            id: "3802",
+            region: "FIT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "492",
-            "group": "PNW"
+            id: "492",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1538",
-            "group": "REG"
+            id: "1538",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5437",
-            "group": "REG"
+            id: "5437",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2576",
-            "group": "REG"
+            id: "2576",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "498",
-            "group": "REG"
+            id: "498",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "192",
-            "group": "REG"
+            id: "192",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "587",
-            "group": "FNC"
+            id: "587",
+            region: "FNC",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "368",
-            "group": "REG"
+            id: "368",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6445",
-            "group": "PNW"
+            id: "6445",
+            region: "PNW",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3478",
-            "group": "REG"
+            id: "3478",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "386",
-            "group": "REG"
+            id: "386",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4904",
-            "group": "REG"
+            id: "4904",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4516",
-            "group": "PCH"
+            id: "4516",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2486",
-            "group": "REG"
+            id: "2486",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "86",
-            "group": "REG"
+            id: "86",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4080",
-            "group": "PCH"
+            id: "4080",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2231",
-            "group": "ISR"
+            id: "2231",
+            region: "ISR",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3211",
-            "group": "ISR"
+            id: "3211",
+            region: "ISR",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5074",
-            "group": "PCH"
+            id: "5074",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4201",
-            "group": "REG"
+            id: "4201",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5654",
-            "group": "ISR"
+            id: "5654",
+            region: "ISR",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2415",
-            "group": "PCH"
+            id: "2415",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2630",
-            "group": "ISR"
+            id: "2630",
+            region: "ISR",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4112",
-            "group": "PCH"
+            id: "4112",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4537",
-            "group": "REG"
+            id: "4537",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6579",
-            "group": "REG"
+            id: "6579",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3005",
-            "group": "FIT"
+            id: "3005",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4499",
-            "group": "REG"
+            id: "4499",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2333",
-            "group": "REG"
+            id: "2333",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "701",
-            "group": "REG"
+            id: "701",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3959",
-            "group": "REG"
+            id: "3959",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5572",
-            "group": "FIT"
+            id: "5572",
+            region: "FIT",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1619",
-            "group": "REG"
+            id: "1619",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3309",
-            "group": "REG"
+            id: "3309",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1319",
-            "group": "REG"
+            id: "1319",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4944",
-            "group": "REG"
+            id: "4944",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3314",
-            "group": "FMA"
+            id: "3314",
+            region: "FMA",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3132",
-            "group": "REG"
+            id: "3132",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1410",
-            "group": "REG"
+            id: "1410",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3039",
-            "group": "REG"
+            id: "3039",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "604",
-            "group": "REG"
+            id: "604",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2848",
-            "group": "FIT"
+            id: "2848",
+            region: "FIT",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1868",
-            "group": "REG"
+            id: "1868",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2903",
-            "group": "PNW"
+            id: "2903",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "832",
-            "group": "PCH"
+            id: "832",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4941",
-            "group": "PCH"
+            id: "4941",
+            region: "PCH",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4965",
-            "group": "REG"
+            id: "4965",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6340",
-            "group": "PCH"
+            id: "6340",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4613",
-            "group": "REG"
+            id: "4613",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5458",
-            "group": "REG"
+            id: "5458",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5429",
-            "group": "REG"
+            id: "5429",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2587",
-            "group": "FIT"
+            id: "2587",
+            region: "FIT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4488",
-            "group": "PNW"
+            id: "4488",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5431",
-            "group": "FIT"
+            id: "5431",
+            region: "FIT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "281",
-            "group": "REG"
+            id: "281",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5588",
-            "group": "PNW"
+            id: "5588",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1778",
-            "group": "PNW"
+            id: "1778",
+            region: "PNW",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2682",
-            "group": "FNC"
+            id: "2682",
+            region: "FNC",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4513",
-            "group": "PNW"
+            id: "4513",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4915",
-            "group": "PNW"
+            id: "4915",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3835",
-            "group": "ISR"
+            id: "3835",
+            region: "ISR",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5818",
-            "group": "REG"
+            id: "5818",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2910",
-            "group": "PNW"
+            id: "2910",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2230",
-            "group": "ISR"
+            id: "2230",
+            region: "ISR",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "118",
-            "group": "FIT"
+            id: "118",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1678",
-            "group": "REG"
+            id: "1678",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4188",
-            "group": "PCH"
+            id: "4188",
+            region: "PCH",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5892",
-            "group": "FIT"
+            id: "5892",
+            region: "FIT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "330",
-            "group": "REG"
+            id: "330",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "180",
-            "group": "REG"
+            id: "180",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3735",
-            "group": "FIT"
+            id: "3735",
+            region: "FIT",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "696",
-            "group": "REG"
+            id: "696",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3008",
-            "group": "REG"
+            id: "3008",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5842",
-            "group": "REG"
+            id: "5842",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3489",
-            "group": "REG"
+            id: "3489",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1622",
-            "group": "REG"
+            id: "1622",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4486",
-            "group": "REG"
+            id: "4486",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3255",
-            "group": "REG"
+            id: "3255",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5635",
-            "group": "ISR"
+            id: "5635",
+            region: "ISR",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1533",
-            "group": "FNC"
+            id: "1533",
+            region: "FNC",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2073",
-            "group": "REG"
+            id: "2073",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3647",
-            "group": "REG"
+            id: "3647",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3616",
-            "group": "REG"
+            id: "3616",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1156",
-            "group": "REG"
+            id: "1156",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3473",
-            "group": "REG"
+            id: "3473",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1294",
-            "group": "PNW"
+            id: "1294",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3663",
-            "group": "PNW"
+            id: "3663",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6377",
-            "group": "FIT"
+            id: "6377",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "744",
-            "group": "REG"
+            id: "744",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3847",
-            "group": "FIT"
+            id: "3847",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "900",
-            "group": "FNC"
+            id: "900",
+            region: "FNC",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5012",
-            "group": "REG"
+            id: "5012",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4189",
-            "group": "PCH"
+            id: "4189",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "997",
-            "group": "PNW"
+            id: "997",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5295",
-            "group": "PNW"
+            id: "5295",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "79",
-            "group": "REG"
+            id: "79",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "973",
-            "group": "REG"
+            id: "973",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1011",
-            "group": "REG"
+            id: "1011",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2928",
-            "group": "PNW"
+            id: "2928",
+            region: "PNW",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5499",
-            "group": "REG"
+            id: "5499",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "115",
-            "group": "REG"
+            id: "115",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "365",
-            "group": "FMA"
+            id: "365",
+            region: "FMA",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2468",
-            "group": "FIT"
+            id: "2468",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5614",
-            "group": "ISR"
+            id: "5614",
+            region: "ISR",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6705",
-            "group": "PCH"
+            id: "6705",
+            region: "PCH",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1002",
-            "group": "PCH"
+            id: "1002",
+            region: "PCH",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4561",
-            "group": "FNC"
+            id: "4561",
+            region: "FNC",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1339",
-            "group": "REG"
+            id: "1339",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1574",
-            "group": "ISR"
+            id: "1574",
+            region: "ISR",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "624",
-            "group": "FIT"
+            id: "624",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "418",
-            "group": "FIT"
+            id: "418",
+            region: "FIT",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2485",
-            "group": "REG"
+            id: "2485",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4265",
-            "group": "REG"
+            id: "4265",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "8",
-            "group": "REG"
+            id: "8",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3824",
-            "group": "REG"
+            id: "3824",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3140",
-            "group": "REG"
+            id: "3140",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4592",
-            "group": "REG"
+            id: "4592",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4590",
-            "group": "ISR"
+            id: "4590",
+            region: "ISR",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2403",
-            "group": "REG"
+            id: "2403",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5026",
-            "group": "REG"
+            id: "5026",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2642",
-            "group": "FNC"
+            id: "2642",
+            region: "FNC",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2478",
-            "group": "REG"
+            id: "2478",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3316",
-            "group": "ISR"
+            id: "3316",
+            region: "ISR",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "488",
-            "group": "PNW"
+            id: "488",
+            region: "PNW",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1477",
-            "group": "FIT"
+            id: "1477",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1414",
-            "group": "PCH"
+            id: "1414",
+            region: "PCH",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5803",
-            "group": "PNW"
+            id: "5803",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6508",
-            "group": "REG"
+            id: "6508",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1296",
-            "group": "FIT"
+            id: "1296",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1323",
-            "group": "REG"
+            id: "1323",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2473",
-            "group": "REG"
+            id: "2473",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6554",
-            "group": "REG"
+            id: "6554",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "16",
-            "group": "REG"
+            id: "16",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3937",
-            "group": "REG"
+            id: "3937",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2221",
-            "group": "REG"
+            id: "2221",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "948",
-            "group": "PNW"
+            id: "948",
+            region: "PNW",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1318",
-            "group": "PNW"
+            id: "1318",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2046",
-            "group": "PNW"
+            id: "2046",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1595",
-            "group": "PNW"
+            id: "1595",
+            region: "PNW",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2907",
-            "group": "PNW"
+            id: "2907",
+            region: "PNW",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5104",
-            "group": "REG"
+            id: "5104",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "399",
-            "group": "REG"
+            id: "399",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3476",
-            "group": "REG"
+            id: "3476",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5677",
-            "group": "REG"
+            id: "5677",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4206",
-            "group": "FIT"
+            id: "4206",
+            region: "FIT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4587",
-            "group": "FIT"
+            id: "4587",
+            region: "FIT",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4468",
-            "group": "PCH"
+            id: "4468",
+            region: "PCH",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5960",
-            "group": "TX"
+            id: "5960",
+            region: "FIT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3103",
-            "group": "FIT"
+            id: "3103",
+            region: "FIT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5417",
-            "group": "FIT"
+            id: "5417",
+            region: "FIT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5802",
-            "group": "REG"
+            id: "5802",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "108",
-            "group": "REG"
+            id: "108",
+            region: "REG",
+            years: ["2017", "2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4451",
-            "group": "REG"
+            id: "4451",
+            region: "REG",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3997",
-            "group": "TX"
+            id: "3997",
+            region: "FIT",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3245",
-            "group": "REG"
+            id: "3245",
+            region: "REG",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2147",
-            "group": "PNW"
+            id: "2147",
+            region: "PNW",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1661",
-            "group": "REG"
+            id: "1661",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3737",
-            "group": "FNC"
+            id: "3737",
+            region: "FNC",
+            years: ["2017", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1540",
-            "group": "PNW"
+            id: "1540",
+            region: "PNW",
+            years: ["2017", "2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4270",
-            "group": "REG"
+            id: "4270",
+            region: "REG",
+            years: ["2017"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4557",
-            "group": "NE"
+            id: "4557",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2016",
-            "group": "FMA"
+            id: "2016",
+            region: "FMA",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "870",
-            "group": "REG"
+            id: "870",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "868",
-            "group": "FIN"
+            id: "868",
+            region: "FIN",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4541",
-            "group": "CHS"
+            id: "4541",
+            region: "CHS",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5422",
-            "group": "NE"
+            id: "5422",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1756",
-            "group": "REG"
+            id: "1756",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1322",
-            "group": "FIM"
+            id: "1322",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6328",
-            "group": "NE"
+            id: "6328",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3656",
-            "group": "FIM"
+            id: "3656",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1923",
-            "group": "FMA"
+            id: "1923",
+            region: "FMA",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4776",
-            "group": "FIM"
+            id: "4776",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2200",
-            "group": "ONT"
+            id: "2200",
+            region: "ONT",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1218",
-            "group": "FMA"
+            id: "1218",
+            region: "FMA",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2830",
-            "group": "REG"
+            id: "2830",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2075",
-            "group": "FIM"
+            id: "2075",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4392",
-            "group": "FIM"
+            id: "4392",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2202",
-            "group": "REG"
+            id: "2202",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4786",
-            "group": "REG"
+            id: "4786",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1259",
-            "group": "REG"
+            id: "1259",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1559",
-            "group": "REG"
+            id: "1559",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "58",
-            "group": "NE"
+            id: "58",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "88",
-            "group": "NE"
+            id: "88",
+            region: "NE",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4130",
-            "group": "FIM"
+            id: "4130",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5050",
-            "group": "FIM"
+            id: "5050",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "133",
-            "group": "NE"
+            id: "133",
+            region: "NE",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3940",
-            "group": "FIN"
+            id: "3940",
+            region: "FIN",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3604",
-            "group": "FIM"
+            id: "3604",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2502",
-            "group": "REG"
+            id: "2502",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3990",
-            "group": "REG"
+            id: "3990",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1736",
-            "group": "REG"
+            id: "1736",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5254",
-            "group": "REG"
+            id: "5254",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "422",
-            "group": "CHS"
+            id: "422",
+            region: "CHS",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1731",
-            "group": "CHS"
+            id: "1731",
+            region: "CHS",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2771",
-            "group": "FIM"
+            id: "2771",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1507",
-            "group": "REG"
+            id: "1507",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2338",
-            "group": "REG"
+            id: "2338",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5505",
-            "group": "FIM"
+            id: "5505",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4004",
-            "group": "FIM"
+            id: "4004",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3707",
-            "group": "FIM"
+            id: "3707",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "333",
-            "group": "REG"
+            id: "333",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1747",
-            "group": "FIN"
+            id: "1747",
+            region: "FIN",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2826",
-            "group": "REG"
+            id: "2826",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4607",
-            "group": "REG"
+            id: "4607",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2054",
-            "group": "FIM"
+            id: "2054",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "379",
-            "group": "REG"
+            id: "379",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1741",
-            "group": "FIN"
+            id: "1741",
+            region: "FIN",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5813",
-            "group": "NE"
+            id: "5813",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2175",
-            "group": "REG"
+            id: "2175",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "316",
-            "group": "FMA"
+            id: "316",
+            region: "FMA",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4405",
-            "group": "FIM"
+            id: "4405",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5460",
-            "group": "FIM"
+            id: "5460",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1684",
-            "group": "FIM"
+            id: "1684",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5712",
-            "group": "FIM"
+            id: "5712",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4539",
-            "group": "REG"
+            id: "4539",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "346",
-            "group": "CHS"
+            id: "346",
+            region: "CHS",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1468",
-            "group": "REG"
+            id: "1468",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2708",
-            "group": "ONT"
+            id: "2708",
+            region: "ONT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4027",
-            "group": "REG"
+            id: "4027",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "836",
-            "group": "CHS"
+            id: "836",
+            region: "CHS",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7048",
-            "group": "REG"
+            id: "7048",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "747",
-            "group": "FMA"
+            id: "747",
+            region: "FMA",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "888",
-            "group": "CHS"
+            id: "888",
+            region: "CHS",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2013",
-            "group": "ONT"
+            id: "2013",
+            region: "ONT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2706",
-            "group": "ONT"
+            id: "2706",
+            region: "ONT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1189",
-            "group": "FIM"
+            id: "1189",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2877",
-            "group": "NE"
+            id: "2877",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1024",
-            "group": "FIN"
+            id: "1024",
+            region: "FIN",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4308",
-            "group": "ONT"
+            id: "4308",
+            region: "ONT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4855",
-            "group": "FIM"
+            id: "4855",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "237",
-            "group": "NE"
+            id: "237",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "401",
-            "group": "CHS"
+            id: "401",
+            region: "CHS",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "56",
-            "group": "FMA"
+            id: "56",
+            region: "FMA",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3536",
-            "group": "FIM"
+            id: "3536",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "176",
-            "group": "NE"
+            id: "176",
+            region: "NE",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "772",
-            "group": "ONT"
+            id: "772",
+            region: "ONT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3274",
-            "group": "CHS"
+            id: "3274",
+            region: "CHS",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3542",
-            "group": "FIM"
+            id: "3542",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "578",
-            "group": "REG"
+            id: "578",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5234",
-            "group": "FIM"
+            id: "5234",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3461",
-            "group": "NE"
+            id: "3461",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2869",
-            "group": "REG"
+            id: "2869",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6090",
-            "group": "FIM"
+            id: "6090",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3641",
-            "group": "FIM"
+            id: "3641",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "525",
-            "group": "REG"
+            id: "525",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4618",
-            "group": "ONT"
+            id: "4618",
+            region: "ONT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "319",
-            "group": "NE"
+            id: "319",
+            region: "NE",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5980",
-            "group": "FIM"
+            id: "5980",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2474",
-            "group": "FIM"
+            id: "2474",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1712",
-            "group": "FMA"
+            id: "1712",
+            region: "FMA",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5567",
-            "group": "FIM"
+            id: "5567",
+            region: "FIM",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3667",
-            "group": "FIM"
+            id: "3667",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "291",
-            "group": "REG"
+            id: "291",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5675",
-            "group": "FIM"
+            id: "5675",
+            region: "FIM",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1360",
-            "group": "ONT"
+            id: "1360",
+            region: "ONT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5006",
-            "group": "REG"
+            id: "5006",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1466",
-            "group": "REG"
+            id: "1466",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4795",
-            "group": "FNC"
+            id: "4795",
+            region: "FNC",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5987",
-            "group": "ISR"
+            id: "5987",
+            region: "ISR",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1421",
-            "group": "REG"
+            id: "1421",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5805",
-            "group": "REG"
+            id: "5805",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "343",
-            "group": "REG"
+            id: "343",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "341",
-            "group": "FMA"
+            id: "341",
+            region: "FMA",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "175",
-            "group": "NE"
+            id: "175",
+            region: "NE",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1369",
-            "group": "REG"
+            id: "1369",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6502",
-            "group": "FNC"
+            id: "6502",
+            region: "FNC",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "342",
-            "group": "REG"
+            id: "342",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6800",
-            "group": "FIT"
+            id: "6800",
+            region: "FIT",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "846",
-            "group": "REG"
+            id: "846",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4635",
-            "group": "REG"
+            id: "4635",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2659",
-            "group": "REG"
+            id: "2659",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5190",
-            "group": "FNC"
+            id: "5190",
+            region: "FNC",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6429",
-            "group": "REG"
+            id: "6429",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1939",
-            "group": "REG"
+            id: "1939",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3965",
-            "group": "REG"
+            id: "3965",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3374",
-            "group": "REG"
+            id: "3374",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5817",
-            "group": "REG"
+            id: "5817",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1197",
-            "group": "REG"
+            id: "1197",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1311",
-            "group": "PCH"
+            id: "1311",
+            region: "PCH",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1817",
-            "group": "TX"
+            id: "1817",
+            region: "FIT",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4256",
-            "group": "REG"
+            id: "4256",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "649",
-            "group": "REG"
+            id: "649",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6831",
-            "group": "PNW"
+            id: "6831",
+            region: "PNW",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2976",
-            "group": "PNW"
+            id: "2976",
+            region: "PNW",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3075",
-            "group": "ISR"
+            id: "3075",
+            region: "ISR",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3970",
-            "group": "REG"
+            id: "3970",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "957",
-            "group": "PNW"
+            id: "957",
+            region: "PNW",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3397",
-            "group": "REG"
+            id: "3397",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3495",
-            "group": "REG"
+            id: "3495",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "294",
-            "group": "REG"
+            id: "294",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2990",
-            "group": "PNW"
+            id: "2990",
+            region: "PNW",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3223",
-            "group": "PNW"
+            id: "3223",
+            region: "PNW",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6025",
-            "group": "REG"
+            id: "6025",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1902",
-            "group": "REG"
+            id: "1902",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2283",
-            "group": "REG"
+            id: "2283",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7039",
-            "group": "ISR"
+            id: "7039",
+            region: "ISR",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6060",
-            "group": "REG"
+            id: "6060",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5496",
-            "group": "REG"
+            id: "5496",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "456",
-            "group": "REG"
+            id: "456",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4400",
-            "group": "REG"
+            id: "4400",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3128",
-            "group": "REG"
+            id: "3128",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4061",
-            "group": "PNW"
+            id: "4061",
+            region: "PNW",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1723",
-            "group": "REG"
+            id: "1723",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3853",
-            "group": "REG"
+            id: "3853",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "968",
-            "group": "REG"
+            id: "968",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2367",
-            "group": "REG"
+            id: "2367",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3481",
-            "group": "FIT"
+            id: "3481",
+            region: "FIT",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1251",
-            "group": "REG"
+            id: "1251",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1648",
-            "group": "PCH"
+            id: "1648",
+            region: "PCH",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "687",
-            "group": "REG"
+            id: "687",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5199",
-            "group": "REG"
+            id: "5199",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6474",
-            "group": "REG"
+            id: "6474",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5554",
-            "group": "ISR"
+            id: "5554",
+            region: "ISR",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1982",
-            "group": "REG"
+            id: "1982",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3164",
-            "group": "REG"
+            id: "3164",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5663",
-            "group": "REG"
+            id: "5663",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6424",
-            "group": "REG"
+            id: "6424",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1072",
-            "group": "REG"
+            id: "1072",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3646",
-            "group": "REG"
+            id: "3646",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5472",
-            "group": "REG"
+            id: "5472",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2521",
-            "group": "PNW"
+            id: "2521",
+            region: "PNW",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1710",
-            "group": "REG"
+            id: "1710",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4522",
-            "group": "REG"
+            id: "4522",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2383",
-            "group": "REG"
+            id: "2383",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5985",
-            "group": "REG"
+            id: "5985",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2522",
-            "group": "PNW"
+            id: "2522",
+            region: "PNW",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7152",
-            "group": "REG"
+            id: "7152",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4980",
-            "group": "PNW"
+            id: "4980",
+            region: "PNW",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3250",
-            "group": "REG"
+            id: "3250",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4191",
-            "group": "REG"
+            id: "4191",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1983",
-            "group": "PNW"
+            id: "1983",
+            region: "PNW",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2584",
-            "group": "REG"
+            id: "2584",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6072",
-            "group": "REG"
+            id: "6072",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6996",
-            "group": "REG"
+            id: "6996",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6106",
-            "group": "REG"
+            id: "6106",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6390",
-            "group": "REG"
+            id: "6390",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "120",
-            "group": "REG"
+            id: "120",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2130",
-            "group": "REG"
+            id: "2130",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "842",
-            "group": "REG"
+            id: "842",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7179",
-            "group": "TX"
+            id: "7179",
+            region: "FIT",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2102",
-            "group": "REG"
+            id: "2102",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "364",
-            "group": "REG"
+            id: "364",
+            region: "REG",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3512",
-            "group": "REG"
+            id: "3512",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1102",
-            "group": "PCH"
+            id: "1102",
+            region: "PCH",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2655",
-            "group": "FNC"
+            id: "2655",
+            region: "FNC",
+            years: ["2018", "2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3593",
-            "group": "REG"
+            id: "3593",
+            region: "REG",
+            years: ["2018"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2526",
-            "group": "REG"
+            id: "2526",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5404",
-            "group": "FMA"
+            id: "5404",
+            region: "FMA",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2852",
-            "group": "ONT"
+            id: "2852",
+            region: "ONT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2539",
-            "group": "FMA"
+            id: "2539",
+            region: "FMA",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5676",
-            "group": "FIM"
+            id: "5676",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1310",
-            "group": "ONT"
+            id: "1310",
+            region: "ONT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "614",
-            "group": "CHS"
+            id: "614",
+            region: "CHS",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5860",
-            "group": "FIM"
+            id: "5860",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "271",
-            "group": "REG"
+            id: "271",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1816",
-            "group": "REG"
+            id: "1816",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3750",
-            "group": "REG"
+            id: "3750",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3386",
-            "group": "REG"
+            id: "3386",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "619",
-            "group": "CHS"
+            id: "619",
+            region: "CHS",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5587",
-            "group": "CHS"
+            id: "5587",
+            region: "CHS",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2096",
-            "group": "ISR"
+            id: "2096",
+            region: "ISR",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1768",
-            "group": "NE"
+            id: "1768",
+            region: "NE",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1076",
-            "group": "FIM"
+            id: "1076",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "876",
-            "group": "REG"
+            id: "876",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4296",
-            "group": "REG"
+            id: "4296",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "107",
-            "group": "FIM"
+            id: "107",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1610",
-            "group": "CHS"
+            id: "1610",
+            region: "CHS",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2851",
-            "group": "FIM"
+            id: "2851",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "967",
-            "group": "REG"
+            id: "967",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5509",
-            "group": "FIM"
+            id: "5509",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1501",
-            "group": "FIN"
+            id: "1501",
+            region: "FIN",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4213",
-            "group": "REG"
+            id: "4213",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "126",
-            "group": "NE"
+            id: "126",
+            region: "NE",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "223",
-            "group": "FMA"
+            id: "223",
+            region: "FMA",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5740",
-            "group": "REG"
+            id: "5740",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1729",
-            "group": "NE"
+            id: "1729",
+            region: "NE",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1787",
-            "group": "REG"
+            id: "1787",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4903",
-            "group": "ONT"
+            id: "4903",
+            region: "ONT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "172",
-            "group": "NE"
+            id: "172",
+            region: "NE",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2702",
-            "group": "ONT"
+            id: "2702",
+            region: "ONT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2994",
-            "group": "ONT"
+            id: "2994",
+            region: "ONT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5951",
-            "group": "ISR"
+            id: "5951",
+            region: "ISR",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "771",
-            "group": "ONT"
+            id: "771",
+            region: "ONT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "250",
-            "group": "REG"
+            id: "250",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5084",
-            "group": "FIM"
+            id: "5084",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "103",
-            "group": "FMA"
+            id: "103",
+            region: "FMA",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3555",
-            "group": "NE"
+            id: "3555",
+            region: "NE",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3572",
-            "group": "FIM"
+            id: "3572",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1262",
-            "group": "CHS"
+            id: "1262",
+            region: "CHS",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6569",
-            "group": "FIM"
+            id: "6569",
+            region: "FIM",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1153",
-            "group": "NE"
+            id: "1153",
+            region: "NE",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4909",
-            "group": "NE"
+            id: "4909",
+            region: "NE",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6909",
-            "group": "REG"
+            id: "6909",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4907",
-            "group": "ONT"
+            id: "4907",
+            region: "ONT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7457",
-            "group": "FIN"
+            id: "7457",
+            region: "FIN",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2358",
-            "group": "REG"
+            id: "2358",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3986",
-            "group": "REG"
+            id: "3986",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2534",
-            "group": "CHS"
+            id: "2534",
+            region: "CHS",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3324",
-            "group": "REG"
+            id: "3324",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4338",
-            "group": "ISR"
+            id: "4338",
+            region: "ISR",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4534",
-            "group": "FNC"
+            id: "4534",
+            region: "FNC",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1515",
-            "group": "REG"
+            id: "1515",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3931",
-            "group": "REG"
+            id: "3931",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6443",
-            "group": "PNW"
+            id: "6443",
+            region: "PNW",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7426",
-            "group": "REG"
+            id: "7426",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2811",
-            "group": "PNW"
+            id: "2811",
+            region: "PNW",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7108",
-            "group": "REG"
+            id: "7108",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7796",
-            "group": "REG"
+            id: "7796",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4079",
-            "group": "REG"
+            id: "4079",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2881",
-            "group": "FIT"
+            id: "2881",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2183",
-            "group": "REG"
+            id: "2183",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5414",
-            "group": "FIT"
+            id: "5414",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4565",
-            "group": "REG"
+            id: "4565",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4469",
-            "group": "PNW"
+            id: "4469",
+            region: "PNW",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4414",
-            "group": "REG"
+            id: "4414",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6768",
-            "group": "TX"
+            id: "6768",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2152",
-            "group": "REG"
+            id: "2152",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "114",
-            "group": "REG"
+            id: "114",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5801",
-            "group": "REG"
+            id: "5801",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6418",
-            "group": "REG"
+            id: "6418",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4026",
-            "group": "PCH"
+            id: "4026",
+            region: "PCH",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5511",
-            "group": "FNC"
+            id: "5511",
+            region: "FNC",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7446",
-            "group": "REG"
+            id: "7446",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6485",
-            "group": "REG"
+            id: "6485",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4192",
-            "group": "FIT"
+            id: "4192",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2714",
-            "group": "FIT"
+            id: "2714",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7427",
-            "group": "PCH"
+            id: "7427",
+            region: "PCH",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2158",
-            "group": "FIT"
+            id: "2158",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7121",
-            "group": "FIT"
+            id: "7121",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "59",
-            "group": "REG"
+            id: "59",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6907",
-            "group": "REG"
+            id: "6907",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4087",
-            "group": "REG"
+            id: "4087",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4043",
-            "group": "PNW"
+            id: "4043",
+            region: "PNW",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6919",
-            "group": "PCH"
+            id: "6919",
+            region: "PCH",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4020",
-            "group": "REG"
+            id: "4020",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3635",
-            "group": "PCH"
+            id: "3635",
+            region: "PCH",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3598",
-            "group": "REG"
+            id: "3598",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5109",
-            "group": "PCH"
+            id: "5109",
+            region: "PCH",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4415",
-            "group": "REG"
+            id: "4415",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5312",
-            "group": "REG"
+            id: "5312",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7521",
-            "group": "TX"
+            id: "7521",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5015",
-            "group": "REG"
+            id: "5015",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "233",
-            "group": "REG"
+            id: "233",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7887",
-            "group": "REG"
+            id: "7887",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "932",
-            "group": "REG"
+            id: "932",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6829",
-            "group": "PCH"
+            id: "6829",
+            region: "PCH",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6647",
-            "group": "REG"
+            id: "6647",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5411",
-            "group": "FIT"
+            id: "5411",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1658",
-            "group": "REG"
+            id: "1658",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7498",
-            "group": "REG"
+            id: "7498",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6364",
-            "group": "REG"
+            id: "6364",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4005",
-            "group": "REG"
+            id: "4005",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1771",
-            "group": "PCH"
+            id: "1771",
+            region: "PCH",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6304",
-            "group": "REG"
+            id: "6304",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3881",
-            "group": "REG"
+            id: "3881",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2412",
-            "group": "PNW"
+            id: "2412",
+            region: "PNW",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "4336",
-            "group": "REG"
+            id: "4336",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6803",
-            "group": "REG"
+            id: "6803",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6986",
-            "group": "REG"
+            id: "6986",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7621",
-            "group": "FIT"
+            id: "7621",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2582",
-            "group": "FIT"
+            id: "2582",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "7308",
-            "group": "REG"
+            id: "7308",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1094",
-            "group": "REG"
+            id: "1094",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "2733",
-            "group": "PNW"
+            id: "2733",
+            region: "PNW",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "5930",
-            "group": "REG"
+            id: "5930",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "1726",
-            "group": "REG"
+            id: "1726",
+            region: "REG",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6672",
-            "group": "FIT"
+            id: "6672",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "3196",
-            "group": "FNC"
+            id: "3196",
+            region: "FNC",
+            years: ["2019"],
+            visible: true,
+            color: "",
         },
         {
-            "id": "6321",
-            "group": "FIT"
-        }
+            id: "6321",
+            region: "FIT",
+            years: ["2019"],
+            visible: true,
+            color: "",
+        },
     ],
-    "links": [
+    links: [
         {
-            "source": "231",
-            "target": "2059",
-            "label": "2017carv"
+            source: "118",
+            target: "1678",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "2451",
-            "label": "2018dar"
+            source: "75",
+            target: "6763",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "5431",
-            "target": "281",
-            "label": "2017hop"
+            source: "3647",
+            target: "3616",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "418",
-            "label": "2018carv"
+            source: "78",
+            target: "177",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "4795",
-            "label": "2018carv"
+            source: "5690",
+            target: "2062",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "6329",
-            "target": "4961",
-            "label": "2017cars"
+            source: "103",
+            target: "449",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2521",
-            "target": "1710",
-            "label": "2018roe"
+            source: "70",
+            target: "1880",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "238",
-            "target": "5980",
-            "label": "2018tes"
+            source: "1610",
+            target: "177",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "179",
-            "target": "3674",
-            "label": "2017carv"
+            source: "4946",
+            target: "2791",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "5199",
-            "target": "1619",
-            "label": "2019tur"
+            source: "5015",
+            target: "233",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "2054",
-            "target": "1741",
-            "label": "2018cur"
+            source: "4488",
+            target: "281",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "3309",
-            "target": "1251",
-            "label": "2018new"
+            source: "2168",
+            target: "4590",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2468",
-            "target": "5414",
-            "label": "2019gal"
+            source: "118",
+            target: "5006",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2502",
-            "target": "1736",
-            "label": "2018cars"
+            source: "1533",
+            target: "3593",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "2611",
-            "target": "2363",
-            "label": "2017arc"
+            source: "1690",
+            target: "5803",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "5818",
-            "target": "2630",
-            "label": "2018tur"
+            source: "4003",
+            target: "4961",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "6009",
-            "target": "4039",
-            "label": "2017cur"
+            source: "1885",
+            target: "4541",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "2471",
-            "target": "5109",
-            "label": "2019new"
+            source: "3489",
+            target: "7039",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "469",
-            "target": "3539",
-            "label": "2018dal"
+            source: "4587",
+            target: "1311",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "971",
-            "target": "1251",
-            "label": "2018new"
+            source: "865",
+            target: "4917",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1296",
-            "target": "2655",
-            "label": "2018tur"
+            source: "88",
+            target: "449",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4607",
-            "target": "2052",
-            "label": "2019cars"
+            source: "2073",
+            target: "1156",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1241",
-            "target": "2869",
-            "label": "2018tes"
+            source: "2412",
+            target: "1318",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "2102",
-            "target": "364",
-            "label": "2018tur"
+            source: "5654",
+            target: "4112",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2062",
-            "target": "2869",
-            "label": "2019dal"
+            source: "3464",
+            target: "51",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "2333",
-            "target": "3959",
-            "label": "2017gal"
+            source: "6328",
+            target: "303",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "5172",
-            "target": "1796",
-            "label": "2019cars"
+            source: "3847",
+            target: "2907",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "115",
-            "target": "2468",
-            "label": "2017roe"
+            source: "4910",
+            target: "2714",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "175",
-            "target": "1369",
-            "label": "2018carv"
+            source: "195",
+            target: "1073",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "4976",
-            "target": "4678",
-            "label": "2019arc"
+            source: "2175",
+            target: "316",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "5012",
-            "target": "3478",
-            "label": "2019tur"
+            source: "225",
+            target: "25",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "3641",
-            "target": "525",
-            "label": "2018tes"
+            source: "2486",
+            target: "86",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1323",
-            "target": "2473",
-            "label": "2017tur"
+            source: "3512",
+            target: "2231",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "4976",
-            "target": "4678",
-            "label": "2017dal"
+            source: "5987",
+            target: "1421",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2877",
-            "target": "188",
-            "label": "2018dal"
+            source: "503",
+            target: "4143",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "368",
-            "target": "7796",
-            "label": "2019carv"
+            source: "1577",
+            target: "4338",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "747",
-            "target": "5436",
-            "label": "2019cars"
+            source: "4087",
+            target: "4043",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "4079",
-            "target": "2881",
-            "label": "2019carv"
+            source: "5817",
+            target: "2468",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1018",
-            "target": "578",
-            "label": "2018dar"
+            source: "3641",
+            target: "4618",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2614",
-            "target": "2590",
-            "label": "2018tes"
+            source: "4944",
+            target: "1369",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "5015",
-            "target": "3674",
-            "label": "2019new"
+            source: "176",
+            target: "3274",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "832",
-            "target": "4965",
-            "label": "2017hop"
+            source: "2590",
+            target: "4779",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "1310",
-            "target": "4004",
-            "label": "2019arc"
+            source: "3476",
+            target: "1778",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "772",
-            "target": "3274",
-            "label": "2018dar"
+            source: "340",
+            target: "319",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1684",
-            "target": "3314",
-            "label": "2018cur"
+            source: "744",
+            target: "5012",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1806",
-            "target": "7179",
-            "label": "2018tur"
+            source: "115",
+            target: "2468",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1533",
-            "target": "2655",
-            "label": "2018tur"
+            source: "5050",
+            target: "4607",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "3847",
-            "label": "2017new"
+            source: "2337",
+            target: "2363",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "4003",
-            "target": "4961",
-            "label": "2017cars"
+            source: "1787",
+            target: "3414",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "271",
-            "target": "4391",
-            "label": "2019arc"
+            source: "5406",
+            target: "1310",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2928",
-            "target": "7446",
-            "label": "2019gal"
+            source: "1678",
+            target: "7179",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "5429",
-            "label": "2017hop"
+            source: "86",
+            target: "4080",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2708",
-            "target": "4027",
-            "label": "2018dal"
+            source: "1323",
+            target: "1778",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "4592",
-            "target": "5026",
-            "label": "2017roe"
+            source: "4206",
+            target: "5960",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3937",
-            "target": "701",
-            "label": "2018gal"
+            source: "6429",
+            target: "1939",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "5104",
-            "target": "6424",
-            "label": "2018new"
+            source: "1986",
+            target: "2478",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "386",
-            "target": "4904",
-            "label": "2017gal"
+            source: "5892",
+            target: "2183",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "176",
-            "target": "5740",
-            "label": "2019dal"
+            source: "747",
+            target: "5436",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "1325",
-            "target": "4476",
-            "label": "2017arc"
+            source: "1305",
+            target: "4256",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "384",
-            "target": "191",
-            "label": "2018cars"
+            source: "172",
+            target: "3075",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "1939",
-            "label": "2018gal"
+            source: "624",
+            target: "5554",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5654",
-            "target": "4112",
-            "label": "2017gal"
+            source: "5172",
+            target: "2834",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2522",
-            "target": "2576",
-            "label": "2018roe"
+            source: "67",
+            target: "2096",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4087",
-            "target": "2992",
-            "label": "2019hop"
+            source: "1323",
+            target: "4201",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "281",
-            "label": "2017hop"
+            source: "2052",
+            target: "1741",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "3039",
-            "target": "2881",
-            "label": "2019carv"
+            source: "3452",
+            target: "230",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "4776",
-            "target": "2830",
-            "label": "2018arc"
+            source: "2481",
+            target: "4678",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4976",
-            "target": "2614",
-            "label": "2017dal"
+            source: "217",
+            target: "4967",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "1296",
-            "target": "1323",
-            "label": "2017tur"
+            source: "4334",
+            target: "3256",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2231",
-            "target": "5860",
-            "label": "2019arc"
+            source: "910",
+            target: "5860",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2848",
-            "target": "1868",
-            "label": "2017hop"
+            source: "2708",
+            target: "4027",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "4814",
-            "target": "2648",
-            "label": "2017dar"
+            source: "1425",
+            target: "418",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1519",
-            "target": "401",
-            "label": "2019cur"
+            source: "71",
+            target: "230",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1577",
-            "target": "4125",
-            "label": "2017carv"
+            source: "133",
+            target: "3604",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "4125",
-            "target": "5468",
-            "label": "2019tur"
+            source: "2485",
+            target: "649",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2168",
-            "target": "2474",
-            "label": "2018tes"
+            source: "2642",
+            target: "3316",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "6090",
-            "label": "2018tes"
+            source: "6009",
+            target: "2609",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "3478",
-            "target": "386",
-            "label": "2017gal"
+            source: "3284",
+            target: "3970",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "2473",
-            "target": "6554",
-            "label": "2017tur"
+            source: "1640",
+            target: "2137",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "3641",
-            "target": "2611",
-            "label": "2019dal"
+            source: "4336",
+            target: "2642",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1519",
-            "target": "3414",
-            "label": "2017tes"
+            source: "1241",
+            target: "2869",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "6072",
-            "target": "6106",
-            "label": "2018roe"
+            source: "3473",
+            target: "3663",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1538",
-            "target": "5437",
-            "label": "2017gal"
+            source: "2231",
+            target: "3211",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "222",
-            "target": "614",
-            "label": "2019arc"
+            source: "5437",
+            target: "2522",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1712",
-            "target": "5172",
-            "label": "2018tes"
+            source: "4468",
+            target: "5960",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "1732",
-            "target": "4253",
-            "label": "2017cars"
+            source: "2767",
+            target: "2708",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "294",
-            "target": "1251",
-            "label": "2019roe"
+            source: "503",
+            target: "1018",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "399",
-            "target": "973",
-            "label": "2018hop"
+            source: "3310",
+            target: "118",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4265",
-            "target": "5803",
-            "label": "2018carv"
+            source: "1023",
+            target: "1025",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "2468",
-            "target": "701",
-            "label": "2018gal"
+            source: "862",
+            target: "2338",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "203",
-            "target": "1807",
-            "label": "2017cur"
+            source: "364",
+            target: "330",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "3476",
-            "target": "1072",
-            "label": "2019hop"
+            source: "3255",
+            target: "1533",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "4336",
-            "target": "2642",
-            "label": "2019roe"
+            source: "1778",
+            target: "4513",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "333",
-            "label": "2018cur"
+            source: "2539",
+            target: "5687",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "176",
-            "target": "2200",
-            "label": "2019dal"
+            source: "1058",
+            target: "2137",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2403",
-            "target": "5930",
-            "label": "2019tur"
+            source: "51",
+            target: "245",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4028",
-            "target": "236",
-            "label": "2017dar"
+            source: "2338",
+            target: "5505",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2412",
-            "target": "1318",
-            "label": "2019roe"
+            source: "4488",
+            target: "2928",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "1323",
-            "target": "6554",
-            "label": "2017tur"
+            source: "16",
+            target: "2221",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "6328",
-            "target": "3656",
-            "label": "2018arc"
+            source: "868",
+            target: "5084",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "118",
-            "target": "2147",
-            "label": "2019carv"
+            source: "2046",
+            target: "4192",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "2630",
-            "target": "4941",
-            "label": "2018tur"
+            source: "2990",
+            target: "3223",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "3250",
-            "target": "2073",
-            "label": "2018roe"
+            source: "1678",
+            target: "1723",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5024",
-            "target": "2052",
-            "label": "2017cars"
+            source: "2152",
+            target: "114",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "5458",
-            "target": "5429",
-            "label": "2017hop"
+            source: "3245",
+            target: "1902",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "696",
-            "label": "2017new"
+            source: "51",
+            target: "236",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4028",
-            "target": "365",
-            "label": "2018dar"
+            source: "6569",
+            target: "1153",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "4265",
-            "target": "3140",
-            "label": "2017roe"
+            source: "1574",
+            target: "418",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "359",
-            "target": "3489",
-            "label": "2018hop"
+            source: "4855",
+            target: "245",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "291",
-            "target": "1360",
-            "label": "2018tes"
+            source: "1619",
+            target: "4061",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "222",
-            "target": "1025",
-            "label": "2019arc"
+            source: "2122",
+            target: "6314",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "910",
-            "target": "2054",
-            "label": "2019arc"
+            source: "4592",
+            target: "5026",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "971",
-            "target": "3481",
-            "label": "2018new"
+            source: "604",
+            target: "2073",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "118",
-            "target": "5892",
-            "label": "2017new"
+            source: "176",
+            target: "177",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "3339",
-            "target": "4028",
-            "label": "2019cur"
+            source: "5460",
+            target: "1718",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1325",
-            "target": "2016",
-            "label": "2018arc"
+            source: "1076",
+            target: "876",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "5172",
-            "target": "1506",
-            "label": "2018tes"
+            source: "3683",
+            target: "2084",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "118",
-            "target": "4188",
-            "label": "2017new"
+            source: "4003",
+            target: "133",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4911",
-            "target": "118",
-            "label": "2019carv"
+            source: "2194",
+            target: "25",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "4917",
-            "target": "3929",
-            "label": "2017cur"
+            source: "4451",
+            target: "3245",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "5687",
-            "target": "1796",
-            "label": "2017cars"
+            source: "5417",
+            target: "5802",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "2337",
-            "target": "2363",
-            "label": "2017arc"
+            source: "2062",
+            target: "340",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4910",
-            "target": "6314",
-            "label": "2017carv"
+            source: "1259",
+            target: "1559",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2046",
-            "target": "2907",
-            "label": "2017tur"
+            source: "4776",
+            target: "2200",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "971",
-            "target": "498",
-            "label": "2019gal"
+            source: "148",
+            target: "3464",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "2851",
-            "target": "1023",
-            "label": "2019cur"
+            source: "4237",
+            target: "3538",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1610",
-            "target": "177",
-            "label": "2019cur"
+            source: "2576",
+            target: "27",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "6569",
-            "target": "1153",
-            "label": "2019tes"
+            source: "1540",
+            target: "4270",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "1796",
-            "target": "3750",
-            "label": "2019cars"
+            source: "494",
+            target: "4272",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "234",
-            "target": "5234",
-            "label": "2018dar"
+            source: "1661",
+            target: "3737",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "2539",
-            "target": "384",
-            "label": "2019arc"
+            source: "3928",
+            target: "4392",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "3674",
-            "target": "4256",
-            "label": "2018gal"
+            source: "6705",
+            target: "4561",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "5842",
-            "target": "1622",
-            "label": "2017new"
+            source: "494",
+            target: "1918",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "3620",
-            "target": "6909",
-            "label": "2019tes"
+            source: "5472",
+            target: "1540",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "229",
-            "target": "5036",
-            "label": "2017dar"
+            source: "1023",
+            target: "967",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "5805",
-            "label": "2018carv"
+            source: "364",
+            target: "1339",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2791",
-            "target": "2834",
-            "label": "2018dar"
+            source: "1076",
+            target: "2370",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "1729",
-            "target": "3414",
-            "label": "2019dal"
+            source: "1986",
+            target: "4635",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "846",
-            "target": "1806",
-            "label": "2019new"
+            source: "3008",
+            target: "1622",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "190",
-            "target": "3284",
-            "label": "2017tes"
+            source: "3997",
+            target: "3245",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "71",
-            "target": "422",
-            "label": "2018cars"
+            source: "1519",
+            target: "401",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "70",
-            "label": "2018cur"
+            source: "1577",
+            target: "4125",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "78",
-            "target": "1241",
-            "label": "2019cur"
+            source: "1640",
+            target: "3015",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1746",
-            "target": "4125",
-            "label": "2017carv"
+            source: "4561",
+            target: "1339",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2590",
-            "target": "708",
-            "label": "2018tes"
+            source: "125",
+            target: "597",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "67",
-            "target": "2137",
-            "label": "2017arc"
+            source: "4976",
+            target: "27",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4541",
-            "target": "5422",
-            "label": "2018arc"
+            source: "2930",
+            target: "2557",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "7498",
-            "target": "6364",
-            "label": "2019roe"
+            source: "180",
+            target: "2283",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "418",
-            "target": "2485",
-            "label": "2017roe"
+            source: "27",
+            target: "2708",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1102",
-            "target": "4488",
-            "label": "2019gal"
+            source: "3130",
+            target: "193",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "2834",
-            "target": "3339",
-            "label": "2019cur"
+            source: "3616",
+            target: "1156",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "494",
-            "target": "3098",
-            "label": "2017cur"
+            source: "2164",
+            target: "141",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "862",
-            "target": "1676",
-            "label": "2017dal"
+            source: "3128",
+            target: "5431",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2478",
-            "target": "4469",
-            "label": "2019gal"
+            source: "4206",
+            target: "4587",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3542",
-            "target": "250",
-            "label": "2019dar"
+            source: "1806",
+            target: "694",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "708",
-            "target": "910",
-            "label": "2017dal"
+            source: "4265",
+            target: "1466",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "687",
-            "target": "6474",
-            "label": "2018new"
+            source: "3667",
+            target: "5114",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "987",
-            "label": "2019cur"
+            source: "230",
+            target: "5687",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1658",
-            "target": "3737",
-            "label": "2019roe"
+            source: "2062",
+            target: "1806",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2412",
-            "target": "1296",
-            "label": "2019roe"
+            source: "4499",
+            target: "5006",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2630",
-            "target": "4112",
-            "label": "2017gal"
+            source: "5687",
+            target: "597",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "4513",
-            "target": "4915",
-            "label": "2017hop"
+            source: "3309",
+            target: "4944",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4004",
-            "target": "191",
-            "label": "2018cars"
+            source: "1533",
+            target: "2655",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "5687",
-            "target": "5676",
-            "label": "2019arc"
+            source: "3316",
+            target: "1710",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "2930",
-            "target": "3674",
-            "label": "2017carv"
+            source: "2791",
+            target: "1807",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1778",
-            "target": "2682",
-            "label": "2017hop"
+            source: "399",
+            target: "5677",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "2521",
-            "target": "488",
-            "label": "2018roe"
+            source: "4488",
+            target: "5431",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "230",
-            "target": "1720",
-            "label": "2017cur"
+            source: "314",
+            target: "5114",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "6485",
-            "label": "2019hop"
+            source: "4391",
+            target: "3277",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "5437",
-            "target": "2576",
-            "label": "2018roe"
+            source: "368",
+            target: "4256",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3928",
-            "target": "4391",
-            "label": "2017dar"
+            source: "1756",
+            target: "1322",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "4063",
-            "target": "2059",
-            "label": "2017carv"
+            source: "1241",
+            target: "6090",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3647",
-            "target": "1251",
-            "label": "2019roe"
+            source: "3542",
+            target: "1018",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "6328",
-            "target": "303",
-            "label": "2018arc"
+            source: "217",
+            target: "1218",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "5414",
-            "target": "4565",
-            "label": "2019gal"
+            source: "6445",
+            target: "386",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "6377",
-            "target": "3128",
-            "label": "2018new"
+            source: "1058",
+            target: "67",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "3542",
-            "target": "1018",
-            "label": "2018dar"
+            source: "4188",
+            target: "5985",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "5050",
-            "target": "111",
-            "label": "2019cars"
+            source: "7796",
+            target: "587",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "319",
-            "target": "238",
-            "label": "2018tes"
+            source: "1671",
+            target: "1746",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "1425",
-            "target": "4795",
-            "label": "2018carv"
+            source: "2231",
+            target: "5860",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4191",
-            "target": "3959",
-            "label": "2018roe"
+            source: "3707",
+            target: "70",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "4587",
-            "target": "5414",
-            "label": "2019gal"
+            source: "2619",
+            target: "4485",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "365",
-            "target": "5614",
-            "label": "2017roe"
+            source: "832",
+            target: "4941",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "67",
-            "target": "1114",
-            "label": "2018arc"
+            source: "67",
+            target: "4557",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "6672",
-            "target": "3196",
-            "label": "2019tur"
+            source: "5554",
+            target: "5654",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "177",
-            "target": "772",
-            "label": "2018dar"
+            source: "498",
+            target: "368",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2046",
-            "target": "364",
-            "label": "2018tur"
+            source: "2337",
+            target: "222",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "1414",
-            "label": "2017roe"
+            source: "5050",
+            target: "133",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5050",
-            "target": "3940",
-            "label": "2018cars"
+            source: "2481",
+            target: "2791",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "281",
-            "target": "5588",
-            "label": "2017hop"
+            source: "4946",
+            target: "3929",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "120",
-            "target": "2130",
-            "label": "2018tur"
+            source: "4481",
+            target: "1391",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5050",
-            "target": "4607",
-            "label": "2019cars"
+            source: "223",
+            target: "5740",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1730",
-            "target": "4779",
-            "label": "2017arc"
+            source: "2869",
+            target: "6090",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2363",
-            "target": "222",
-            "label": "2017arc"
+            source: "1684",
+            target: "303",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "4468",
-            "target": "2367",
-            "label": "2018new"
+            source: "1533",
+            target: "1296",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "2403",
-            "target": "5663",
-            "label": "2018new"
+            source: "494",
+            target: "3098",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "2383",
-            "target": "5985",
-            "label": "2018roe"
+            source: "2054",
+            target: "379",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "230",
-            "label": "2019cur"
+            source: "587",
+            target: "368",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "701",
-            "target": "3959",
-            "label": "2017gal"
+            source: "4911",
+            target: "2910",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "1902",
-            "label": "2018hop"
+            source: "180",
+            target: "4415",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "3683",
-            "target": "2537",
-            "label": "2017tes"
+            source: "386",
+            target: "4904",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "987",
-            "target": "2607",
-            "label": "2019cur"
+            source: "230",
+            target: "4814",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "245",
-            "target": "188",
-            "label": "2017arc"
+            source: "225",
+            target: "865",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2834",
-            "target": "3461",
-            "label": "2018dar"
+            source: "1747",
+            target: "4607",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "108",
-            "label": "2018carv"
+            source: "2771",
+            target: "245",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2851",
-            "target": "967",
-            "label": "2019cur"
+            source: "3008",
+            target: "3489",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "4946",
-            "target": "2169",
-            "label": "2017cur"
+            source: "1806",
+            target: "7179",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "6538",
-            "target": "2607",
-            "label": "2017tes"
+            source: "188",
+            target: "3539",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "6672",
-            "target": "4513",
-            "label": "2019tur"
+            source: "3881",
+            target: "1296",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5104",
-            "target": "3476",
-            "label": "2017tur"
+            source: "5104",
+            target: "3476",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "1156",
-            "target": "456",
-            "label": "2018hop"
+            source: "2486",
+            target: "4080",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4522",
-            "target": "3284",
-            "label": "2019tur"
+            source: "384",
+            target: "1511",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "4237",
-            "target": "3538",
-            "label": "2017cars"
+            source: "2502",
+            target: "4253",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5567",
-            "target": "1506",
-            "label": "2018tes"
+            source: "2771",
+            target: "1885",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "4911",
-            "target": "5006",
-            "label": "2019carv"
+            source: "1806",
+            target: "2478",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "4587",
-            "target": "2468",
-            "label": "2019gal"
+            source: "1114",
+            target: "5436",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "3098",
-            "target": "4618",
-            "label": "2018tes"
+            source: "4336",
+            target: "6803",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "930",
-            "label": "2019arc"
+            source: "5172",
+            target: "1629",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "3572",
-            "target": "1153",
-            "label": "2019tes"
+            source: "701",
+            target: "5572",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3539",
-            "target": "401",
-            "label": "2018dal"
+            source: "2383",
+            target: "4188",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "2168",
-            "target": "3015",
-            "label": "2017tes"
+            source: "245",
+            target: "236",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "3314",
-            "target": "1410",
-            "label": "2017hop"
+            source: "1325",
+            target: "1720",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "59",
-            "target": "4499",
-            "label": "2019hop"
+            source: "5567",
+            target: "1506",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1671",
-            "target": "6919",
-            "label": "2019hop"
+            source: "1983",
+            target: "233",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "314",
-            "label": "2017dar"
+            source: "5104",
+            target: "1011",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "525",
-            "target": "4618",
-            "label": "2018tes"
+            source: "2358",
+            target: "4590",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "1595",
-            "target": "2907",
-            "label": "2017tur"
+            source: "234",
+            target: "2609",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "7152",
-            "target": "2576",
-            "label": "2018roe"
+            source: "1318",
+            target: "2907",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "1018",
-            "target": "5053",
-            "label": "2017cars"
+            source: "1391",
+            target: "365",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4469",
-            "target": "6800",
-            "label": "2019gal"
+            source: "4079",
+            target: "2881",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "6334",
-            "label": "2017arc"
+            source: "4392",
+            target: "2202",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "610",
-            "label": "2017dar"
+            source: "829",
+            target: "191",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "4469",
-            "label": "2019gal"
+            source: "1024",
+            target: "4308",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3683",
-            "target": "1468",
-            "label": "2018dal"
+            source: "3737",
+            target: "1540",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3598",
-            "target": "5109",
-            "label": "2019new"
+            source: "78",
+            target: "131",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "900",
-            "target": "5012",
-            "label": "2017new"
+            source: "1310",
+            target: "4004",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4537",
-            "target": "6579",
-            "label": "2017gal"
+            source: "230",
+            target: "1720",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "2075",
-            "target": "2869",
-            "label": "2019dal"
+            source: "3476",
+            target: "1072",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1676",
-            "target": "2791",
-            "label": "2019dar"
+            source: "1796",
+            target: "245",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2200",
-            "target": "2830",
-            "label": "2018arc"
+            source: "6328",
+            target: "3656",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "5987",
-            "target": "5458",
-            "label": "2018carv"
+            source: "1296",
+            target: "2655",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1325",
-            "target": "870",
-            "label": "2018arc"
+            source: "3309",
+            target: "3931",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4513",
-            "target": "5663",
-            "label": "2018new"
+            source: "971",
+            target: "179",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "7457",
-            "target": "4476",
-            "label": "2019tes"
+            source: "6485",
+            target: "4192",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "4003",
-            "target": "6329",
-            "label": "2017cars"
+            source: "1729",
+            target: "3414",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1746",
-            "target": "2811",
-            "label": "2019carv"
+            source: "6672",
+            target: "4451",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "2960",
-            "target": "3620",
-            "label": "2017dal"
+            source: "1318",
+            target: "2046",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3847",
-            "target": "5012",
-            "label": "2017new"
+            source: "2056",
+            target: "1241",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2471",
-            "target": "2130",
-            "label": "2018tur"
+            source: "2767",
+            target: "1676",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "3824",
-            "target": "1072",
-            "label": "2019hop"
+            source: "1506",
+            target: "4903",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "51",
-            "target": "2771",
-            "label": "2019dar"
+            source: "4189",
+            target: "5295",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "747",
-            "label": "2018dal"
+            source: "340",
+            target: "5980",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3310",
-            "target": "3719",
-            "label": "2017dar"
+            source: "1540",
+            target: "4415",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "5172",
-            "target": "3750",
-            "label": "2019cars"
+            source: "27",
+            target: "2614",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "1323",
-            "label": "2019new"
+            source: "3641",
+            target: "1574",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "8",
-            "target": "3140",
-            "label": "2017roe"
+            source: "2333",
+            target: "701",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1559",
-            "target": "58",
-            "label": "2018arc"
+            source: "4525",
+            target: "1418",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "3959",
-            "target": "5572",
-            "label": "2017gal"
+            source: "2791",
+            target: "2834",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "3238",
-            "target": "2637",
-            "label": "2017carv"
+            source: "1676",
+            target: "5951",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "1296",
-            "target": "6554",
-            "label": "2017tur"
+            source: "188",
+            target: "5404",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "548",
-            "target": "5401",
-            "label": "2019tes"
+            source: "2054",
+            target: "5860",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "6768",
-            "target": "5431",
-            "label": "2019gal"
+            source: "5818",
+            target: "4941",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3663",
-            "target": "6919",
-            "label": "2019hop"
+            source: "7498",
+            target: "6364",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "2930",
-            "target": "179",
-            "label": "2017carv"
+            source: "1425",
+            target: "3802",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "4939",
-            "target": "5413",
-            "label": "2017dar"
+            source: "4613",
+            target: "6429",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "5818",
-            "target": "4561",
-            "label": "2018tur"
+            source: "548",
+            target: "1418",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "342",
-            "target": "6800",
-            "label": "2018carv"
+            source: "7108",
+            target: "368",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4561",
-            "target": "1339",
-            "label": "2017roe"
+            source: "4125",
+            target: "5468",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4980",
-            "target": "3250",
-            "label": "2018roe"
+            source: "6502",
+            target: "3132",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "3959",
-            "target": "1983",
-            "label": "2018roe"
+            source: "3620",
+            target: "1322",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2930",
-            "target": "5012",
-            "label": "2019tur"
+            source: "179",
+            target: "3646",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "4003",
-            "target": "4541",
-            "label": "2018arc"
+            source: "342",
+            target: "3132",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "7887",
-            "target": "624",
-            "label": "2019new"
+            source: "2481",
+            target: "4976",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4590",
-            "target": "2403",
-            "label": "2017roe"
+            source: "5818",
+            target: "2630",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1671",
-            "target": "4125",
-            "label": "2017carv"
+            source: "1671",
+            target: "1577",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "364",
-            "target": "1339",
-            "label": "2019carv"
+            source: "619",
+            target: "2137",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4814",
-            "target": "4028",
-            "label": "2017dar"
+            source: "1421",
+            target: "5458",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1619",
-            "target": "4944",
-            "label": "2017hop"
+            source: "225",
+            target: "503",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "148",
-            "target": "2907",
-            "label": "2019roe"
+            source: "3546",
+            target: "2474",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3339",
-            "target": "2637",
-            "label": "2017carv"
+            source: "3256",
+            target: "599",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3735",
-            "target": "7121",
-            "label": "2019hop"
+            source: "836",
+            target: "5567",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2771",
-            "target": "1885",
-            "label": "2018cars"
+            source: "368",
+            target: "587",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "319",
-            "target": "2611",
-            "label": "2019dal"
+            source: "2990",
+            target: "3309",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "27",
-            "target": "2708",
-            "label": "2018dal"
+            source: "3937",
+            target: "2221",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "2054",
-            "target": "379",
-            "label": "2018cur"
+            source: "4039",
+            target: "694",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "3314",
-            "target": "3039",
-            "label": "2017hop"
+            source: "469",
+            target: "148",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5401",
-            "target": "2832",
-            "label": "2017cars"
+            source: "997",
+            target: "79",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "4522",
-            "target": "4188",
-            "label": "2018roe"
+            source: "1690",
+            target: "2974",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "1885",
-            "target": "229",
-            "label": "2017dar"
+            source: "4486",
+            target: "3255",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "5690",
-            "target": "2062",
-            "label": "2017dal"
+            source: "649",
+            target: "7308",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "747",
-            "target": "888",
-            "label": "2018dal"
+            source: "3572",
+            target: "1262",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "133",
-            "target": "3940",
-            "label": "2018cars"
+            source: "1678",
+            target: "3132",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "5499",
-            "target": "4265",
-            "label": "2019new"
+            source: "2791",
+            target: "3461",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "870",
-            "target": "3386",
-            "label": "2019cars"
+            source: "2590",
+            target: "1720",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "968",
-            "target": "2367",
-            "label": "2018new"
+            source: "1538",
+            target: "2576",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4539",
-            "target": "1468",
-            "label": "2018dal"
+            source: "179",
+            target: "5472",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3674",
-            "target": "1817",
-            "label": "2018gal"
+            source: "4043",
+            target: "2976",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "20",
-            "target": "303",
-            "label": "2019cur"
+            source: "3467",
+            target: "930",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "5813",
-            "target": "503",
-            "label": "2018cur"
+            source: "862",
+            target: "5505",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "4004",
-            "label": "2019arc"
+            source: "27",
+            target: "5205",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "1640",
-            "target": "422",
-            "label": "2018cars"
+            source: "1918",
+            target: "5567",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "3937",
-            "target": "5468",
-            "label": "2019tur"
+            source: "5172",
+            target: "1506",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "708",
-            "target": "1720",
-            "label": "2018tes"
+            source: "2502",
+            target: "1736",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "4039",
-            "target": "2702",
-            "label": "2019dal"
+            source: "2767",
+            target: "2607",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1807",
-            "target": "4213",
-            "label": "2019cur"
+            source: "5429",
+            target: "2587",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "3128",
-            "target": "5431",
-            "label": "2019gal"
+            source: "56",
+            target: "1391",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4980",
-            "target": "2073",
-            "label": "2018roe"
+            source: "900",
+            target: "5012",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "5050",
-            "target": "2052",
-            "label": "2019cars"
+            source: "525",
+            target: "4907",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2152",
-            "target": "114",
-            "label": "2019gal"
+            source: "2013",
+            target: "1189",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "4039",
-            "target": "234",
-            "label": "2017cur"
+            source: "2481",
+            target: "5036",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "2046",
-            "target": "4192",
-            "label": "2019hop"
+            source: "7621",
+            target: "2582",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "125",
-            "target": "4143",
-            "label": "2019dar"
+            source: "1640",
+            target: "422",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "3310",
-            "target": "948",
-            "label": "2019tur"
+            source: "2062",
+            target: "2075",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "107",
-            "label": "2019cur"
+            source: "1577",
+            target: "3324",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "5818",
-            "target": "2230",
-            "label": "2017hop"
+            source: "1986",
+            target: "302",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "5114",
-            "target": "2832",
-            "label": "2017cars"
+            source: "1519",
+            target: "191",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "148",
-            "target": "2976",
-            "label": "2018hop"
+            source: "1477",
+            target: "3635",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "2337",
-            "target": "578",
-            "label": "2018dar"
+            source: "469",
+            target: "610",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2084",
-            "target": "2537",
-            "label": "2017tes"
+            source: "2848",
+            target: "3847",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3005",
-            "target": "4201",
-            "label": "2018gal"
+            source: "3339",
+            target: "1706",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "4967",
-            "label": "2018cars"
+            source: "368",
+            target: "7796",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "1310",
-            "label": "2019arc"
+            source: "230",
+            target: "1675",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "4907",
-            "target": "7457",
-            "label": "2019tes"
+            source: "1156",
+            target: "456",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "141",
-            "target": "2706",
-            "label": "2018dal"
+            source: "744",
+            target: "900",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "5401",
-            "target": "2534",
-            "label": "2019tes"
+            source: "1671",
+            target: "4125",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "910",
-            "target": "5442",
-            "label": "2017dal"
+            source: "364",
+            target: "6445",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1806",
-            "target": "694",
-            "label": "2017dal"
+            source: "3473",
+            target: "1294",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "498",
-            "target": "587",
-            "label": "2017gal"
+            source: "7498",
+            target: "4005",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "3683",
-            "target": "3386",
-            "label": "2019cars"
+            source: "3309",
+            target: "1251",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "67",
-            "target": "2096",
-            "label": "2019cars"
+            source: "4613",
+            target: "5458",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1323",
-            "target": "5026",
-            "label": "2019new"
+            source: "5199",
+            target: "2582",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "971",
-            "target": "2974",
-            "label": "2017carv"
+            source: "1102",
+            target: "2928",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "1902",
-            "label": "2019new"
+            source: "4613",
+            target: "2587",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "948",
-            "label": "2017tur"
+            source: "1262",
+            target: "1153",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "2642",
-            "label": "2018tur"
+            source: "4678",
+            target: "5114",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2976",
-            "target": "2992",
-            "label": "2019hop"
+            source: "1937",
+            target: "3802",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "4590",
-            "target": "5026",
-            "label": "2017roe"
+            source: "2974",
+            target: "4026",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "1319",
-            "target": "4944",
-            "label": "2017hop"
+            source: "25",
+            target: "88",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "3339",
-            "target": "2974",
-            "label": "2018hop"
+            source: "231",
+            target: "4911",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "7308",
-            "target": "1094",
-            "label": "2019tur"
+            source: "195",
+            target: "1080",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "5468",
-            "target": "1937",
-            "label": "2017carv"
+            source: "4911",
+            target: "118",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1540",
-            "target": "4270",
-            "label": "2017tur"
+            source: "4414",
+            target: "6768",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3339",
-            "target": "1706",
-            "label": "2018hop"
+            source: "4256",
+            target: "5436",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "3707",
-            "target": "217",
-            "label": "2019dar"
+            source: "5155",
+            target: "449",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "3735",
-            "label": "2017new"
+            source: "3646",
+            target: "5472",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "231",
-            "target": "4911",
-            "label": "2017carv"
+            source: "1414",
+            target: "6508",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1885",
-            "target": "1507",
-            "label": "2018cars"
+            source: "4451",
+            target: "6831",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3005",
-            "target": "2659",
-            "label": "2018gal"
+            source: "20",
+            target: "1501",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "5026",
-            "target": "108",
-            "label": "2018carv"
+            source: "1425",
+            target: "7121",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1756",
-            "target": "2607",
-            "label": "2019cur"
+            source: "3674",
+            target: "1817",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3476",
-            "target": "1778",
-            "label": "2018roe"
+            source: "346",
+            target: "2534",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "624",
-            "target": "5654",
-            "label": "2018new"
+            source: "2200",
+            target: "1218",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "1318",
-            "target": "1595",
-            "label": "2017tur"
+            source: "192",
+            target: "368",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1506",
-            "target": "4903",
-            "label": "2019dal"
+            source: "2976",
+            target: "2992",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1538",
-            "target": "2848",
-            "label": "2018tur"
+            source: "3130",
+            target: "5234",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "4061",
-            "label": "2018new"
+            source: "4941",
+            target: "6340",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "3620",
-            "target": "141",
-            "label": "2017dal"
+            source: "1816",
+            target: "3750",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "6429",
-            "label": "2018gal"
+            source: "1986",
+            target: "3719",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "492",
-            "target": "5437",
-            "label": "2017gal"
+            source: "1706",
+            target: "1391",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "2084",
-            "label": "2017tes"
+            source: "4917",
+            target: "3357",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "226",
-            "target": "3875",
-            "label": "2017cur"
+            source: "111",
+            target: "3284",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1718",
-            "target": "6763",
-            "label": "2017dal"
+            source: "3737",
+            target: "4270",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "319",
-            "target": "3641",
-            "label": "2019dal"
+            source: "4143",
+            target: "2077",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "148",
-            "target": "6829",
-            "label": "2019roe"
+            source: "359",
+            target: "6060",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "6445",
-            "target": "386",
-            "label": "2017gal"
+            source: "88",
+            target: "3555",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2168",
-            "target": "4590",
-            "label": "2019tes"
+            source: "1619",
+            target: "1319",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "384",
-            "target": "4004",
-            "label": "2018cars"
+            source: "111",
+            target: "4607",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "6986",
-            "label": "2019tur"
+            source: "3419",
+            target: "4481",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3536",
-            "target": "78",
-            "label": "2018dar"
+            source: "172",
+            target: "4946",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "2200",
-            "target": "223",
-            "label": "2019dal"
+            source: "1746",
+            target: "2811",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "3542",
-            "target": "2337",
-            "label": "2019dar"
+            source: "3211",
+            target: "4201",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4522",
-            "target": "6321",
-            "label": "2019tur"
+            source: "449",
+            target: "3875",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "5813",
-            "target": "316",
-            "label": "2018cur"
+            source: "3103",
+            target: "5802",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "5312",
-            "label": "2019new"
+            source: "4607",
+            target: "2052",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "498",
-            "target": "192",
-            "label": "2017gal"
+            source: "5554",
+            target: "1982",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "469",
-            "target": "51",
-            "label": "2017tes"
+            source: "4265",
+            target: "3140",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "7427",
-            "target": "1987",
-            "label": "2019hop"
+            source: "3572",
+            target: "1153",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "399",
-            "target": "3476",
-            "label": "2017tur"
+            source: "229",
+            target: "74",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2152",
-            "target": "6418",
-            "label": "2019gal"
+            source: "1731",
+            target: "2771",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "4513",
-            "label": "2019tur"
+            source: "1675",
+            target: "1720",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1712",
-            "target": "5567",
-            "label": "2018tes"
+            source: "2960",
+            target: "2164",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2502",
-            "target": "3990",
-            "label": "2018cars"
+            source: "3641",
+            target: "3098",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "862",
-            "label": "2017dal"
+            source: "1661",
+            target: "4270",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "5404",
-            "target": "2852",
-            "label": "2019arc"
+            source: "1506",
+            target: "4391",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "4143",
-            "label": "2019dar"
+            source: "1718",
+            target: "6763",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2834",
-            "target": "4028",
-            "label": "2019cur"
+            source: "8",
+            target: "3140",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "6025",
-            "target": "1902",
-            "label": "2018hop"
+            source: "930",
+            target: "4004",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3620",
-            "target": "2164",
-            "label": "2017dal"
+            source: "1102",
+            target: "2231",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "4911",
-            "target": "2059",
-            "label": "2017carv"
+            source: "2960",
+            target: "67",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "3965",
-            "label": "2018gal"
+            source: "3452",
+            target: "2537",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1718",
-            "target": "5205",
-            "label": "2018cur"
+            source: "987",
+            target: "1756",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "6502",
-            "target": "342",
-            "label": "2018carv"
+            source: "7179",
+            target: "2478",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "5847",
-            "target": "70",
-            "label": "2017arc"
+            source: "868",
+            target: "4541",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "3467",
-            "target": "930",
-            "label": "2017arc"
+            source: "341",
+            target: "175",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "829",
-            "target": "3414",
-            "label": "2017tes"
+            source: "4939",
+            target: "5413",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1102",
-            "target": "2928",
-            "label": "2019gal"
+            source: "2468",
+            target: "701",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2590",
-            "target": "3314",
-            "label": "2019cars"
+            source: "1477",
+            target: "1622",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1629",
-            "target": "836",
-            "label": "2018dal"
+            source: "5406",
+            target: "930",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "176",
-            "target": "3274",
-            "label": "2018dar"
+            source: "6538",
+            target: "834",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1684",
-            "target": "1501",
-            "label": "2019cur"
+            source: "190",
+            target: "1023",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5803",
-            "target": "6919",
-            "label": "2019hop"
+            source: "5842",
+            target: "1622",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "2714",
-            "target": "7427",
-            "label": "2019hop"
+            source: "4272",
+            target: "3098",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "4516",
-            "target": "86",
-            "label": "2017gal"
+            source: "910",
+            target: "1025",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1251",
-            "target": "1410",
-            "label": "2019roe"
+            source: "1807",
+            target: "4213",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "3419",
-            "target": "1391",
-            "label": "2017tes"
+            source: "4910",
+            target: "6314",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "1676",
-            "target": "5951",
-            "label": "2019dar"
+            source: "188",
+            target: "4308",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1058",
-            "target": "2137",
-            "label": "2017arc"
+            source: "3452",
+            target: "3683",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5572",
-            "target": "3223",
-            "label": "2018hop"
+            source: "16",
+            target: "1425",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2046",
-            "target": "6445",
-            "label": "2018tur"
+            source: "2052",
+            target: "379",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "4334",
-            "target": "2471",
-            "label": "2017carv"
+            source: "1756",
+            target: "4237",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "148",
-            "label": "2018hop"
+            source: "225",
+            target: "88",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "503",
-            "target": "1018",
-            "label": "2017cars"
+            source: "1501",
+            target: "303",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "3476",
-            "target": "1323",
-            "label": "2018roe"
+            source: "4903",
+            target: "4541",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "3481",
-            "target": "1251",
-            "label": "2018new"
+            source: "5690",
+            target: "1806",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "1501",
-            "target": "303",
-            "label": "2019cur"
+            source: "1538",
+            target: "4026",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "2974",
-            "label": "2017carv"
+            source: "1730",
+            target: "3357",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "2485",
-            "label": "2018gal"
+            source: "4063",
+            target: "4911",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "4043",
-            "target": "2992",
-            "label": "2019hop"
+            source: "1414",
+            target: "744",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "4039",
-            "target": "694",
-            "label": "2019dal"
+            source: "2122",
+            target: "6485",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "4392",
-            "target": "2202",
-            "label": "2018arc"
+            source: "5024",
+            target: "20",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "3835",
-            "target": "5818",
-            "label": "2017hop"
+            source: "5468",
+            target: "1937",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "5499",
-            "target": "5458",
-            "label": "2018carv"
+            source: "3735",
+            target: "696",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "4063",
-            "target": "4911",
-            "label": "2017carv"
+            source: "67",
+            target: "5436",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "359",
-            "target": "4005",
-            "label": "2019roe"
+            source: "319",
+            target: "2611",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1574",
-            "target": "418",
-            "label": "2017roe"
+            source: "3397",
+            target: "3495",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4939",
-            "target": "131",
-            "label": "2017dar"
+            source: "910",
+            target: "2231",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1425",
-            "target": "418",
-            "label": "2018carv"
+            source: "1294",
+            target: "3663",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1640",
-            "target": "4391",
-            "label": "2019arc"
+            source: "3357",
+            target: "4130",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "3667",
-            "target": "5114",
-            "label": "2018tes"
+            source: "4415",
+            target: "5312",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "4910",
-            "target": "7427",
-            "label": "2019hop"
+            source: "2013",
+            target: "2706",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "971",
-            "label": "2017carv"
+            source: "870",
+            target: "3536",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2682",
-            "target": "4513",
-            "label": "2017hop"
+            source: "4405",
+            target: "5205",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "5190",
-            "target": "1533",
-            "label": "2019roe"
+            source: "3604",
+            target: "5567",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "865",
-            "target": "51",
-            "label": "2018dar"
+            source: "195",
+            target: "3538",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "4237",
-            "target": "1732",
-            "label": "2017cars"
+            source: "3473",
+            target: "6377",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "3719",
-            "label": "2017dar"
+            source: "2834",
+            target: "1629",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2073",
-            "target": "1156",
-            "label": "2017new"
+            source: "4776",
+            target: "222",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3357",
-            "target": "4967",
-            "label": "2018cars"
+            source: "1011",
+            target: "6424",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5458",
-            "target": "2587",
-            "label": "2017hop"
+            source: "3309",
+            target: "1515",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "5675",
-            "target": "1360",
-            "label": "2018tes"
+            source: "4253",
+            target: "3538",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "2826",
-            "target": "2852",
-            "label": "2019arc"
+            source: "2960",
+            target: "2096",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "1102",
-            "target": "2231",
-            "label": "2018tur"
+            source: "1323",
+            target: "5026",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "333",
-            "target": "70",
-            "label": "2018cur"
+            source: "5190",
+            target: "6647",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "494",
-            "target": "1918",
-            "label": "2017cur"
+            source: "2370",
+            target: "876",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4855",
-            "target": "1796",
-            "label": "2018dal"
+            source: "1712",
+            target: "5172",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2486",
-            "target": "86",
-            "label": "2017gal"
+            source: "4522",
+            target: "4188",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "3196",
-            "label": "2019tur"
+            source: "3324",
+            target: "4338",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "20",
-            "target": "910",
-            "label": "2018cur"
+            source: "1923",
+            target: "303",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2147",
-            "target": "5006",
-            "label": "2019carv"
+            source: "71",
+            target: "422",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "4944",
-            "target": "1369",
-            "label": "2018carv"
+            source: "5803",
+            target: "1671",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "469",
-            "target": "401",
-            "label": "2018dal"
+            source: "2642",
+            target: "488",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "3005",
-            "target": "4499",
-            "label": "2017gal"
+            source: "314",
+            target: "2370",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "4486",
-            "target": "1533",
-            "label": "2017new"
+            source: "7179",
+            target: "1939",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "3881",
-            "target": "2412",
-            "label": "2019roe"
+            source: "1477",
+            target: "5803",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "3245",
-            "target": "2147",
-            "label": "2017tur"
+            source: "75",
+            target: "1718",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4522",
-            "target": "1730",
-            "label": "2019tur"
+            source: "2539",
+            target: "5676",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3572",
-            "target": "6569",
-            "label": "2019tes"
+            source: "2102",
+            target: "2046",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "379",
-            "target": "1741",
-            "label": "2018cur"
+            source: "51",
+            target: "2771",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2059",
-            "target": "5985",
-            "label": "2019gal"
+            source: "2478",
+            target: "3316",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "294",
-            "target": "3647",
-            "label": "2019roe"
+            source: "5496",
+            target: "456",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4265",
-            "target": "7521",
-            "label": "2019new"
+            source: "3674",
+            target: "233",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "1425",
-            "label": "2018carv"
+            source: "3015",
+            target: "88",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "2221",
-            "label": "2017tur"
+            source: "2976",
+            target: "3075",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "386",
-            "target": "3039",
-            "label": "2019carv"
+            source: "2473",
+            target: "6554",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "1323",
-            "target": "4201",
-            "label": "2019new"
+            source: "4486",
+            target: "1533",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "587",
-            "target": "368",
-            "label": "2017gal"
+            source: "3310",
+            target: "3128",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4917",
-            "target": "4939",
-            "label": "2019tes"
+            source: "302",
+            target: "5712",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1241",
-            "target": "1511",
-            "label": "2017cur"
+            source: "1414",
+            target: "343",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2848",
-            "target": "2903",
-            "label": "2017hop"
+            source: "4786",
+            target: "1259",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "548",
-            "target": "2534",
-            "label": "2019tes"
+            source: "1640",
+            target: "5254",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5437",
-            "target": "2576",
-            "label": "2017gal"
+            source: "3015",
+            target: "4391",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3039",
-            "target": "4079",
-            "label": "2019carv"
+            source: "1018",
+            target: "578",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "2102",
-            "target": "687",
-            "label": "2019carv"
+            source: "2169",
+            target: "3929",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "4027",
-            "label": "2018dal"
+            source: "3735",
+            target: "7121",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "148",
-            "target": "3075",
-            "label": "2018hop"
+            source: "4500",
+            target: "5205",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "4020",
-            "target": "4063",
-            "label": "2019hop"
+            source: "846",
+            target: "2659",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "708",
-            "target": "5442",
-            "label": "2017dal"
+            source: "1619",
+            target: "3309",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1294",
-            "target": "6377",
-            "label": "2017new"
+            source: "3339",
+            target: "2637",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3250",
-            "target": "1730",
-            "label": "2018roe"
+            source: "2481",
+            target: "2451",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "5817",
-            "target": "3937",
-            "label": "2018gal"
+            source: "78",
+            target: "1610",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1577",
-            "target": "4338",
-            "label": "2019tes"
+            source: "4855",
+            target: "237",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1987",
-            "target": "1880",
-            "label": "2017arc"
+            source: "330",
+            target: "2659",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2478",
-            "target": "3316",
-            "label": "2017roe"
+            source: "1241",
+            target: "384",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "1619",
-            "label": "2018new"
+            source: "27",
+            target: "4678",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "910",
-            "target": "1025",
-            "label": "2018cur"
+            source: "5199",
+            target: "1619",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "6009",
-            "target": "234",
-            "label": "2017cur"
+            source: "254",
+            target: "1676",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "1648",
-            "target": "687",
-            "label": "2018new"
+            source: "4980",
+            target: "3250",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3419",
-            "target": "4481",
-            "label": "2017tes"
+            source: "1986",
+            target: "4469",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "4039",
-            "target": "2609",
-            "label": "2017cur"
+            source: "910",
+            target: "5442",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2451",
-            "target": "5036",
-            "label": "2018dar"
+            source: "2168",
+            target: "3546",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5199",
-            "target": "6474",
-            "label": "2018new"
+            source: "744",
+            target: "343",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "70",
-            "target": "1987",
-            "label": "2017arc"
+            source: "973",
+            target: "3284",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4003",
-            "target": "862",
-            "label": "2019dal"
+            source: "5654",
+            target: "2415",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1730",
-            "target": "2073",
-            "label": "2018roe"
+            source: "4587",
+            target: "4468",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "862",
-            "target": "1918",
-            "label": "2018cars"
+            source: "687",
+            target: "6474",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "27",
-            "target": "5205",
-            "label": "2019tes"
+            source: "4513",
+            target: "2403",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4911",
-            "target": "4499",
-            "label": "2018carv"
+            source: "968",
+            target: "2367",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4776",
-            "target": "222",
-            "label": "2019arc"
+            source: "6579",
+            target: "4499",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3494",
-            "target": "1018",
-            "label": "2017cars"
+            source: "2502",
+            target: "3990",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5155",
-            "target": "3875",
-            "label": "2017cur"
+            source: "3646",
+            target: "1540",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "6429",
-            "target": "1939",
-            "label": "2018gal"
+            source: "148",
+            target: "51",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "346",
-            "target": "5401",
-            "label": "2019tes"
+            source: "6996",
+            target: "6106",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3707",
-            "target": "333",
-            "label": "2018cur"
+            source: "1305",
+            target: "747",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4336",
-            "target": "6803",
-            "label": "2019roe"
+            source: "4910",
+            target: "7427",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "2370",
-            "label": "2017dar"
+            source: "846",
+            target: "842",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "5190",
-            "target": "6647",
-            "label": "2019roe"
+            source: "3707",
+            target: "4481",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "3316",
-            "target": "1710",
-            "label": "2018roe"
+            source: "558",
+            target: "3075",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "103",
-            "target": "88",
-            "label": "2019dar"
+            source: "2611",
+            target: "222",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "1339",
-            "label": "2019carv"
+            source: "4944",
+            target: "341",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "5437",
-            "target": "7152",
-            "label": "2018roe"
+            source: "1902",
+            target: "2283",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "5675",
-            "target": "4039",
-            "label": "2018tes"
+            source: "3005",
+            target: "4265",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "343",
-            "label": "2018carv"
+            source: "3452",
+            target: "876",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "3881",
-            "target": "1296",
-            "label": "2019roe"
+            source: "125",
+            target: "5687",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "5499",
-            "label": "2017roe"
+            source: "1747",
+            target: "6909",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "5987",
-            "target": "1421",
-            "label": "2018carv"
+            source: "1756",
+            target: "2607",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "3130",
-            "target": "5234",
-            "label": "2018dar"
+            source: "4587",
+            target: "2468",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3357",
-            "target": "4779",
-            "label": "2017arc"
+            source: "195",
+            target: "70",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "302",
-            "target": "3719",
-            "label": "2017dar"
+            source: "4043",
+            target: "2992",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "4087",
-            "target": "2976",
-            "label": "2019hop"
+            source: "359",
+            target: "6387",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "494",
-            "target": "4917",
-            "label": "2018dar"
+            source: "67",
+            target: "5712",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "172",
-            "target": "558",
-            "label": "2019dal"
+            source: "1648",
+            target: "5199",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "498",
-            "target": "368",
-            "label": "2017gal"
+            source: "624",
+            target: "1817",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "51",
-            "target": "236",
-            "label": "2019dar"
+            source: "319",
+            target: "238",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "4206",
-            "target": "4468",
-            "label": "2017tur"
+            source: "1918",
+            target: "2338",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2468",
-            "target": "5614",
-            "label": "2017roe"
+            source: "179",
+            target: "3674",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "1918",
-            "target": "3604",
-            "label": "2019dar"
+            source: "1319",
+            target: "4944",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "2607",
-            "label": "2019cur"
+            source: "5436",
+            target: "85",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2168",
-            "target": "85",
-            "label": "2018tes"
+            source: "2073",
+            target: "3616",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "4189",
-            "target": "5295",
-            "label": "2017new"
+            source: "4522",
+            target: "2383",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3310",
-            "target": "3128",
-            "label": "2018new"
+            source: "3452",
+            target: "2084",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3646",
-            "target": "5472",
-            "label": "2018roe"
+            source: "1807",
+            target: "401",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1538",
-            "target": "3847",
-            "label": "2018tur"
+            source: "188",
+            target: "1025",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "4910",
-            "target": "2714",
-            "label": "2019hop"
+            source: "3674",
+            target: "2557",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "1318",
-            "target": "2046",
-            "label": "2017tur"
+            source: "3132",
+            target: "1410",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2158",
-            "target": "1425",
-            "label": "2019hop"
+            source: "4537",
+            target: "4499",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3536",
-            "target": "125",
-            "label": "2018dar"
+            source: "2910",
+            target: "2230",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4513",
-            "target": "2403",
-            "label": "2018new"
+            source: "125",
+            target: "503",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "190",
-            "target": "1023",
-            "label": "2017tes"
+            source: "1678",
+            target: "4188",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "4946",
-            "target": "558",
-            "label": "2019dal"
+            source: "2158",
+            target: "1425",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "1868",
-            "label": "2017hop"
+            source: "2056",
+            target: "2869",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "5401",
-            "target": "5150",
-            "label": "2017cars"
+            source: "4362",
+            target: "3314",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2619",
-            "target": "193",
-            "label": "2017tes"
+            source: "2791",
+            target: "5951",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "1259",
-            "target": "58",
-            "label": "2018arc"
+            source: "1787",
+            target: "1718",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "5114",
-            "target": "5401",
-            "label": "2017cars"
+            source: "1885",
+            target: "74",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "316",
-            "target": "503",
-            "label": "2018cur"
+            source: "2337",
+            target: "578",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "103",
-            "target": "449",
-            "label": "2019dar"
+            source: "4451",
+            target: "4513",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "7179",
-            "target": "3132",
-            "label": "2019carv"
+            source: "1771",
+            target: "2557",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "2481",
-            "target": "4678",
-            "label": "2019arc"
+            source: "2358",
+            target: "2168",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "3707",
-            "target": "70",
-            "label": "2018cur"
+            source: "4516",
+            target: "2486",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2403",
-            "target": "3164",
-            "label": "2018new"
+            source: "5172",
+            target: "5567",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "2056",
-            "label": "2019cur"
+            source: "7308",
+            target: "1094",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4486",
-            "target": "3255",
-            "label": "2017new"
+            source: "1658",
+            target: "3737",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "525",
-            "target": "7457",
-            "label": "2019tes"
+            source: "1540",
+            target: "5312",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "231",
-            "target": "6304",
-            "label": "2019roe"
+            source: "59",
+            target: "6907",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "2073",
-            "target": "3647",
-            "label": "2017new"
+            source: "67",
+            target: "1640",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "4130",
-            "label": "2018cars"
+            source: "5687",
+            target: "5676",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "5172",
-            "target": "5567",
-            "label": "2018tes"
+            source: "4414",
+            target: "5431",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "314",
-            "target": "2370",
-            "label": "2017dar"
+            source: "254",
+            target: "862",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "948",
-            "label": "2019tur"
+            source: "4592",
+            target: "4590",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "71",
-            "target": "1675",
-            "label": "2017cur"
+            source: "2168",
+            target: "85",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "4911",
-            "target": "5006",
-            "label": "2018carv"
+            source: "708",
+            target: "1481",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "5114",
-            "target": "5150",
-            "label": "2017cars"
+            source: "225",
+            target: "6334",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "5460",
-            "target": "4976",
-            "label": "2019arc"
+            source: "399",
+            target: "3284",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "88",
-            "target": "3555",
-            "label": "2019dar"
+            source: "3835",
+            target: "2910",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "190",
-            "target": "111",
-            "label": "2017tes"
+            source: "359",
+            target: "7039",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "2576",
-            "target": "3986",
-            "label": "2019tes"
+            source: "498",
+            target: "192",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2075",
-            "target": "4392",
-            "label": "2018arc"
+            source: "4362",
+            target: "2590",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "2147",
-            "label": "2017tur"
+            source: "1305",
+            target: "48",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2054",
-            "target": "5860",
-            "label": "2019arc"
+            source: "5417",
+            target: "108",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "6072",
-            "target": "6390",
-            "label": "2018roe"
+            source: "3647",
+            target: "1410",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1318",
-            "target": "1296",
-            "label": "2019roe"
+            source: "191",
+            target: "3414",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "4063",
-            "target": "231",
-            "label": "2017carv"
+            source: "1868",
+            target: "2903",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1918",
-            "target": "4272",
-            "label": "2017cur"
+            source: "3478",
+            target: "386",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1619",
-            "target": "4061",
-            "label": "2018new"
+            source: "1676",
+            target: "2791",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4189",
-            "target": "997",
-            "label": "2017new"
+            source: "2659",
+            target: "4201",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3314",
-            "target": "5712",
-            "label": "2018cur"
+            source: "3707",
+            target: "195",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "2102",
-            "target": "6445",
-            "label": "2018tur"
+            source: "4191",
+            target: "2584",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1629",
-            "target": "7048",
-            "label": "2018dal"
+            source: "4481",
+            target: "1218",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "558",
-            "target": "865",
-            "label": "2017arc"
+            source: "868",
+            target: "4003",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "4415",
-            "label": "2019new"
+            source: "2910",
+            target: "4499",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1778",
-            "target": "4915",
-            "label": "2017hop"
+            source: "4004",
+            target: "4476",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "20",
-            "target": "1025",
-            "label": "2018cur"
+            source: "5817",
+            target: "3937",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2848",
-            "target": "3847",
-            "label": "2018tur"
+            source: "2614",
+            target: "2590",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3473",
-            "target": "1294",
-            "label": "2017new"
+            source: "238",
+            target: "1285",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "1730",
-            "target": "2590",
-            "label": "2017arc"
+            source: "4917",
+            target: "2169",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "5437",
-            "target": "2522",
-            "label": "2018roe"
+            source: "4907",
+            target: "4476",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2471",
-            "target": "120",
-            "label": "2018tur"
+            source: "3959",
+            target: "2584",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "66",
-            "label": "2017dal"
+            source: "1885",
+            target: "4903",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1675",
-            "target": "1720",
-            "label": "2017cur"
+            source: "2992",
+            target: "3495",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "3284",
-            "target": "6321",
-            "label": "2019tur"
+            source: "3255",
+            target: "5635",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1425",
-            "target": "3802",
-            "label": "2017carv"
+            source: "2084",
+            target: "2537",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3130",
-            "target": "4485",
-            "label": "2017tes"
+            source: "3339",
+            target: "126",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2869",
-            "target": "6090",
-            "label": "2018tes"
+            source: "5654",
+            target: "2630",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "930",
-            "target": "4004",
-            "label": "2019arc"
+            source: "834",
+            target: "95",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "2930",
-            "target": "6377",
-            "label": "2019tur"
+            source: "3620",
+            target: "6909",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "4911",
-            "target": "2147",
-            "label": "2019carv"
+            source: "1197",
+            target: "1311",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "649",
-            "target": "1094",
-            "label": "2019tur"
+            source: "548",
+            target: "2534",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "3309",
-            "target": "4944",
-            "label": "2017hop"
+            source: "5404",
+            target: "2852",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1391",
-            "target": "365",
-            "label": "2018dar"
+            source: "1712",
+            target: "1506",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "67",
-            "target": "5436",
-            "label": "2018arc"
+            source: "2412",
+            target: "1296",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "3986",
-            "target": "5205",
-            "label": "2019tes"
+            source: "5401",
+            target: "2832",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1868",
-            "target": "2903",
-            "label": "2017hop"
+            source: "2056",
+            target: "4296",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2642",
-            "target": "3316",
-            "label": "2017roe"
+            source: "1619",
+            target: "1723",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5472",
-            "target": "1540",
-            "label": "2018roe"
+            source: "3005",
+            target: "4499",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4917",
-            "target": "4946",
-            "label": "2017cur"
+            source: "2630",
+            target: "4561",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3641",
-            "target": "1574",
-            "label": "2019dal"
+            source: "3310",
+            target: "6377",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2471",
-            "target": "3598",
-            "label": "2019new"
+            source: "1318",
+            target: "1595",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "868",
-            "target": "4003",
-            "label": "2018arc"
+            source: "418",
+            target: "4795",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "610",
-            "target": "3539",
-            "label": "2018dal"
+            source: "4590",
+            target: "2403",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2073",
-            "target": "3616",
-            "label": "2017new"
+            source: "5026",
+            target: "1622",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "176",
-            "target": "223",
-            "label": "2019dal"
+            source: "1747",
+            target: "4909",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "6829",
-            "target": "2907",
-            "label": "2019roe"
+            source: "5496",
+            target: "4400",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "5036",
-            "label": "2018dar"
+            source: "2930",
+            target: "5012",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "494",
-            "target": "4272",
-            "label": "2017cur"
+            source: "6443",
+            target: "1746",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "5458",
-            "label": "2017hop"
+            source: "2152",
+            target: "5801",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "2834",
-            "label": "2017arc"
+            source: "177",
+            target: "1080",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "359",
-            "target": "7498",
-            "label": "2019roe"
+            source: "3536",
+            target: "3386",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "649",
-            "target": "6831",
-            "label": "2018gal"
+            source: "5511",
+            target: "5472",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "4910",
-            "target": "4635",
-            "label": "2018gal"
+            source: "3316",
+            target: "488",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "346",
-            "target": "2534",
-            "label": "2019tes"
+            source: "469",
+            target: "3464",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "930",
-            "target": "1310",
-            "label": "2019arc"
+            source: "4965",
+            target: "6340",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "314",
-            "target": "48",
-            "label": "2017dar"
+            source: "193",
+            target: "4485",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "176",
-            "target": "177",
-            "label": "2018dar"
+            source: "4910",
+            target: "1987",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "5084",
-            "label": "2019dar"
+            source: "3937",
+            target: "5468",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "3309",
-            "target": "971",
-            "label": "2018new"
+            source: "610",
+            target: "3324",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "4976",
-            "target": "27",
-            "label": "2017dal"
+            source: "4063",
+            target: "231",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2013",
-            "target": "1189",
-            "label": "2018dal"
+            source: "604",
+            target: "1902",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "3324",
-            "target": "4338",
-            "label": "2019tes"
+            source: "2702",
+            target: "2994",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "5892",
-            "label": "2017new"
+            source: "6672",
+            target: "4513",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "2960",
-            "target": "2096",
-            "label": "2019cars"
+            source: "832",
+            target: "6340",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "5460",
-            "target": "4678",
-            "label": "2019arc"
+            source: "6072",
+            target: "6106",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "4188",
-            "label": "2017new"
+            source: "987",
+            target: "3663",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "115",
-            "target": "5614",
-            "label": "2017roe"
+            source: "4976",
+            target: "4678",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "2537",
-            "label": "2017tes"
+            source: "1729",
+            target: "1787",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "548",
-            "target": "1418",
-            "label": "2017dar"
+            source: "1671",
+            target: "6919",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "548",
-            "target": "6201",
-            "label": "2017dar"
+            source: "3238",
+            target: "2637",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "7179",
-            "target": "2478",
-            "label": "2018tur"
+            source: "148",
+            target: "6829",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "4362",
-            "target": "1768",
-            "label": "2019cars"
+            source: "2158",
+            target: "3735",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "3990",
-            "target": "1736",
-            "label": "2018cars"
+            source: "3683",
+            target: "3386",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "2073",
-            "label": "2019new"
+            source: "2333",
+            target: "3959",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4776",
-            "target": "2200",
-            "label": "2018arc"
+            source: "386",
+            target: "4079",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "3937",
-            "label": "2019tur"
+            source: "2590",
+            target: "3314",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2054",
-            "target": "2052",
-            "label": "2018cur"
+            source: "114",
+            target: "6418",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "862",
-            "label": "2017dal"
+            source: "4539",
+            target: "346",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "5431",
-            "label": "2017hop"
+            source: "3824",
+            target: "3140",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "3656",
-            "target": "303",
-            "label": "2018arc"
+            source: "1730",
+            target: "2073",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "254",
-            "label": "2017dal"
+            source: "7887",
+            target: "624",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "3542",
-            "target": "2337",
-            "label": "2018dar"
+            source: "4488",
+            target: "1574",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "4256",
-            "label": "2019cars"
+            source: "4522",
+            target: "6321",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "6705",
-            "target": "1002",
-            "label": "2017roe"
+            source: "987",
+            target: "4910",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3735",
-            "target": "696",
-            "label": "2017new"
+            source: "303",
+            target: "2451",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1983",
-            "target": "233",
-            "label": "2019new"
+            source: "1285",
+            target: "4939",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "4909",
-            "target": "6909",
-            "label": "2019tes"
+            source: "1918",
+            target: "5505",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2481",
-            "target": "203",
-            "label": "2017cur"
+            source: "987",
+            target: "2642",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "619",
-            "target": "234",
-            "label": "2019cars"
+            source: "1325",
+            target: "870",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2960",
-            "target": "141",
-            "label": "2017dal"
+            source: "3683",
+            target: "346",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2655",
-            "target": "2642",
-            "label": "2019roe"
+            source: "1325",
+            target: "2526",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1285",
-            "target": "3357",
-            "label": "2019tes"
+            source: "2614",
+            target: "1720",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "5803",
-            "label": "2018carv"
+            source: "525",
+            target: "4476",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "179",
-            "target": "5472",
-            "label": "2018roe"
+            source: "2848",
+            target: "1868",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1923",
-            "target": "5084",
-            "label": "2019dar"
+            source: "225",
+            target: "4143",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "1533",
-            "target": "1369",
-            "label": "2019roe"
+            source: "3542",
+            target: "2337",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2826",
-            "target": "4607",
-            "label": "2018cur"
+            source: "4063",
+            target: "3635",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1730",
-            "target": "3357",
-            "label": "2017arc"
+            source: "968",
+            target: "4468",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4814",
-            "target": "236",
-            "label": "2017dar"
+            source: "3339",
+            target: "4028",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "3997",
-            "target": "2147",
-            "label": "2017tur"
+            source: "1700",
+            target: "2637",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2974",
-            "target": "1414",
-            "label": "2019gal"
+            source: "3309",
+            target: "971",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "870",
-            "target": "3536",
-            "label": "2019cars"
+            source: "3316",
+            target: "488",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "4635",
-            "label": "2018gal"
+            source: "3245",
+            target: "2147",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "4415",
-            "target": "5312",
-            "label": "2019new"
+            source: "5406",
+            target: "66",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "384",
-            "label": "2017cur"
+            source: "1477",
+            target: "4063",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "987",
-            "target": "4910",
-            "label": "2017carv"
+            source: "4237",
+            target: "1322",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "987",
-            "target": "1756",
-            "label": "2019cur"
+            source: "5015",
+            target: "3674",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "1768",
-            "target": "2590",
-            "label": "2019cars"
+            source: "217",
+            target: "4130",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5817",
-            "target": "2468",
-            "label": "2018gal"
+            source: "1987",
+            target: "1880",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "5847",
-            "target": "1987",
-            "label": "2017arc"
+            source: "1481",
+            target: "5442",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "1918",
-            "target": "5567",
-            "label": "2019dar"
+            source: "604",
+            target: "2848",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2062",
-            "target": "694",
-            "label": "2017dal"
+            source: "1506",
+            target: "1885",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "125",
-            "target": "597",
-            "label": "2017cars"
+            source: "4911",
+            target: "5006",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1241",
-            "target": "1610",
-            "label": "2019cur"
+            source: "4087",
+            target: "2992",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "4980",
-            "target": "1730",
-            "label": "2018roe"
+            source: "1296",
+            target: "2473",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "5026",
-            "label": "2019new"
+            source: "4539",
+            target: "1468",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "193",
-            "target": "4485",
-            "label": "2017tes"
+            source: "1771",
+            target: "231",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1023",
-            "target": "3284",
-            "label": "2017tes"
+            source: "2960",
+            target: "5712",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "2481",
-            "label": "2018dar"
+            source: "4087",
+            target: "2976",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "1574",
-            "label": "2018gal"
+            source: "5712",
+            target: "2096",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2611",
-            "target": "1574",
-            "label": "2019dal"
+            source: "3005",
+            target: "2659",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "5026",
-            "target": "4201",
-            "label": "2019new"
+            source: "2056",
+            target: "1241",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "2619",
-            "target": "3130",
-            "label": "2017tes"
+            source: "4362",
+            target: "888",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "4587",
-            "target": "4468",
-            "label": "2017tur"
+            source: "4488",
+            target: "3965",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "5803",
-            "target": "6508",
-            "label": "2017roe"
+            source: "333",
+            target: "70",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "5172",
-            "target": "1629",
-            "label": "2017arc"
+            source: "5406",
+            target: "5036",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4917",
-            "target": "51",
-            "label": "2018dar"
+            source: "103",
+            target: "3555",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4786",
-            "target": "1559",
-            "label": "2018arc"
+            source: "6445",
+            target: "3478",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4003",
-            "target": "2614",
-            "label": "2019dal"
+            source: "2521",
+            target: "3316",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1538",
-            "target": "1414",
-            "label": "2019gal"
+            source: "71",
+            target: "1720",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "3211",
-            "target": "4201",
-            "label": "2017gal"
+            source: "2122",
+            target: "4192",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "67",
-            "target": "4557",
-            "label": "2018arc"
+            source: "2383",
+            target: "7308",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "3478",
-            "target": "4904",
-            "label": "2017gal"
+            source: "834",
+            target: "2607",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1706",
-            "target": "2974",
-            "label": "2018hop"
+            source: "115",
+            target: "365",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "4967",
-            "target": "85",
-            "label": "2017dal"
+            source: "1156",
+            target: "4400",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "3374",
-            "label": "2018gal"
+            source: "4039",
+            target: "234",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1756",
-            "target": "4237",
-            "label": "2018arc"
+            source: "1923",
+            target: "16",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "5190",
-            "target": "1939",
-            "label": "2018gal"
+            source: "1538",
+            target: "1318",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3881",
-            "target": "1318",
-            "label": "2019roe"
+            source: "5406",
+            target: "1285",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "3284",
-            "target": "1730",
-            "label": "2019tur"
+            source: "5050",
+            target: "3940",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "364",
-            "target": "4534",
-            "label": "2019carv"
+            source: "3737",
+            target: "2485",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "133",
-            "target": "862",
-            "label": "2019dal"
+            source: "190",
+            target: "3284",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3647",
-            "target": "1410",
-            "label": "2019roe"
+            source: "3039",
+            target: "2881",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1241",
-            "target": "177",
-            "label": "2019cur"
+            source: "125",
+            target: "2194",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "3103",
-            "target": "108",
-            "label": "2017tur"
+            source: "179",
+            target: "1540",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1787",
-            "target": "1718",
-            "label": "2019dal"
+            source: "4191",
+            target: "3959",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "230",
-            "target": "5687",
-            "label": "2018cur"
+            source: "6705",
+            target: "1339",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "125",
-            "target": "78",
-            "label": "2018dar"
+            source: "2930",
+            target: "3674",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "3663",
-            "label": "2018tur"
+            source: "772",
+            target: "3274",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "503",
-            "target": "5053",
-            "label": "2017cars"
+            source: "3476",
+            target: "1311",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "846",
-            "target": "4635",
-            "label": "2018gal"
+            source: "3928",
+            target: "2075",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "3103",
-            "target": "5417",
-            "label": "2017tur"
+            source: "3130",
+            target: "4485",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5429",
-            "target": "2587",
-            "label": "2017hop"
+            source: "5437",
+            target: "2576",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3008",
-            "target": "5842",
-            "label": "2017new"
+            source: "399",
+            target: "3970",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4513",
-            "target": "3164",
-            "label": "2018new"
+            source: "744",
+            target: "3847",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "2990",
-            "target": "3223",
-            "label": "2018hop"
+            source: "1285",
+            target: "66",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4944",
-            "target": "175",
-            "label": "2018carv"
+            source: "6502",
+            target: "6800",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "6538",
-            "target": "95",
-            "label": "2017tes"
+            source: "254",
+            target: "2976",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "88",
-            "label": "2018cars"
+            source: "1102",
+            target: "4488",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "5511",
-            "target": "5472",
-            "label": "2019gal"
+            source: "33",
+            target: "7048",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1730",
-            "target": "6321",
-            "label": "2019tur"
+            source: "114",
+            target: "5801",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3824",
-            "target": "3140",
-            "label": "2017roe"
+            source: "2522",
+            target: "7152",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "4362",
-            "target": "888",
-            "label": "2018dal"
+            source: "254",
+            target: "148",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "3538",
-            "target": "1073",
-            "label": "2019cur"
+            source: "2611",
+            target: "2363",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "3847",
-            "target": "2907",
-            "label": "2019roe"
+            source: "2851",
+            target: "1023",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "5654",
-            "target": "2415",
-            "label": "2017gal"
+            source: "2468",
+            target: "5614",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "1676",
-            "label": "2017dal"
+            source: "118",
+            target: "4188",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "3255",
-            "target": "5635",
-            "label": "2017new"
+            source: "271",
+            target: "4391",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2077",
-            "target": "5205",
-            "label": "2017cur"
+            source: "5190",
+            target: "1533",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "346",
-            "target": "548",
-            "label": "2019tes"
+            source: "971",
+            target: "2992",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "1771",
-            "target": "231",
-            "label": "2019roe"
+            source: "846",
+            target: "4635",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "234",
-            "target": "3130",
-            "label": "2018dar"
+            source: "610",
+            target: "359",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "294",
-            "target": "1410",
-            "label": "2019roe"
+            source: "5436",
+            target: "4967",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "67",
-            "target": "1640",
-            "label": "2017arc"
+            source: "234",
+            target: "5234",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "2175",
-            "target": "316",
-            "label": "2018cur"
+            source: "1986",
+            target: "6800",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "1011",
-            "label": "2017roe"
+            source: "6705",
+            target: "1002",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2990",
-            "target": "3309",
-            "label": "2019carv"
+            source: "1796",
+            target: "3750",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "862",
-            "target": "2338",
-            "label": "2018cars"
+            source: "5190",
+            target: "6429",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "7039",
-            "target": "6060",
-            "label": "2018hop"
+            source: "2122",
+            target: "2046",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "910",
-            "target": "1481",
-            "label": "2017dal"
+            source: "180",
+            target: "5312",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "2333",
-            "target": "701",
-            "label": "2017gal"
+            source: "25",
+            target: "3015",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "930",
-            "target": "1325",
-            "label": "2017arc"
+            source: "5803",
+            target: "1466",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2539",
-            "target": "5676",
-            "label": "2019arc"
+            source: "5499",
+            target: "4265",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "179",
-            "target": "3646",
-            "label": "2019gal"
+            source: "2122",
+            target: "987",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3478",
-            "target": "1102",
-            "label": "2018tur"
+            source: "2590",
+            target: "708",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1414",
-            "target": "5803",
-            "label": "2017roe"
+            source: "4003",
+            target: "862",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1619",
-            "target": "7621",
-            "label": "2019tur"
+            source: "3824",
+            target: "1072",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "2403",
-            "target": "2733",
-            "label": "2019tur"
+            source: "4678",
+            target: "3667",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "2587",
-            "label": "2017hop"
+            source: "1058",
+            target: "1640",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "5892",
-            "target": "2183",
-            "label": "2019carv"
+            source: "2056",
+            target: "6090",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "5985",
-            "target": "5511",
-            "label": "2019gal"
+            source: "2075",
+            target: "2869",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1640",
-            "target": "2137",
-            "label": "2017arc"
+            source: "1002",
+            target: "4561",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "868",
-            "target": "4541",
-            "label": "2018arc"
+            source: "234",
+            target: "3130",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4143",
-            "target": "2077",
-            "label": "2017cur"
+            source: "4587",
+            target: "1197",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2826",
-            "target": "188",
-            "label": "2019arc"
+            source: "3476",
+            target: "1323",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1577",
-            "target": "1197",
-            "label": "2018gal"
+            source: "694",
+            target: "2702",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4265",
-            "target": "3824",
-            "label": "2017roe"
+            source: "2910",
+            target: "5109",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "2590",
-            "target": "4779",
-            "label": "2017arc"
+            source: "2059",
+            target: "5985",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "1080",
-            "target": "1073",
-            "label": "2017cars"
+            source: "341",
+            target: "4590",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2706",
-            "target": "1189",
-            "label": "2018dal"
+            source: "4265",
+            target: "5803",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "4907",
-            "target": "4476",
-            "label": "2019tes"
+            source: "2383",
+            target: "5985",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3245",
-            "target": "1902",
-            "label": "2019new"
+            source: "33",
+            target: "1720",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1072",
-            "target": "1778",
-            "label": "2018roe"
+            source: "330",
+            target: "3735",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "5951",
-            "target": "771",
-            "label": "2019dar"
+            source: "3476",
+            target: "1072",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "4188",
-            "target": "5892",
-            "label": "2017new"
+            source: "3098",
+            target: "525",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "4020",
-            "target": "3635",
-            "label": "2019hop"
+            source: "5104",
+            target: "604",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2522",
-            "target": "7152",
-            "label": "2018roe"
+            source: "1421",
+            target: "5499",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "303",
-            "target": "25",
-            "label": "2017cars"
+            source: "4188",
+            target: "5892",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "694",
-            "target": "2016",
-            "label": "2018arc"
+            source: "862",
+            target: "1676",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4587",
-            "target": "1311",
-            "label": "2018gal"
+            source: "1018",
+            target: "5053",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "842",
-            "target": "2659",
-            "label": "2019new"
+            source: "85",
+            target: "2474",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1296",
-            "target": "2473",
-            "label": "2017tur"
+            source: "2614",
+            target: "708",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "3132",
-            "label": "2019carv"
+            source: "6768",
+            target: "5431",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "108",
-            "target": "1622",
-            "label": "2018carv"
+            source: "1732",
+            target: "3538",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "5892",
-            "target": "2102",
-            "label": "2019carv"
+            source: "1629",
+            target: "7048",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1771",
-            "target": "6304",
-            "label": "2019roe"
+            source: "492",
+            target: "1538",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "829",
-            "target": "191",
-            "label": "2017tes"
+            source: "1986",
+            target: "4910",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "987",
-            "target": "2642",
-            "label": "2018tur"
+            source: "2471",
+            target: "5109",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "5803",
-            "label": "2017roe"
+            source: "3397",
+            target: "6705",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4362",
-            "target": "747",
-            "label": "2018dal"
+            source: "2557",
+            target: "120",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3835",
-            "target": "2230",
-            "label": "2017hop"
+            source: "3357",
+            target: "4939",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "4237",
-            "target": "1322",
-            "label": "2018arc"
+            source: "604",
+            target: "1868",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "1756",
-            "label": "2019cur"
+            source: "217",
+            target: "3357",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "294",
-            "target": "2990",
-            "label": "2018hop"
+            source: "1796",
+            target: "1816",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "245",
-            "target": "236",
-            "label": "2019dar"
+            source: "747",
+            target: "4256",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "3316",
-            "target": "488",
-            "label": "2018roe"
+            source: "2168",
+            target: "3015",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1619",
-            "target": "2582",
-            "label": "2019tur"
+            source: "3314",
+            target: "5712",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "8",
-            "target": "3824",
-            "label": "2017roe"
+            source: "5847",
+            target: "70",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "346",
-            "target": "1468",
-            "label": "2018dal"
+            source: "2478",
+            target: "4469",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "125",
-            "label": "2019dar"
+            source: "78",
+            target: "5413",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2358",
-            "target": "341",
-            "label": "2019tes"
+            source: "3620",
+            target: "4909",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2158",
-            "target": "3735",
-            "label": "2019hop"
+            source: "225",
+            target: "125",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "368",
-            "target": "587",
-            "label": "2019carv"
+            source: "71",
+            target: "1675",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1902",
-            "target": "2283",
-            "label": "2018hop"
+            source: "1746",
+            target: "7426",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2791",
-            "target": "771",
-            "label": "2019dar"
+            source: "2231",
+            target: "5074",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2169",
-            "target": "3929",
-            "label": "2017cur"
+            source: "3357",
+            target: "4779",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2648",
-            "target": "4028",
-            "label": "2017dar"
+            source: "1986",
+            target: "3310",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "4946",
-            "target": "3461",
-            "label": "2018dar"
+            source: "4476",
+            target: "191",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5496",
-            "target": "1156",
-            "label": "2018hop"
+            source: "2358",
+            target: "341",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "1768",
-            "target": "3314",
-            "label": "2019cars"
+            source: "1294",
+            target: "6377",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "78",
-            "target": "1610",
-            "label": "2019cur"
+            source: "1318",
+            target: "1296",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1519",
-            "target": "191",
-            "label": "2017tes"
+            source: "3881",
+            target: "2412",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "4253",
-            "target": "1736",
-            "label": "2018cars"
+            source: "3536",
+            target: "78",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "3310",
-            "label": "2019tur"
+            source: "3835",
+            target: "2230",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "7446",
-            "label": "2019gal"
+            source: "2075",
+            target: "2202",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "6314",
-            "label": "2017carv"
+            source: "125",
+            target: "78",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1218",
-            "target": "2830",
-            "label": "2018arc"
+            source: "3309",
+            target: "1319",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "3546",
-            "target": "2474",
-            "label": "2018tes"
+            source: "4265",
+            target: "7521",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "930",
-            "target": "4476",
-            "label": "2017arc"
+            source: "2771",
+            target: "1507",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2485",
-            "target": "649",
-            "label": "2018gal"
+            source: "365",
+            target: "5614",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "4944",
-            "target": "341",
-            "label": "2018carv"
+            source: "2062",
+            target: "694",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4468",
-            "target": "5960",
-            "label": "2017tur"
+            source: "3284",
+            target: "6321",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "2791",
-            "target": "1807",
-            "label": "2017cur"
+            source: "4206",
+            target: "4468",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "5654",
-            "target": "1982",
-            "label": "2018new"
+            source: "1114",
+            target: "359",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "59",
-            "target": "6907",
-            "label": "2019hop"
+            source: "548",
+            target: "6201",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2073",
-            "target": "3245",
-            "label": "2019new"
+            source: "2877",
+            target: "4308",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3478",
-            "target": "2231",
-            "label": "2018tur"
+            source: "5801",
+            target: "6418",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "1294",
-            "target": "3663",
-            "label": "2017new"
+            source: "56",
+            target: "365",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "836",
-            "target": "3604",
-            "label": "2019dar"
+            source: "78",
+            target: "1241",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "4206",
-            "target": "5960",
-            "label": "2017tur"
+            source: "5842",
+            target: "3489",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "3683",
-            "target": "870",
-            "label": "2019cars"
+            source: "2168",
+            target: "341",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "2869",
-            "label": "2018tes"
+            source: "701",
+            target: "3959",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4362",
-            "target": "85",
-            "label": "2017dal"
+            source: "5172",
+            target: "3750",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "3357",
-            "target": "4130",
-            "label": "2018cars"
+            source: "177",
+            target: "772",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "4201",
-            "label": "2019new"
+            source: "59",
+            target: "4499",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "2194",
-            "target": "78",
-            "label": "2018dar"
+            source: "6334",
+            target: "865",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "3965",
-            "target": "3374",
-            "label": "2018gal"
+            source: "4776",
+            target: "1025",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1885",
-            "target": "4541",
-            "label": "2019dal"
+            source: "842",
+            target: "2659",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "319",
-            "target": "1574",
-            "label": "2019dal"
+            source: "1678",
+            target: "1619",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "469",
-            "target": "3464",
-            "label": "2017tes"
+            source: "5460",
+            target: "4976",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3940",
-            "target": "3604",
-            "label": "2018cars"
+            source: "3310",
+            target: "302",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "3005",
-            "target": "4265",
-            "label": "2019new"
+            source: "3357",
+            target: "2590",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "1731",
-            "target": "2771",
-            "label": "2018cars"
+            source: "5036",
+            target: "74",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "3357",
-            "target": "2590",
-            "label": "2017arc"
+            source: "525",
+            target: "7457",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "7621",
-            "target": "2582",
-            "label": "2019tur"
+            source: "5985",
+            target: "5511",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "27",
-            "label": "2018dal"
+            source: "1072",
+            target: "1778",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1011",
-            "target": "6424",
-            "label": "2018new"
+            source: "217",
+            target: "4481",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "694",
-            "target": "2702",
-            "label": "2019dal"
+            source: "3542",
+            target: "1690",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "1746",
-            "target": "7426",
-            "label": "2019carv"
+            source: "1619",
+            target: "7621",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "4020",
-            "label": "2019hop"
+            source: "4946",
+            target: "2169",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "624",
-            "target": "2485",
-            "label": "2017roe"
+            source: "5254",
+            target: "422",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2481",
-            "target": "4976",
-            "label": "2019arc"
+            source: "5460",
+            target: "4678",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2648",
-            "target": "236",
-            "label": "2017dar"
+            source: "5496",
+            target: "1156",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "910",
-            "target": "2231",
-            "label": "2019arc"
+            source: "2655",
+            target: "3593",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3542",
-            "target": "578",
-            "label": "2018dar"
+            source: "3986",
+            target: "5205",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "836",
-            "target": "5567",
-            "label": "2019dar"
+            source: "1768",
+            target: "3314",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "75",
-            "target": "1718",
-            "label": "2017dal"
+            source: "1690",
+            target: "2337",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "291",
-            "target": "5675",
-            "label": "2018tes"
+            source: "71",
+            target: "5254",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "3997",
-            "label": "2017tur"
+            source: "3103",
+            target: "108",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3473",
-            "target": "6377",
-            "label": "2017new"
+            source: "2630",
+            target: "4112",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2826",
-            "target": "5404",
-            "label": "2019arc"
+            source: "3481",
+            target: "1251",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "3663",
-            "target": "1671",
-            "label": "2019hop"
+            source: "330",
+            target: "696",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1923",
-            "target": "868",
-            "label": "2019dar"
+            source: "4405",
+            target: "5460",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "1723",
-            "label": "2018new"
+            source: "1595",
+            target: "2907",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "2062",
-            "target": "340",
-            "label": "2019dal"
+            source: "862",
+            target: "1918",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "230",
-            "target": "1675",
-            "label": "2017cur"
+            source: "1885",
+            target: "1507",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "20",
-            "target": "1501",
-            "label": "2019cur"
+            source: "6538",
+            target: "95",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5104",
-            "target": "604",
-            "label": "2018new"
+            source: "1732",
+            target: "4253",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "1011",
-            "label": "2018new"
+            source: "1640",
+            target: "271",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2611",
-            "target": "2337",
-            "label": "2017arc"
+            source: "6705",
+            target: "3495",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "842",
-            "target": "1806",
-            "label": "2019new"
+            source: "340",
+            target: "2869",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "3937",
-            "label": "2017tur"
+            source: "346",
+            target: "548",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "1425",
-            "target": "3735",
-            "label": "2019hop"
+            source: "1305",
+            target: "888",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2771",
-            "target": "236",
-            "label": "2019dar"
+            source: "291",
+            target: "1360",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "176",
-            "target": "772",
-            "label": "2018dar"
+            source: "2992",
+            target: "2974",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "4028",
-            "target": "126",
-            "label": "2019cur"
+            source: "846",
+            target: "1806",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "4592",
-            "target": "4590",
-            "label": "2017roe"
+            source: "2478",
+            target: "488",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "4043",
-            "target": "2976",
-            "label": "2019hop"
+            source: "2521",
+            target: "1710",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "401",
-            "target": "4213",
-            "label": "2019cur"
+            source: "1296",
+            target: "1323",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "4561",
-            "target": "4941",
-            "label": "2018tur"
+            source: "188",
+            target: "1024",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "6443",
-            "target": "1746",
-            "label": "2019carv"
+            source: "5172",
+            target: "1816",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "148",
-            "target": "3847",
-            "label": "2019roe"
+            source: "399",
+            target: "3476",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "125",
-            "target": "5687",
-            "label": "2017cars"
+            source: "3539",
+            target: "1025",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "619",
-            "target": "2137",
-            "label": "2019cars"
+            source: "5458",
+            target: "5429",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "846",
-            "target": "842",
-            "label": "2019new"
+            source: "3310",
+            target: "3719",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "987",
-            "target": "2122",
-            "label": "2018tur"
+            source: "4488",
+            target: "5588",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "6443",
-            "target": "2811",
-            "label": "2019carv"
+            source: "1768",
+            target: "2590",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "1622",
-            "label": "2018carv"
+            source: "1729",
+            target: "1718",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "987",
-            "label": "2017carv"
+            source: "5987",
+            target: "5458",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1285",
-            "target": "4917",
-            "label": "2019tes"
+            source: "6025",
+            target: "1902",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "836",
-            "target": "7048",
-            "label": "2018dal"
+            source: "2485",
+            target: "6831",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1311",
-            "target": "1072",
-            "label": "2019hop"
+            source: "5406",
+            target: "2451",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "2175",
-            "target": "503",
-            "label": "2018cur"
+            source: "973",
+            target: "5026",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "7179",
-            "target": "1939",
-            "label": "2019carv"
+            source: "7457",
+            target: "4476",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "5190",
-            "target": "6429",
-            "label": "2018gal"
+            source: "4020",
+            target: "3635",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "4296",
-            "label": "2019cur"
+            source: "4909",
+            target: "6909",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "3339",
-            "target": "126",
-            "label": "2019cur"
+            source: "1796",
+            target: "237",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "229",
-            "target": "74",
-            "label": "2017dar"
+            source: "2990",
+            target: "1515",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2832",
-            "target": "5150",
-            "label": "2017cars"
+            source: "5687",
+            target: "4814",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "558",
-            "target": "3075",
-            "label": "2019dal"
+            source: "1241",
+            target: "177",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2521",
-            "target": "3316",
-            "label": "2018roe"
+            source: "1477",
+            target: "108",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2992",
-            "target": "3397",
-            "label": "2018hop"
+            source: "1574",
+            target: "3965",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1519",
-            "target": "5234",
-            "label": "2018dar"
+            source: "294",
+            target: "1410",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "1540",
-            "label": "2019new"
+            source: "2046",
+            target: "2907",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "1923",
-            "target": "16",
-            "label": "2019dar"
+            source: "2152",
+            target: "6418",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3536",
-            "target": "2194",
-            "label": "2018dar"
+            source: "226",
+            target: "3875",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "340",
-            "target": "238",
-            "label": "2018tes"
+            source: "6829",
+            target: "2907",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5104",
-            "target": "5677",
-            "label": "2017tur"
+            source: "3452",
+            target: "2370",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "230",
-            "target": "4814",
-            "label": "2018cur"
+            source: "1690",
+            target: "1466",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "4362",
-            "target": "1305",
-            "label": "2018dal"
+            source: "5114",
+            target: "2832",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "131",
-            "target": "5413",
-            "label": "2017dar"
+            source: "180",
+            target: "6025",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "558",
-            "target": "6334",
-            "label": "2017arc"
+            source: "1538",
+            target: "2848",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "33",
-            "target": "20",
-            "label": "2017cars"
+            source: "33",
+            target: "5024",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "188",
-            "target": "3539",
-            "label": "2017arc"
+            source: "1746",
+            target: "1577",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "340",
-            "target": "6763",
-            "label": "2017dal"
+            source: "973",
+            target: "2928",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "3008",
-            "target": "3489",
-            "label": "2017new"
+            source: "148",
+            target: "2907",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "3928",
-            "target": "4392",
-            "label": "2018arc"
+            source: "5190",
+            target: "1369",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "4499",
-            "target": "6907",
-            "label": "2019hop"
+            source: "5572",
+            target: "3223",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1506",
-            "target": "3277",
-            "label": "2017dar"
+            source: "2077",
+            target: "5205",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "2614",
-            "target": "1720",
-            "label": "2018tes"
+            source: "987",
+            target: "2122",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3098",
-            "target": "525",
-            "label": "2018tes"
+            source: "5847",
+            target: "1880",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "4946",
-            "target": "3929",
-            "label": "2017cur"
+            source: "238",
+            target: "66",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2659",
-            "target": "1806",
-            "label": "2019new"
+            source: "175",
+            target: "1369",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2834",
-            "target": "126",
-            "label": "2019cur"
+            source: "314",
+            target: "3667",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "987",
-            "target": "3663",
-            "label": "2018tur"
+            source: "103",
+            target: "88",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "148",
-            "target": "51",
-            "label": "2017tes"
+            source: "3467",
+            target: "1325",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2851",
-            "target": "5509",
-            "label": "2019cur"
+            source: "4003",
+            target: "4541",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "1080",
-            "label": "2017cars"
+            source: "624",
+            target: "2485",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2333",
-            "target": "5572",
-            "label": "2017gal"
+            source: "2539",
+            target: "384",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1325",
-            "target": "694",
-            "label": "2018arc"
+            source: "330",
+            target: "4534",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "75",
-            "target": "6763",
-            "label": "2017dal"
+            source: "1731",
+            target: "1885",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "3015",
-            "target": "4391",
-            "label": "2019arc"
+            source: "2733",
+            target: "1726",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "1414",
-            "target": "5805",
-            "label": "2018carv"
+            source: "3620",
+            target: "141",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "3683",
-            "label": "2017tes"
+            source: "4004",
+            target: "191",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "3546",
-            "target": "85",
-            "label": "2018tes"
+            source: "75",
+            target: "340",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2383",
-            "target": "4188",
-            "label": "2018roe"
+            source: "319",
+            target: "1574",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "696",
-            "label": "2017new"
+            source: "330",
+            target: "180",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "238",
-            "target": "5406",
-            "label": "2017dal"
+            source: "3546",
+            target: "85",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "71",
-            "target": "230",
-            "label": "2017cur"
+            source: "2834",
+            target: "126",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2659",
-            "target": "4201",
-            "label": "2018gal"
+            source: "3937",
+            target: "701",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "5411",
-            "target": "1658",
-            "label": "2019roe"
+            source: "4362",
+            target: "1768",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "6579",
-            "target": "4499",
-            "label": "2017gal"
+            source: "2767",
+            target: "254",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "548",
-            "target": "4525",
-            "label": "2017dar"
+            source: "195",
+            target: "1073",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "3015",
-            "label": "2018cars"
+            source: "3008",
+            target: "5842",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1796",
-            "target": "597",
-            "label": "2017cars"
+            source: "492",
+            target: "5437",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3641",
-            "target": "3098",
-            "label": "2018tes"
+            source: "2383",
+            target: "649",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "6672",
-            "target": "4451",
-            "label": "2019tur"
+            source: "1506",
+            target: "3277",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1796",
-            "target": "1816",
-            "label": "2019cars"
+            source: "291",
+            target: "5675",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "78",
-            "target": "177",
-            "label": "2019cur"
+            source: "3314",
+            target: "3039",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "5295",
-            "target": "79",
-            "label": "2017new"
+            source: "141",
+            target: "2013",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "7887",
-            "target": "1817",
-            "label": "2019new"
+            source: "319",
+            target: "3641",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "6831",
-            "label": "2018gal"
+            source: "4522",
+            target: "3284",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "2168",
-            "target": "11",
-            "label": "2017tes"
+            source: "2122",
+            target: "4910",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "1241",
-            "label": "2018tes"
+            source: "135",
+            target: "4003",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "3357",
-            "target": "4939",
-            "label": "2019tes"
+            source: "3005",
+            target: "7521",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "649",
-            "label": "2018gal"
+            source: "2122",
+            target: "2642",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "4414",
-            "target": "6768",
-            "label": "2019gal"
+            source: "125",
+            target: "4143",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4587",
-            "target": "5960",
-            "label": "2017tur"
+            source: "3683",
+            target: "1468",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3538",
-            "target": "2826",
-            "label": "2018cur"
+            source: "1305",
+            target: "5436",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "188",
-            "target": "5404",
-            "label": "2019arc"
+            source: "5813",
+            target: "503",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1885",
-            "target": "5036",
-            "label": "2017dar"
+            source: "1640",
+            target: "4391",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4939",
-            "target": "78",
-            "label": "2017dar"
+            source: "1325",
+            target: "4476",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "118",
-            "target": "1678",
-            "label": "2017new"
+            source: "1114",
+            target: "610",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2702",
-            "target": "2994",
-            "label": "2019dal"
+            source: "16",
+            target: "948",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "141",
-            "target": "1189",
-            "label": "2018dal"
+            source: "4028",
+            target: "126",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "834",
-            "target": "95",
-            "label": "2017tes"
+            source: "7427",
+            target: "1987",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "238",
-            "target": "1285",
-            "label": "2017dal"
+            source: "2059",
+            target: "5511",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "687",
-            "target": "2183",
-            "label": "2019carv"
+            source: "5803",
+            target: "6919",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1983",
-            "target": "3674",
-            "label": "2019new"
+            source: "1080",
+            target: "1073",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "4192",
-            "label": "2019hop"
+            source: "179",
+            target: "498",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "71",
-            "target": "5254",
-            "label": "2018cars"
+            source: "3937",
+            target: "4125",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "2383",
-            "target": "7308",
-            "label": "2019tur"
+            source: "7108",
+            target: "587",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1058",
-            "target": "1640",
-            "label": "2017arc"
+            source: "1533",
+            target: "6647",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "3970",
-            "label": "2018hop"
+            source: "3536",
+            target: "2194",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4061",
-            "target": "1723",
-            "label": "2018new"
+            source: "4946",
+            target: "558",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4499",
-            "target": "5006",
-            "label": "2018carv"
+            source: "1369",
+            target: "6647",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "6445",
-            "target": "4904",
-            "label": "2017gal"
+            source: "2056",
+            target: "107",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "3075",
-            "label": "2018hop"
+            source: "1296",
+            target: "6554",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "125",
-            "target": "503",
-            "label": "2019dar"
+            source: "2073",
+            target: "3647",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1732",
-            "target": "3538",
-            "label": "2017cars"
+            source: "2992",
+            target: "6705",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "2714",
-            "target": "1987",
-            "label": "2019hop"
+            source: "2468",
+            target: "4565",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2642",
-            "target": "2478",
-            "label": "2017roe"
+            source: "1676",
+            target: "771",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "5803",
-            "target": "1671",
-            "label": "2019hop"
+            source: "6072",
+            target: "6390",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "997",
-            "target": "5295",
-            "label": "2017new"
+            source: "254",
+            target: "3075",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1619",
-            "target": "3309",
-            "label": "2017hop"
+            source: "558",
+            target: "865",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2059",
-            "target": "5511",
-            "label": "2019gal"
+            source: "3489",
+            target: "6060",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "250",
-            "label": "2019dar"
+            source: "4500",
+            target: "2077",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "1676",
-            "label": "2017dal"
+            source: "340",
+            target: "6763",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "3357",
-            "label": "2018cars"
+            source: "4003",
+            target: "2614",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "3542",
-            "target": "1690",
-            "label": "2019dar"
+            source: "20",
+            target: "303",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "3928",
-            "target": "3277",
-            "label": "2017dar"
+            source: "3647",
+            target: "1156",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "118",
-            "target": "3128",
-            "label": "2018new"
+            source: "2403",
+            target: "5663",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2231",
-            "target": "2054",
-            "label": "2019arc"
+            source: "2576",
+            target: "3986",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "708",
-            "target": "1481",
-            "label": "2017dal"
+            source: "1414",
+            target: "5803",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1519",
-            "target": "4213",
-            "label": "2019cur"
+            source: "6364",
+            target: "4005",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "747",
-            "label": "2019cars"
+            source: "4776",
+            target: "614",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "7108",
-            "target": "587",
-            "label": "2019carv"
+            source: "1918",
+            target: "4272",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "6579",
-            "target": "3005",
-            "label": "2017gal"
+            source: "6579",
+            target: "3005",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2152",
-            "target": "5801",
-            "label": "2019gal"
+            source: "2642",
+            target: "2478",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "525",
-            "target": "4476",
-            "label": "2019tes"
+            source: "1519",
+            target: "1807",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "6986",
-            "target": "948",
-            "label": "2019tur"
+            source: "5050",
+            target: "3604",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "6025",
-            "target": "2283",
-            "label": "2018hop"
+            source: "2557",
+            target: "231",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "3132",
-            "target": "1410",
-            "label": "2017hop"
+            source: "5892",
+            target: "2102",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "5468",
-            "label": "2019tur"
+            source: "302",
+            target: "3719",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "6803",
-            "target": "2655",
-            "label": "2019roe"
+            source: "4946",
+            target: "2834",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "5805",
-            "target": "343",
-            "label": "2018carv"
+            source: "4944",
+            target: "175",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1661",
-            "target": "1540",
-            "label": "2017tur"
+            source: "7108",
+            target: "7796",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1325",
-            "target": "33",
-            "label": "2019arc"
+            source: "4513",
+            target: "4915",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "876",
-            "label": "2019cars"
+            source: "1241",
+            target: "1511",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "6009",
-            "target": "2609",
-            "label": "2017cur"
+            source: "1325",
+            target: "2016",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "1918",
-            "target": "2338",
-            "label": "2018cars"
+            source: "5951",
+            target: "771",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "177",
-            "target": "1073",
-            "label": "2017cars"
+            source: "6800",
+            target: "3132",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "33",
-            "target": "836",
-            "label": "2018dal"
+            source: "2714",
+            target: "7427",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1241",
-            "target": "6090",
-            "label": "2018tes"
+            source: "3542",
+            target: "250",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "1002",
-            "target": "1339",
-            "label": "2017roe"
+            source: "2056",
+            target: "384",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1197",
-            "target": "1311",
-            "label": "2018gal"
+            source: "6445",
+            target: "4904",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2910",
-            "target": "5109",
-            "label": "2019new"
+            source: "3494",
+            target: "503",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "359",
-            "target": "6364",
-            "label": "2019roe"
+            source: "3990",
+            target: "1736",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "6201",
-            "target": "1418",
-            "label": "2017dar"
+            source: "3339",
+            target: "957",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "179",
-            "target": "2557",
-            "label": "2017carv"
+            source: "3538",
+            target: "1747",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1684",
-            "target": "5712",
-            "label": "2018cur"
+            source: "1477",
+            target: "6508",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "846",
-            "label": "2018gal"
+            source: "3546",
+            target: "2168",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "967",
-            "target": "5509",
-            "label": "2019cur"
+            source: "7039",
+            target: "6060",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "2630",
-            "target": "4561",
-            "label": "2018tur"
+            source: "4522",
+            target: "5985",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "2960",
-            "target": "2164",
-            "label": "2017dal"
+            source: "4362",
+            target: "1305",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "20",
-            "target": "1684",
-            "label": "2019cur"
+            source: "971",
+            target: "3646",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3824",
-            "target": "3476",
-            "label": "2019hop"
+            source: "4907",
+            target: "7457",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "3419",
-            "target": "1706",
-            "label": "2017tes"
+            source: "4020",
+            target: "4063",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "3847",
-            "target": "6829",
-            "label": "2019roe"
+            source: "4486",
+            target: "5635",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "340",
-            "target": "5980",
-            "label": "2018tes"
+            source: "973",
+            target: "3970",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1756",
-            "target": "1322",
-            "label": "2018arc"
+            source: "5406",
+            target: "4004",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4265",
-            "target": "1466",
-            "label": "2018carv"
+            source: "4537",
+            target: "3005",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "6328",
-            "target": "1923",
-            "label": "2018arc"
+            source: "2630",
+            target: "4941",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3683",
-            "target": "3536",
-            "label": "2019cars"
+            source: "314",
+            target: "48",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "3464",
-            "target": "51",
-            "label": "2017tes"
+            source: "179",
+            target: "3646",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "4481",
-            "target": "1391",
-            "label": "2017tes"
+            source: "3674",
+            target: "368",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "7498",
-            "target": "4005",
-            "label": "2019roe"
+            source: "4028",
+            target: "365",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4237",
-            "target": "4253",
-            "label": "2017cars"
+            source: "384",
+            target: "4004",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "254",
-            "target": "2976",
-            "label": "2018hop"
+            source: "5155",
+            target: "226",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "2976",
-            "target": "3075",
-            "label": "2018hop"
+            source: "316",
+            target: "503",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "2283",
-            "label": "2018hop"
+            source: "234",
+            target: "5587",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "4786",
-            "target": "1259",
-            "label": "2018arc"
+            source: "1323",
+            target: "1072",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3853",
-            "target": "968",
-            "label": "2018new"
+            source: "3656",
+            target: "1923",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2451",
-            "target": "25",
-            "label": "2017cars"
+            source: "4967",
+            target: "4362",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "503",
-            "label": "2019dar"
+            source: "4587",
+            target: "5414",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "492",
-            "target": "1538",
-            "label": "2017gal"
+            source: "624",
+            target: "418",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "16",
-            "target": "868",
-            "label": "2019dar"
+            source: "5687",
+            target: "384",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "610",
-            "target": "401",
-            "label": "2018dal"
+            source: "3683",
+            target: "3536",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "1671",
-            "target": "1746",
-            "label": "2017carv"
+            source: "868",
+            target: "5422",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "226",
-            "target": "449",
-            "label": "2017cur"
+            source: "2974",
+            target: "1538",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2791",
-            "target": "3461",
-            "label": "2018dar"
+            source: "229",
+            target: "5036",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "4946",
-            "target": "2791",
-            "label": "2018dar"
+            source: "4026",
+            target: "1414",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "5554",
-            "target": "5654",
-            "label": "2018new"
+            source: "744",
+            target: "6907",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "71",
-            "target": "1640",
-            "label": "2018cars"
+            source: "5411",
+            target: "3737",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "2075",
-            "target": "340",
-            "label": "2019dal"
+            source: "3928",
+            target: "2202",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "3641",
-            "target": "4618",
-            "label": "2018tes"
+            source: "4590",
+            target: "5026",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1519",
-            "target": "1807",
-            "label": "2019cur"
+            source: "469",
+            target: "51",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3646",
-            "target": "1540",
-            "label": "2018roe"
+            source: "133",
+            target: "2614",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1058",
-            "target": "67",
-            "label": "2017arc"
+            source: "5050",
+            target: "2052",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2231",
-            "target": "5074",
-            "label": "2017gal"
+            source: "1477",
+            target: "4020",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1817",
-            "target": "932",
-            "label": "2019new"
+            source: "2231",
+            target: "4201",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "365",
-            "target": "2468",
-            "label": "2017roe"
+            source: "7179",
+            target: "3132",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "70",
-            "target": "1880",
-            "label": "2017arc"
+            source: "180",
+            target: "1540",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "624",
-            "target": "1982",
-            "label": "2018new"
+            source: "1817",
+            target: "4256",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "1073",
-            "label": "2017cars"
+            source: "971",
+            target: "498",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2052",
-            "target": "379",
-            "label": "2018cur"
+            source: "245",
+            target: "3539",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2526",
-            "target": "1720",
-            "label": "2019arc"
+            source: "3663",
+            target: "6377",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "3132",
-            "target": "3039",
-            "label": "2017hop"
+            source: "2471",
+            target: "599",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3008",
-            "target": "1622",
-            "label": "2017new"
+            source: "3467",
+            target: "4476",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "5015",
-            "target": "1983",
-            "label": "2019new"
+            source: "910",
+            target: "2054",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4063",
-            "target": "3635",
-            "label": "2019hop"
+            source: "365",
+            target: "2468",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "2337",
-            "label": "2019dar"
+            source: "3542",
+            target: "2337",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4253",
-            "target": "3538",
-            "label": "2017cars"
+            source: "4003",
+            target: "6329",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "3309",
-            "target": "1319",
-            "label": "2017hop"
+            source: "1918",
+            target: "3098",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1076",
-            "target": "876",
-            "label": "2019cars"
+            source: "846",
+            target: "4910",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "5431",
-            "target": "5588",
-            "label": "2017hop"
+            source: "133",
+            target: "862",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "3310",
-            "target": "302",
-            "label": "2017dar"
+            source: "303",
+            target: "2194",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "4272",
-            "target": "3098",
-            "label": "2017cur"
+            source: "971",
+            target: "3481",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "3604",
-            "target": "5567",
-            "label": "2019dar"
+            source: "2046",
+            target: "364",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "188",
-            "target": "4308",
-            "label": "2018dal"
+            source: "225",
+            target: "3015",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2992",
-            "target": "6705",
-            "label": "2018hop"
+            source: "4911",
+            target: "5006",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "4206",
-            "target": "4587",
-            "label": "2017tur"
+            source: "4911",
+            target: "4499",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1731",
-            "target": "1507",
-            "label": "2018cars"
+            source: "3538",
+            target: "230",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "303",
-            "target": "2194",
-            "label": "2017cars"
+            source: "238",
+            target: "5406",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "610",
-            "target": "6387",
-            "label": "2017dar"
+            source: "614",
+            target: "1025",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3314",
-            "target": "302",
-            "label": "2018cur"
+            source: "1360",
+            target: "4039",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "177",
-            "target": "3274",
-            "label": "2018dar"
+            source: "3478",
+            target: "6377",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "6502",
-            "target": "3132",
-            "label": "2018carv"
+            source: "4537",
+            target: "6579",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3132",
-            "target": "1939",
-            "label": "2019carv"
+            source: "829",
+            target: "1519",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1619",
-            "target": "1319",
-            "label": "2017hop"
+            source: "3494",
+            target: "5053",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "4003",
-            "target": "5422",
-            "label": "2018arc"
+            source: "548",
+            target: "4525",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1619",
-            "target": "1723",
-            "label": "2018new"
+            source: "2659",
+            target: "1806",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "1939",
-            "label": "2019carv"
+            source: "2767",
+            target: "1756",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "2928",
-            "label": "2017roe"
+            source: "973",
+            target: "4201",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "177",
-            "target": "1080",
-            "label": "2017cars"
+            source: "3478",
+            target: "1102",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "2358",
-            "target": "4590",
-            "label": "2019tes"
+            source: "2468",
+            target: "5414",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "188",
-            "target": "1024",
-            "label": "2018dal"
+            source: "6009",
+            target: "234",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "67",
-            "target": "5712",
-            "label": "2019cars"
+            source: "708",
+            target: "910",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "5468",
-            "target": "1425",
-            "label": "2017carv"
+            source: "190",
+            target: "111",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3937",
-            "target": "2468",
-            "label": "2018gal"
+            source: "1011",
+            target: "2928",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "5155",
-            "target": "449",
-            "label": "2017cur"
+            source: "2200",
+            target: "223",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4391",
-            "target": "3277",
-            "label": "2017dar"
+            source: "2848",
+            target: "2903",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "5104",
-            "target": "399",
-            "label": "2017tur"
+            source: "4941",
+            target: "4965",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "95",
-            "target": "2607",
-            "label": "2017tes"
+            source: "3641",
+            target: "525",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3937",
-            "target": "4125",
-            "label": "2019tur"
+            source: "342",
+            target: "6800",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "340",
-            "target": "319",
-            "label": "2018tes"
+            source: "1885",
+            target: "229",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1747",
-            "target": "4909",
-            "label": "2019tes"
+            source: "1678",
+            target: "5892",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "2974",
-            "target": "957",
-            "label": "2018hop"
+            source: "386",
+            target: "3039",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "111",
-            "target": "4607",
-            "label": "2019cars"
+            source: "4028",
+            target: "1391",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "6424",
-            "label": "2018new"
+            source: "1746",
+            target: "4125",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "4513",
-            "target": "3196",
-            "label": "2019tur"
+            source: "2046",
+            target: "6445",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "469",
-            "target": "148",
-            "label": "2017tes"
+            source: "4976",
+            target: "2614",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "3128",
-            "target": "6768",
-            "label": "2019gal"
+            source: "4917",
+            target: "4946",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "3555",
-            "target": "449",
-            "label": "2019dar"
+            source: "3959",
+            target: "5572",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "6538",
-            "target": "834",
-            "label": "2017tes"
+            source: "1712",
+            target: "5567",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "88",
-            "target": "449",
-            "label": "2019dar"
+            source: "2471",
+            target: "120",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1807",
-            "target": "401",
-            "label": "2019cur"
+            source: "525",
+            target: "4618",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "5015",
-            "target": "233",
-            "label": "2019new"
+            source: "2471",
+            target: "2910",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "3928",
-            "target": "2075",
-            "label": "2018arc"
+            source: "5690",
+            target: "694",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "3015",
-            "target": "88",
-            "label": "2018cars"
+            source: "498",
+            target: "587",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "5411",
-            "target": "2485",
-            "label": "2019roe"
+            source: "2611",
+            target: "2337",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "6443",
-            "target": "7426",
-            "label": "2019carv"
+            source: "1923",
+            target: "5084",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "3737",
-            "target": "1540",
-            "label": "2017tur"
+            source: "3250",
+            target: "1730",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "1218",
-            "label": "2019dar"
+            source: "177",
+            target: "1073",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "4855",
-            "target": "245",
-            "label": "2018dal"
+            source: "4362",
+            target: "747",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1678",
-            "target": "7179",
-            "label": "2019carv"
+            source: "2714",
+            target: "1987",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1425",
-            "target": "1937",
-            "label": "2017carv"
+            source: "5026",
+            target: "4201",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "1640",
-            "target": "5254",
-            "label": "2018cars"
+            source: "2168",
+            target: "11",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "2052",
-            "target": "1741",
-            "label": "2018cur"
+            source: "2521",
+            target: "488",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "359",
-            "target": "6060",
-            "label": "2018hop"
+            source: "4814",
+            target: "236",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "4917",
-            "target": "2169",
-            "label": "2017cur"
+            source: "16",
+            target: "418",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "3674",
-            "target": "368",
-            "label": "2018gal"
+            source: "5431",
+            target: "281",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2642",
-            "target": "3663",
-            "label": "2018tur"
+            source: "33",
+            target: "2526",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1817",
-            "target": "4256",
-            "label": "2018gal"
+            source: "2102",
+            target: "687",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "5588",
-            "label": "2017hop"
+            source: "125",
+            target: "1796",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1676",
-            "target": "771",
-            "label": "2019dar"
+            source: "3707",
+            target: "333",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "188",
-            "target": "1025",
-            "label": "2017arc"
+            source: "3314",
+            target: "3132",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2655",
-            "target": "3593",
-            "label": "2018tur"
+            source: "231",
+            target: "2059",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2485",
-            "target": "6831",
-            "label": "2018gal"
+            source: "180",
+            target: "1902",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1318",
-            "target": "2907",
-            "label": "2017tur"
+            source: "6672",
+            target: "3196",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "3494",
-            "target": "5053",
-            "label": "2017cars"
+            source: "5436",
+            target: "4557",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "3005",
-            "target": "5499",
-            "label": "2019new"
+            source: "1684",
+            target: "3314",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "4189",
-            "target": "79",
-            "label": "2017new"
+            source: "5847",
+            target: "1987",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "302",
-            "target": "5712",
-            "label": "2018cur"
+            source: "832",
+            target: "4965",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "5496",
-            "target": "456",
-            "label": "2018hop"
+            source: "1690",
+            target: "2992",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3512",
-            "target": "3478",
-            "label": "2018tur"
+            source: "610",
+            target: "401",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "5436",
-            "label": "2018arc"
+            source: "2611",
+            target: "1574",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4253",
-            "target": "3990",
-            "label": "2018cars"
+            source: "1114",
+            target: "4296",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2481",
-            "target": "2451",
-            "label": "2018dar"
+            source: "1577",
+            target: "1311",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "4336",
-            "target": "2655",
-            "label": "2019roe"
+            source: "4334",
+            target: "2471",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "862",
-            "target": "2614",
-            "label": "2019dal"
+            source: "5687",
+            target: "1796",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "2910",
-            "target": "4499",
-            "label": "2018carv"
+            source: "2767",
+            target: "987",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "3103",
-            "target": "5802",
-            "label": "2017tur"
+            source: "5987",
+            target: "5499",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "5930",
-            "target": "1726",
-            "label": "2019tur"
+            source: "3098",
+            target: "4618",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3284",
-            "target": "3970",
-            "label": "2018hop"
+            source: "747",
+            target: "888",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "5436",
-            "target": "4557",
-            "label": "2018arc"
+            source: "2557",
+            target: "2130",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1771",
-            "target": "2557",
-            "label": "2019roe"
+            source: "2337",
+            target: "1018",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "238",
-            "target": "66",
-            "label": "2017dal"
+            source: "1538",
+            target: "5437",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "33",
-            "target": "2052",
-            "label": "2017cars"
+            source: "3928",
+            target: "4391",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "340",
-            "target": "1718",
-            "label": "2017dal"
+            source: "604",
+            target: "6424",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2960",
-            "target": "5712",
-            "label": "2019cars"
+            source: "111",
+            target: "2052",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "107",
-            "label": "2019cur"
+            source: "836",
+            target: "3604",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "5460",
-            "target": "1718",
-            "label": "2018cur"
+            source: "5572",
+            target: "294",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "27",
-            "target": "4027",
-            "label": "2018dal"
+            source: "33",
+            target: "20",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "6996",
-            "target": "6106",
-            "label": "2018roe"
+            source: "118",
+            target: "6377",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "1533",
-            "target": "6647",
-            "label": "2019roe"
+            source: "842",
+            target: "7179",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1756",
-            "target": "3620",
-            "label": "2018arc"
+            source: "5024",
+            target: "2052",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "2062",
-            "target": "1806",
-            "label": "2017dal"
+            source: "108",
+            target: "1622",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "3310",
-            "target": "6377",
-            "label": "2018new"
+            source: "3824",
+            target: "3476",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1421",
-            "target": "5499",
-            "label": "2018carv"
+            source: "4539",
+            target: "3683",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2073",
-            "target": "1902",
-            "label": "2019new"
+            source: "4786",
+            target: "58",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "4539",
-            "target": "3683",
-            "label": "2018dal"
+            source: "95",
+            target: "2607",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3853",
-            "target": "2367",
-            "label": "2018new"
+            source: "5930",
+            target: "1726",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "180",
-            "label": "2017new"
+            source: "2175",
+            target: "503",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "2903",
-            "label": "2017hop"
+            source: "180",
+            target: "3735",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "3937",
-            "target": "2221",
-            "label": "2017tur"
+            source: "1730",
+            target: "4779",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "1816",
-            "target": "3750",
-            "label": "2019cars"
+            source: "254",
+            target: "3310",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "5496",
-            "target": "4400",
-            "label": "2018hop"
+            source: "3937",
+            target: "948",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "5172",
-            "target": "1816",
-            "label": "2019cars"
+            source: "494",
+            target: "865",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1538",
-            "target": "1318",
-            "label": "2018tur"
+            source: "2877",
+            target: "1024",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3164",
-            "target": "5663",
-            "label": "2018new"
+            source: "4525",
+            target: "6201",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1023",
-            "target": "910",
-            "label": "2018cur"
+            source: "16",
+            target: "5084",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "1540",
-            "target": "5312",
-            "label": "2019new"
+            source: "2122",
+            target: "3663",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "6800",
-            "target": "3132",
-            "label": "2018carv"
+            source: "3476",
+            target: "5677",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "340",
-            "target": "2869",
-            "label": "2019dal"
+            source: "1259",
+            target: "58",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "5436",
-            "label": "2019cars"
+            source: "291",
+            target: "4039",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "271",
-            "target": "3015",
-            "label": "2019arc"
+            source: "1918",
+            target: "3604",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2231",
-            "target": "3211",
-            "label": "2017gal"
+            source: "1073",
+            target: "230",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2415",
-            "target": "2630",
-            "label": "2017gal"
+            source: "1690",
+            target: "250",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "5190",
-            "label": "2018gal"
+            source: "694",
+            target: "870",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "4087",
-            "target": "4043",
-            "label": "2019hop"
+            source: "4516",
+            target: "4080",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3256",
-            "target": "599",
-            "label": "2017carv"
+            source: "3847",
+            target: "6829",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "3476",
-            "target": "5677",
-            "label": "2017tur"
+            source: "3489",
+            target: "1622",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1011",
-            "target": "5499",
-            "label": "2017roe"
+            source: "4939",
+            target: "78",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1325",
-            "target": "2526",
-            "label": "2019arc"
+            source: "2910",
+            target: "5006",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "610",
-            "target": "4338",
-            "label": "2019tes"
+            source: "346",
+            target: "1468",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "418",
-            "target": "4795",
-            "label": "2018carv"
+            source: "1506",
+            target: "4541",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "2557",
-            "target": "2471",
-            "label": "2018tur"
+            source: "1690",
+            target: "971",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "341",
-            "target": "1369",
-            "label": "2018carv"
+            source: "2974",
+            target: "1414",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2168",
-            "target": "3546",
-            "label": "2017tes"
+            source: "1425",
+            target: "1937",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "245",
-            "target": "1025",
-            "label": "2017arc"
+            source: "5817",
+            target: "701",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3674",
-            "target": "2557",
-            "label": "2017carv"
+            source: "6328",
+            target: "1923",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "1241",
-            "label": "2017cur"
+            source: "1731",
+            target: "1507",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "1710",
-            "target": "488",
-            "label": "2018roe"
+            source: "3128",
+            target: "4414",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "1787",
-            "target": "3414",
-            "label": "2019dal"
+            source: "4451",
+            target: "649",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2767",
-            "target": "2708",
-            "label": "2018dal"
+            source: "3478",
+            target: "4904",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3546",
-            "target": "2168",
-            "label": "2018tes"
+            source: "7426",
+            target: "2811",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "4534",
-            "target": "1339",
-            "label": "2019carv"
+            source: "3314",
+            target: "302",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "614",
-            "target": "1025",
-            "label": "2019arc"
+            source: "3238",
+            target: "3339",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "4941",
-            "target": "6340",
-            "label": "2017hop"
+            source: "1730",
+            target: "2590",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "2930",
-            "target": "3478",
-            "label": "2019tur"
+            source: "5675",
+            target: "1360",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3489",
-            "target": "6060",
-            "label": "2018hop"
+            source: "254",
+            target: "948",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4256",
-            "target": "5436",
-            "label": "2019cars"
+            source: "997",
+            target: "5295",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "2046",
-            "label": "2019hop"
+            source: "4468",
+            target: "2367",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4334",
-            "target": "599",
-            "label": "2017carv"
+            source: "3419",
+            target: "1391",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "694",
-            "target": "870",
-            "label": "2018arc"
+            source: "4592",
+            target: "2403",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1538",
-            "target": "2576",
-            "label": "2017gal"
+            source: "2642",
+            target: "3663",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1661",
-            "target": "4270",
-            "label": "2017tur"
+            source: "1710",
+            target: "488",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1574",
-            "target": "3374",
-            "label": "2018gal"
+            source: "2073",
+            target: "1902",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "364",
-            "target": "330",
-            "label": "2019carv"
+            source: "604",
+            target: "2903",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2733",
-            "target": "5930",
-            "label": "2019tur"
+            source: "2403",
+            target: "3164",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2046",
-            "target": "6485",
-            "label": "2019hop"
+            source: "4451",
+            target: "2147",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "230",
-            "label": "2018cur"
+            source: "6996",
+            target: "6390",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "2848",
-            "target": "1318",
-            "label": "2018tur"
+            source: "226",
+            target: "449",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "133",
-            "target": "2614",
-            "label": "2019dal"
+            source: "5406",
+            target: "2481",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "4557",
-            "label": "2018arc"
+            source: "303",
+            target: "25",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1506",
-            "target": "4391",
-            "label": "2017dar"
+            source: "1806",
+            target: "842",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "2910",
-            "target": "5006",
-            "label": "2018carv"
+            source: "359",
+            target: "4005",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "314",
-            "target": "3667",
-            "label": "2018tes"
+            source: "2733",
+            target: "5930",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "125",
-            "target": "2194",
-            "label": "2018dar"
+            source: "4191",
+            target: "1983",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "386",
-            "target": "2881",
-            "label": "2019carv"
+            source: "135",
+            target: "6329",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1325",
-            "target": "1720",
-            "label": "2019arc"
+            source: "4613",
+            target: "1939",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2877",
-            "target": "4308",
-            "label": "2018dal"
+            source: "1285",
+            target: "4917",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "1506",
-            "target": "1885",
-            "label": "2019dal"
+            source: "2706",
+            target: "1189",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3647",
-            "target": "3616",
-            "label": "2017new"
+            source: "1684",
+            target: "1501",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "4039",
-            "target": "2994",
-            "label": "2019dal"
+            source: "3959",
+            target: "1983",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "5687",
-            "label": "2018cur"
+            source: "1285",
+            target: "3357",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "5847",
-            "target": "1880",
-            "label": "2017arc"
+            source: "1986",
+            target: "846",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "3735",
-            "label": "2017new"
+            source: "558",
+            target: "6334",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "4910",
-            "target": "1987",
-            "label": "2019hop"
+            source: "4189",
+            target: "79",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "3397",
-            "target": "6705",
-            "label": "2018hop"
+            source: "2016",
+            target: "870",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2338",
-            "target": "5505",
-            "label": "2018cars"
+            source: "1690",
+            target: "4265",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "111",
-            "target": "3284",
-            "label": "2017tes"
+            source: "2826",
+            target: "2852",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "5436",
-            "target": "4362",
-            "label": "2017dal"
+            source: "1559",
+            target: "58",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "6705",
-            "target": "1339",
-            "label": "2017roe"
+            source: "3015",
+            target: "3546",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5460",
-            "target": "5205",
-            "label": "2018cur"
+            source: "6502",
+            target: "342",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "4191",
-            "target": "2584",
-            "label": "2018roe"
+            source: "865",
+            target: "51",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "3130",
-            "target": "193",
-            "label": "2017tes"
+            source: "5460",
+            target: "2481",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2478",
-            "target": "488",
-            "label": "2017roe"
+            source: "3674",
+            target: "4256",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "5687",
-            "target": "4814",
-            "label": "2018cur"
+            source: "4541",
+            target: "5422",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "4237",
-            "target": "3620",
-            "label": "2018arc"
+            source: "16",
+            target: "4795",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "2370",
-            "target": "876",
-            "label": "2019cars"
+            source: "1923",
+            target: "868",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "3494",
-            "target": "503",
-            "label": "2017cars"
+            source: "3663",
+            target: "1671",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "4537",
-            "target": "4499",
-            "label": "2017gal"
+            source: "180",
+            target: "696",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "3620",
-            "target": "1322",
-            "label": "2018arc"
+            source: "4917",
+            target: "4939",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2990",
-            "target": "3931",
-            "label": "2019carv"
+            source: "3284",
+            target: "1730",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4516",
-            "target": "2486",
-            "label": "2017gal"
+            source: "384",
+            target: "191",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "1511",
-            "label": "2017cur"
+            source: "2826",
+            target: "4607",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "114",
-            "target": "6418",
-            "label": "2019gal"
+            source: "1983",
+            target: "2584",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1937",
-            "target": "3802",
-            "label": "2017carv"
+            source: "5805",
+            target: "343",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "5690",
-            "target": "694",
-            "label": "2017dal"
+            source: "418",
+            target: "2485",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "4063",
-            "label": "2019hop"
+            source: "3538",
+            target: "2826",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1918",
-            "target": "3098",
-            "label": "2017cur"
+            source: "1318",
+            target: "3847",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "4004",
-            "target": "4476",
-            "label": "2018cars"
+            source: "2194",
+            target: "78",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4500",
-            "target": "2077",
-            "label": "2017cur"
+            source: "4776",
+            target: "2830",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "968",
-            "target": "4468",
-            "label": "2018new"
+            source: "4613",
+            target: "3937",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "5572",
-            "target": "2990",
-            "label": "2018hop"
+            source: "3339",
+            target: "1700",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "4265",
-            "target": "8",
-            "label": "2017roe"
+            source: "610",
+            target: "3539",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "27",
-            "target": "3986",
-            "label": "2019tes"
+            source: "2834",
+            target: "3339",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2383",
-            "target": "649",
-            "label": "2019tur"
+            source: "4405",
+            target: "1718",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1323",
-            "target": "1778",
-            "label": "2018roe"
+            source: "5572",
+            target: "2990",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "619",
-            "target": "5587",
-            "label": "2019cars"
+            source: "4488",
+            target: "7446",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "469",
-            "target": "610",
-            "label": "2018dal"
+            source: "3707",
+            target: "217",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "6364",
-            "target": "4005",
-            "label": "2019roe"
+            source: "2834",
+            target: "4028",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "1073",
-            "label": "2019cur"
+            source: "5468",
+            target: "1425",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2403",
-            "target": "5026",
-            "label": "2017roe"
+            source: "234",
+            target: "1519",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1024",
-            "target": "4308",
-            "label": "2018dal"
+            source: "624",
+            target: "932",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "1076",
-            "target": "3452",
-            "label": "2019cars"
+            source: "2056",
+            target: "1511",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "4534",
-            "label": "2019carv"
+            source: "3707",
+            target: "1218",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "3310",
-            "target": "118",
-            "label": "2018new"
+            source: "2052",
+            target: "20",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "3937",
-            "target": "948",
-            "label": "2017tur"
+            source: "6803",
+            target: "2642",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5687",
-            "target": "384",
-            "label": "2019arc"
+            source: "131",
+            target: "5413",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "4917",
-            "target": "3357",
-            "label": "2019tes"
+            source: "5803",
+            target: "6508",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "399",
-            "target": "3970",
-            "label": "2018hop"
+            source: "1538",
+            target: "1414",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "5155",
-            "target": "226",
-            "label": "2017cur"
+            source: "3478",
+            target: "2231",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3255",
-            "target": "1533",
-            "label": "2017new"
+            source: "2848",
+            target: "1318",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "125",
-            "target": "1796",
-            "label": "2017cars"
+            source: "494",
+            target: "51",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1023",
-            "target": "967",
-            "label": "2019cur"
+            source: "4587",
+            target: "4565",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3646",
-            "target": "498",
-            "label": "2019gal"
+            source: "4451",
+            target: "3997",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "4499",
-            "label": "2019hop"
+            source: "203",
+            target: "1807",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "20",
-            "target": "1023",
-            "label": "2018cur"
+            source: "2826",
+            target: "188",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "6445",
-            "target": "3478",
-            "label": "2017gal"
+            source: "6803",
+            target: "2655",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "3647",
-            "target": "1156",
-            "label": "2017new"
+            source: "2451",
+            target: "2194",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1577",
-            "target": "3324",
-            "label": "2019tes"
+            source: "2791",
+            target: "771",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "842",
-            "target": "2478",
-            "label": "2018tur"
+            source: "5074",
+            target: "4201",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2910",
-            "target": "2230",
-            "label": "2017hop"
+            source: "1305",
+            target: "747",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2481",
-            "target": "2791",
-            "label": "2017cur"
+            source: "842",
+            target: "2478",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "135",
-            "target": "4961",
-            "label": "2017cars"
+            source: "340",
+            target: "238",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "4143",
-            "target": "5205",
-            "label": "2017cur"
+            source: "1102",
+            target: "7446",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2200",
-            "target": "5740",
-            "label": "2019dal"
+            source: "3250",
+            target: "2073",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "971",
-            "target": "3646",
-            "label": "2019gal"
+            source: "2990",
+            target: "3931",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2486",
-            "target": "4080",
-            "label": "2017gal"
+            source: "2557",
+            target: "6304",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "2478",
-            "target": "6800",
-            "label": "2019gal"
+            source: "5468",
+            target: "3802",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "7108",
-            "target": "368",
-            "label": "2019carv"
+            source: "3641",
+            target: "2611",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "3015",
-            "target": "11",
-            "label": "2017tes"
+            source: "2478",
+            target: "6800",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "399",
-            "target": "5677",
-            "label": "2017tur"
+            source: "33",
+            target: "836",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3316",
-            "target": "488",
-            "label": "2017roe"
+            source: "4451",
+            target: "3196",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4362",
-            "target": "3314",
-            "label": "2019cars"
+            source: "5026",
+            target: "1477",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "494",
-            "target": "51",
-            "label": "2018dar"
+            source: "2046",
+            target: "1595",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "4481",
-            "label": "2019dar"
+            source: "5818",
+            target: "2910",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4537",
-            "target": "3005",
-            "label": "2017gal"
+            source: "610",
+            target: "6387",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "3635",
-            "label": "2019hop"
+            source: "319",
+            target: "5980",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "701",
-            "target": "5572",
-            "label": "2017gal"
+            source: "5012",
+            target: "3478",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "900",
-            "label": "2017new"
+            source: "176",
+            target: "2200",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "368",
-            "target": "1817",
-            "label": "2018gal"
+            source: "5295",
+            target: "79",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "2590",
-            "target": "1720",
-            "label": "2018tes"
+            source: "5199",
+            target: "6474",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "3538",
-            "target": "1747",
-            "label": "2018cur"
+            source: "16",
+            target: "868",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "3015",
-            "target": "3546",
-            "label": "2017tes"
+            source: "1414",
+            target: "5805",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "832",
-            "target": "6340",
-            "label": "2017hop"
+            source: "649",
+            target: "1094",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "3489",
-            "target": "7039",
-            "label": "2018hop"
+            source: "6329",
+            target: "4961",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1414",
-            "target": "343",
-            "label": "2018carv"
+            source: "2363",
+            target: "222",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "180",
-            "target": "6025",
-            "label": "2018hop"
+            source: "694",
+            target: "2994",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "2557",
-            "target": "2130",
-            "label": "2018tur"
+            source: "1658",
+            target: "2485",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "6072",
-            "target": "6996",
-            "label": "2018roe"
+            source: "842",
+            target: "1806",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "1410",
-            "target": "3039",
-            "label": "2017hop"
+            source: "3940",
+            target: "3604",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "747",
-            "target": "4256",
-            "label": "2019cars"
+            source: "4613",
+            target: "5429",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4003",
-            "target": "133",
-            "label": "2019dal"
+            source: "1519",
+            target: "5234",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "111",
-            "target": "2052",
-            "label": "2019cars"
+            source: "3539",
+            target: "401",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "5818",
-            "target": "2910",
-            "label": "2017hop"
+            source: "56",
+            target: "4028",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1796",
-            "target": "245",
-            "label": "2018dal"
+            source: "1323",
+            target: "2473",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "25",
-            "target": "3015",
-            "label": "2018cars"
+            source: "4488",
+            target: "3374",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1285",
-            "target": "4939",
-            "label": "2019tes"
+            source: "386",
+            target: "2881",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "25",
-            "target": "88",
-            "label": "2018cars"
+            source: "4678",
+            target: "2614",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "5254",
-            "target": "422",
-            "label": "2018cars"
+            source: "4522",
+            target: "1730",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "27",
-            "target": "4678",
-            "label": "2017dal"
+            source: "245",
+            target: "188",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "7887",
-            "target": "932",
-            "label": "2019new"
+            source: "3647",
+            target: "1251",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5687",
-            "target": "597",
-            "label": "2017cars"
+            source: "687",
+            target: "2183",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "3737",
-            "target": "4270",
-            "label": "2017tur"
+            source: "6201",
+            target: "1418",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "33",
-            "target": "7048",
-            "label": "2018dal"
+            source: "6538",
+            target: "2607",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5499",
-            "target": "7521",
-            "label": "2019new"
+            source: "172",
+            target: "558",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "5012",
-            "label": "2017new"
+            source: "3103",
+            target: "5417",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "3538",
-            "label": "2019cur"
+            source: "5676",
+            target: "384",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "624",
-            "target": "932",
-            "label": "2019new"
+            source: "3835",
+            target: "5818",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4776",
-            "target": "1218",
-            "label": "2018arc"
+            source: "744",
+            target: "5805",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "223",
-            "target": "5740",
-            "label": "2019dal"
+            source: "4613",
+            target: "5190",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "56",
-            "target": "1391",
-            "label": "2018dar"
+            source: "1519",
+            target: "3130",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "832",
-            "target": "4941",
-            "label": "2017hop"
+            source: "5050",
+            target: "111",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "1729",
-            "target": "1787",
-            "label": "2019dal"
+            source: "6443",
+            target: "2811",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "3339",
-            "target": "1700",
-            "label": "2017carv"
+            source: "3997",
+            target: "2147",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "997",
-            "target": "79",
-            "label": "2017new"
+            source: "4516",
+            target: "86",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1729",
-            "target": "1718",
-            "label": "2019dal"
+            source: "4976",
+            target: "4678",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "6502",
-            "target": "6800",
-            "label": "2018carv"
+            source: "604",
+            target: "1011",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5817",
-            "target": "701",
-            "label": "2018gal"
+            source: "176",
+            target: "223",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1414",
-            "target": "744",
-            "label": "2018carv"
+            source: "4917",
+            target: "3929",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "5411",
-            "target": "3737",
-            "label": "2019roe"
+            source: "16",
+            target: "3937",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3616",
-            "target": "1156",
-            "label": "2017new"
+            source: "330",
+            target: "1339",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "3847",
-            "target": "900",
-            "label": "2017new"
+            source: "1885",
+            target: "5036",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1806",
-            "target": "842",
-            "label": "2018tur"
+            source: "1678",
+            target: "4061",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "148",
-            "target": "3464",
-            "label": "2017tes"
+            source: "987",
+            target: "6314",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "610",
-            "target": "359",
-            "label": "2017dar"
+            source: "2619",
+            target: "193",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "1466",
-            "label": "2018carv"
+            source: "401",
+            target: "4213",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1706",
-            "target": "957",
-            "label": "2018hop"
+            source: "973",
+            target: "1011",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1296",
-            "target": "3593",
-            "label": "2018tur"
+            source: "118",
+            target: "2147",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2471",
-            "target": "2910",
-            "label": "2019new"
+            source: "71",
+            target: "1640",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "2834",
-            "target": "1629",
-            "label": "2017arc"
+            source: "1323",
+            target: "6554",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "2848",
-            "label": "2017hop"
+            source: "314",
+            target: "4678",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "3489",
-            "target": "1622",
-            "label": "2017new"
+            source: "3646",
+            target: "498",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "1648",
-            "target": "6474",
-            "label": "2018new"
+            source: "687",
+            target: "5199",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "1360",
-            "target": "4039",
-            "label": "2018tes"
+            source: "3310",
+            target: "948",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "3683",
-            "target": "346",
-            "label": "2018dal"
+            source: "4855",
+            target: "1796",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "368",
-            "target": "4256",
-            "label": "2018gal"
+            source: "4189",
+            target: "997",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "359",
-            "target": "6387",
-            "label": "2017dar"
+            source: "2928",
+            target: "7446",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2791",
-            "target": "203",
-            "label": "2017cur"
+            source: "4039",
+            target: "2609",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "4678",
-            "target": "2614",
-            "label": "2017dal"
+            source: "2471",
+            target: "3256",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "5012",
-            "target": "6377",
-            "label": "2019tur"
+            source: "217",
+            target: "5172",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "33",
-            "target": "2526",
-            "label": "2019arc"
+            source: "624",
+            target: "5654",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2642",
-            "target": "488",
-            "label": "2017roe"
+            source: "1684",
+            target: "5712",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "973",
-            "target": "3284",
-            "label": "2018hop"
+            source: "973",
+            target: "5499",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2619",
-            "target": "4485",
-            "label": "2017tes"
+            source: "5114",
+            target: "5401",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "910",
-            "target": "5860",
-            "label": "2019arc"
+            source: "4265",
+            target: "3824",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "4486",
-            "target": "5635",
-            "label": "2017new"
+            source: "6377",
+            target: "3128",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "1073",
-            "target": "230",
-            "label": "2019cur"
+            source: "2928",
+            target: "5499",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "4592",
-            "target": "2403",
-            "label": "2017roe"
+            source: "118",
+            target: "3128",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "1747",
-            "target": "2826",
-            "label": "2018cur"
+            source: "1648",
+            target: "687",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5199",
-            "target": "7621",
-            "label": "2019tur"
+            source: "1114",
+            target: "2056",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "624",
-            "target": "418",
-            "label": "2017roe"
+            source: "364",
+            target: "4534",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "2992",
-            "label": "2017carv"
+            source: "2471",
+            target: "3598",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "294",
-            "target": "3223",
-            "label": "2018hop"
+            source: "5985",
+            target: "5472",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "5460",
-            "target": "2481",
-            "label": "2019arc"
+            source: "5104",
+            target: "5677",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "2046",
-            "target": "1595",
-            "label": "2017tur"
+            source: "2075",
+            target: "340",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "2659",
-            "label": "2018gal"
+            source: "3512",
+            target: "1102",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "384",
-            "target": "4476",
-            "label": "2018cars"
+            source: "4814",
+            target: "2648",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "3309",
-            "target": "1515",
-            "label": "2019carv"
+            source: "1311",
+            target: "1072",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "33",
-            "target": "5024",
-            "label": "2017cars"
+            source: "604",
+            target: "3245",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "3683",
-            "target": "2084",
-            "label": "2017tes"
+            source: "1305",
+            target: "314",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "5987",
-            "target": "5499",
-            "label": "2018carv"
+            source: "2102",
+            target: "364",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "5417",
-            "target": "108",
-            "label": "2017tur"
+            source: "217",
+            target: "2834",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "865",
-            "label": "2017arc"
+            source: "3881",
+            target: "1318",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "4855",
-            "target": "237",
-            "label": "2018dal"
+            source: "2481",
+            target: "203",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "33",
-            "target": "1720",
-            "label": "2019arc"
+            source: "3572",
+            target: "6569",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2056",
-            "target": "4296",
-            "label": "2019cur"
+            source: "67",
+            target: "1114",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "386",
-            "target": "4079",
-            "label": "2019carv"
+            source: "4253",
+            target: "1736",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "1658",
-            "target": "2485",
-            "label": "2019roe"
+            source: "70",
+            target: "1987",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "1640",
-            "target": "271",
-            "label": "2019arc"
+            source: "4946",
+            target: "3461",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "78",
-            "target": "5413",
-            "label": "2017dar"
+            source: "2526",
+            target: "1720",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2930",
-            "target": "2557",
-            "label": "2017carv"
+            source: "1076",
+            target: "3452",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "103",
-            "target": "3555",
-            "label": "2019dar"
+            source: "195",
+            target: "230",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "179",
-            "target": "498",
-            "label": "2019gal"
+            source: "3620",
+            target: "1747",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "1629",
-            "target": "33",
-            "label": "2018dal"
+            source: "368",
+            target: "1817",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1540",
-            "target": "4415",
-            "label": "2019new"
+            source: "930",
+            target: "1325",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "1778",
-            "target": "4513",
-            "label": "2017hop"
+            source: "3656",
+            target: "303",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2200",
-            "target": "1218",
-            "label": "2018arc"
+            source: "384",
+            target: "4476",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "51",
-            "target": "245",
-            "label": "2019dar"
+            source: "2403",
+            target: "1726",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "237",
-            "target": "245",
-            "label": "2018dal"
+            source: "3238",
+            target: "1700",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "2502",
-            "target": "4253",
-            "label": "2018cars"
+            source: "294",
+            target: "3223",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4362",
-            "target": "2590",
-            "label": "2019cars"
+            source: "5818",
+            target: "4561",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1690",
-            "target": "4265",
-            "label": "2018carv"
+            source: "2619",
+            target: "3130",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5818",
-            "target": "4941",
-            "label": "2018tur"
+            source: "987",
+            target: "2607",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "179",
-            "target": "1540",
-            "label": "2018roe"
+            source: "5460",
+            target: "5205",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "4776",
-            "target": "614",
-            "label": "2019arc"
+            source: "4513",
+            target: "3164",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2557",
-            "target": "231",
-            "label": "2019roe"
+            source: "610",
+            target: "1577",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "456",
-            "target": "4400",
-            "label": "2018hop"
+            source: "359",
+            target: "7498",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "3707",
-            "target": "195",
-            "label": "2018cur"
+            source: "2415",
+            target: "4112",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "2102",
-            "target": "2183",
-            "label": "2019carv"
+            source: "1730",
+            target: "6321",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4522",
-            "target": "2383",
-            "label": "2018roe"
+            source: "4814",
+            target: "4028",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2733",
-            "target": "1726",
-            "label": "2019tur"
+            source: "6443",
+            target: "7426",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "649",
-            "target": "7308",
-            "label": "2019tur"
+            source: "649",
+            target: "6831",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "111",
-            "target": "1023",
-            "label": "2017tes"
+            source: "2877",
+            target: "188",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "364",
-            "target": "6445",
-            "label": "2018tur"
+            source: "7887",
+            target: "1817",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "694",
-            "target": "2994",
-            "label": "2019dal"
+            source: "930",
+            target: "1310",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "5554",
-            "target": "1982",
-            "label": "2018new"
+            source: "177",
+            target: "3274",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1983",
-            "target": "2584",
-            "label": "2018roe"
+            source: "4513",
+            target: "5663",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "3476",
-            "target": "1311",
-            "label": "2019hop"
+            source: "3937",
+            target: "2468",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "4405",
-            "target": "5460",
-            "label": "2018cur"
+            source: "1661",
+            target: "1540",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "118",
-            "target": "5006",
-            "label": "2019carv"
+            source: "836",
+            target: "7048",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3238",
-            "target": "1700",
-            "label": "2017carv"
+            source: "2851",
+            target: "967",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2164",
-            "target": "141",
-            "label": "2017dal"
+            source: "5436",
+            target: "4362",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4587",
-            "target": "4565",
-            "label": "2019gal"
+            source: "3452",
+            target: "5687",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "862",
-            "target": "5505",
-            "label": "2018cars"
+            source: "5172",
+            target: "1796",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "1648",
-            "target": "5199",
-            "label": "2018new"
+            source: "234",
+            target: "2137",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "3467",
-            "target": "1325",
-            "label": "2017arc"
+            source: "4911",
+            target: "2059",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "6996",
-            "target": "6390",
-            "label": "2018roe"
+            source: "4063",
+            target: "2059",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3128",
-            "target": "4414",
-            "label": "2019gal"
+            source: "20",
+            target: "910",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "624",
-            "target": "1817",
-            "label": "2019new"
+            source: "2557",
+            target: "2471",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "829",
-            "target": "1519",
-            "label": "2017tes"
+            source: "971",
+            target: "2974",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "85",
-            "target": "2474",
-            "label": "2018tes"
+            source: "5635",
+            target: "1533",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "4539",
-            "target": "346",
-            "label": "2018dal"
+            source: "469",
+            target: "3539",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "4910",
-            "label": "2018gal"
+            source: "133",
+            target: "3940",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "75",
-            "target": "340",
-            "label": "2017dal"
+            source: "7152",
+            target: "2576",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "2992",
-            "target": "3495",
-            "label": "2018hop"
+            source: "176",
+            target: "772",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "4776",
-            "target": "1025",
-            "label": "2019arc"
+            source: "3339",
+            target: "2974",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "3835",
-            "target": "2910",
-            "label": "2017hop"
+            source: "1756",
+            target: "3620",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "2358",
-            "target": "2168",
-            "label": "2019tes"
+            source: "3494",
+            target: "1018",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "78",
-            "target": "131",
-            "label": "2017dar"
+            source: "3853",
+            target: "4468",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4965",
-            "target": "6340",
-            "label": "2017hop"
+            source: "1778",
+            target: "4915",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "314",
-            "target": "4678",
-            "label": "2018tes"
+            source: "4946",
+            target: "3075",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4786",
-            "target": "58",
-            "label": "2018arc"
+            source: "2576",
+            target: "5205",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "610",
-            "target": "3324",
-            "label": "2019tes"
+            source: "2054",
+            target: "2052",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "2370",
-            "label": "2019cars"
+            source: "2102",
+            target: "2183",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "3309",
-            "target": "3931",
-            "label": "2019carv"
+            source: "5401",
+            target: "2534",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "4613",
-            "target": "4125",
-            "label": "2019tur"
+            source: "5155",
+            target: "3875",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "4451",
-            "target": "3245",
-            "label": "2017tur"
+            source: "1619",
+            target: "2582",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "341",
-            "target": "175",
-            "label": "2018carv"
+            source: "2168",
+            target: "2474",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "2471",
-            "target": "3256",
-            "label": "2017carv"
+            source: "2851",
+            target: "5509",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "319",
-            "target": "5980",
-            "label": "2018tes"
+            source: "3357",
+            target: "4967",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "172",
-            "target": "3075",
-            "label": "2019dal"
+            source: "1771",
+            target: "6304",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "2194",
-            "target": "25",
-            "label": "2017cars"
+            source: "503",
+            target: "5053",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "6705",
-            "target": "3495",
-            "label": "2018hop"
+            source: "135",
+            target: "4961",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "2614",
-            "target": "708",
-            "label": "2018tes"
+            source: "5012",
+            target: "6377",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "359",
-            "target": "7039",
-            "label": "2018hop"
+            source: "3538",
+            target: "1073",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1746",
-            "target": "1577",
-            "label": "2017carv"
+            source: "1619",
+            target: "4944",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1706",
-            "target": "1391",
-            "label": "2017tes"
+            source: "2059",
+            target: "5472",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "987",
-            "target": "6314",
-            "label": "2017carv"
+            source: "4039",
+            target: "2702",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "1806",
-            "target": "2478",
-            "label": "2018tur"
+            source: "148",
+            target: "3075",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "56",
-            "target": "4028",
-            "label": "2018dar"
+            source: "1678",
+            target: "1939",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "4201",
-            "label": "2018gal"
+            source: "346",
+            target: "5401",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "2013",
-            "target": "2706",
-            "label": "2018dal"
+            source: "120",
+            target: "2130",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "4946",
-            "target": "3075",
-            "label": "2019dal"
+            source: "3683",
+            target: "2537",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "4188",
-            "target": "5985",
-            "label": "2018roe"
+            source: "3309",
+            target: "3481",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "4516",
-            "target": "4080",
-            "label": "2017gal"
+            source: "1648",
+            target: "6474",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "6485",
-            "target": "4192",
-            "label": "2019hop"
+            source: "3452",
+            target: "4814",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "2877",
-            "target": "1024",
-            "label": "2018dal"
+            source: "870",
+            target: "3386",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "5985",
-            "target": "5472",
-            "label": "2019gal"
+            source: "1002",
+            target: "1339",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "135",
-            "target": "6329",
-            "label": "2017cars"
+            source: "1114",
+            target: "4557",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "4500",
-            "target": "5205",
-            "label": "2017cur"
+            source: "1114",
+            target: "107",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1923",
-            "target": "303",
-            "label": "2018arc"
+            source: "2767",
+            target: "27",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "1574",
-            "target": "3965",
-            "label": "2018gal"
+            source: "4451",
+            target: "2485",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3309",
-            "target": "3481",
-            "label": "2018new"
+            source: "3824",
+            target: "1311",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "2471",
-            "target": "599",
-            "label": "2017carv"
+            source: "359",
+            target: "6364",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1414",
-            "target": "6508",
-            "label": "2017roe"
+            source: "5675",
+            target: "4039",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "4525",
-            "target": "1418",
-            "label": "2017dar"
+            source: "294",
+            target: "3647",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "4525",
-            "target": "6201",
-            "label": "2017dar"
+            source: "2522",
+            target: "2576",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1323",
-            "target": "1072",
-            "label": "2018roe"
+            source: "2403",
+            target: "5026",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "842",
-            "target": "7179",
-            "label": "2018tur"
+            source: "2481",
+            target: "1807",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "2059",
-            "target": "5472",
-            "label": "2019gal"
+            source: "4587",
+            target: "5960",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "1577",
-            "target": "4587",
-            "label": "2018gal"
+            source: "3847",
+            target: "5012",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "1538",
-            "target": "4026",
-            "label": "2019gal"
+            source: "2974",
+            target: "957",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "330",
-            "target": "3005",
-            "label": "2018gal"
+            source: "1574",
+            target: "2485",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "5026",
-            "target": "1622",
-            "label": "2018carv"
+            source: "3965",
+            target: "3374",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "115",
-            "target": "365",
-            "label": "2017roe"
+            source: "3005",
+            target: "4201",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1425",
-            "target": "7121",
-            "label": "2019hop"
+            source: "1574",
+            target: "3374",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "503",
-            "target": "4143",
-            "label": "2019dar"
+            source: "1983",
+            target: "3674",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "234",
-            "target": "2137",
-            "label": "2019cars"
+            source: "148",
+            target: "3847",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1671",
-            "target": "1577",
-            "label": "2017carv"
+            source: "27",
+            target: "3986",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "4946",
-            "target": "2834",
-            "label": "2018dar"
+            source: "5401",
+            target: "5150",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1796",
-            "target": "237",
-            "label": "2018dal"
+            source: "5199",
+            target: "7621",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "1700",
-            "target": "2637",
-            "label": "2017carv"
+            source: "2682",
+            target: "4513",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "492",
-            "target": "2576",
-            "label": "2017gal"
+            source: "492",
+            target: "2576",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "302",
-            "label": "2017dar"
+            source: "5803",
+            target: "3663",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "2771",
-            "target": "245",
-            "label": "2019dar"
+            source: "610",
+            target: "4338",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "3707",
-            "target": "1218",
-            "label": "2019dar"
+            source: "2992",
+            target: "3397",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1421",
-            "target": "5458",
-            "label": "2018carv"
+            source: "5499",
+            target: "7521",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "5050",
-            "target": "133",
-            "label": "2018cars"
+            source: "1706",
+            target: "957",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1259",
-            "target": "1559",
-            "label": "2018arc"
+            source: "5818",
+            target: "2230",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "2576",
-            "target": "27",
-            "label": "2019tes"
+            source: "930",
+            target: "4476",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "86",
-            "target": "4080",
-            "label": "2017gal"
+            source: "33",
+            target: "2052",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "48",
-            "target": "2370",
-            "label": "2017dar"
+            source: "195",
+            target: "177",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "3656",
-            "target": "1923",
-            "label": "2018arc"
+            source: "3853",
+            target: "2367",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "3467",
-            "target": "4476",
-            "label": "2017arc"
+            source: "2158",
+            target: "7121",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "2478",
-            "label": "2019gal"
+            source: "619",
+            target: "234",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2052",
-            "target": "20",
-            "label": "2017cars"
+            source: "708",
+            target: "5442",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "2576",
-            "target": "5205",
-            "label": "2019tes"
+            source: "1011",
+            target: "5499",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "2231",
-            "target": "4201",
-            "label": "2017gal"
+            source: "4500",
+            target: "4143",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "303",
-            "target": "2451",
-            "label": "2017cars"
+            source: "5104",
+            target: "399",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "3314",
-            "target": "3132",
-            "label": "2017hop"
+            source: "225",
+            target: "558",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "1684",
-            "target": "302",
-            "label": "2018cur"
+            source: "3620",
+            target: "2164",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4678",
-            "target": "3667",
-            "label": "2018tes"
+            source: "1574",
+            target: "624",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "4476",
-            "target": "191",
-            "label": "2018cars"
+            source: "5813",
+            target: "2175",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1076",
-            "target": "2370",
-            "label": "2019cars"
+            source: "3005",
+            target: "5499",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "2016",
-            "target": "870",
-            "label": "2018arc"
+            source: "2451",
+            target: "25",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "3473",
-            "target": "3663",
-            "label": "2017new"
+            source: "5411",
+            target: "2485",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "558",
-            "label": "2017arc"
+            source: "330",
+            target: "3005",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "3310",
-            "label": "2017dar"
+            source: "2960",
+            target: "141",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "1262",
-            "target": "1153",
-            "label": "2019tes"
+            source: "1718",
+            target: "5205",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "1477",
-            "target": "6508",
-            "label": "2017roe"
+            source: "3853",
+            target: "968",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5635",
-            "target": "1533",
-            "label": "2017new"
+            source: "2791",
+            target: "203",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "846",
-            "target": "2659",
-            "label": "2019new"
+            source: "1778",
+            target: "2682",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "3005",
-            "target": "7521",
-            "label": "2019new"
+            source: "176",
+            target: "5740",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "5690",
-            "target": "1806",
-            "label": "2017dal"
+            source: "4003",
+            target: "5422",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "3663",
-            "target": "6377",
-            "label": "2017new"
+            source: "4028",
+            target: "236",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "1629",
-            "label": "2017arc"
+            source: "1023",
+            target: "3284",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5468",
-            "target": "3802",
-            "label": "2017carv"
+            source: "6025",
+            target: "2283",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "4334",
-            "target": "3256",
-            "label": "2017carv"
+            source: "4910",
+            target: "4635",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3538",
-            "target": "4607",
-            "label": "2018cur"
+            source: "341",
+            target: "1369",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "5676",
-            "target": "384",
-            "label": "2019arc"
+            source: "188",
+            target: "2852",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1885",
-            "target": "4903",
-            "label": "2019dal"
+            source: "469",
+            target: "401",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2137",
-            "target": "5587",
-            "label": "2019cars"
+            source: "1538",
+            target: "3847",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1661",
-            "target": "3737",
-            "label": "2017tur"
+            source: "2471",
+            target: "2130",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "1262",
-            "target": "6569",
-            "label": "2019tes"
+            source: "1718",
+            target: "3414",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "2383",
-            "target": "1094",
-            "label": "2019tur"
+            source: "3555",
+            target: "449",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2481",
-            "target": "5036",
-            "label": "2018dar"
+            source: "3847",
+            target: "900",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "5104",
-            "target": "1011",
-            "label": "2018new"
+            source: "1817",
+            target: "932",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "2791",
-            "target": "5951",
-            "label": "2019dar"
+            source: "5104",
+            target: "6424",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2990",
-            "target": "1515",
-            "label": "2019carv"
+            source: "4061",
+            target: "1723",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "1011",
-            "target": "2928",
-            "label": "2017roe"
+            source: "2046",
+            target: "6485",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "3997",
-            "target": "3245",
-            "label": "2017tur"
+            source: "115",
+            target: "5614",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "868",
-            "target": "5084",
-            "label": "2019dar"
+            source: "3683",
+            target: "870",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2337",
-            "target": "222",
-            "label": "2017arc"
+            source: "2767",
+            target: "4027",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "133",
-            "target": "3604",
-            "label": "2018cars"
+            source: "340",
+            target: "1718",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4587",
-            "target": "1197",
-            "label": "2018gal"
+            source: "399",
+            target: "973",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "245",
-            "target": "3539",
-            "label": "2017arc"
+            source: "624",
+            target: "1982",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "2168",
-            "target": "341",
-            "label": "2019tes"
+            source: "494",
+            target: "4917",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "3572",
-            "target": "1262",
-            "label": "2019tes"
+            source: "3164",
+            target: "5663",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "5406",
-            "target": "1285",
-            "label": "2017dal"
+            source: "5411",
+            target: "1658",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5654",
-            "target": "2630",
-            "label": "2017gal"
+            source: "359",
+            target: "3489",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "2974",
-            "target": "1538",
-            "label": "2019gal"
+            source: "222",
+            target: "1025",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1533",
-            "target": "1296",
-            "label": "2018tur"
+            source: "1023",
+            target: "910",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "234",
-            "target": "5587",
-            "label": "2019cars"
+            source: "5114",
+            target: "5150",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "2992",
-            "target": "2974",
-            "label": "2017carv"
+            source: "3314",
+            target: "1410",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "384",
-            "target": "1511",
-            "label": "2017cur"
+            source: "1262",
+            target: "6569",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "868",
-            "target": "5422",
-            "label": "2018arc"
+            source: "2333",
+            target: "5572",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "1640",
-            "target": "3015",
-            "label": "2019arc"
+            source: "238",
+            target: "5980",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "1684",
-            "target": "303",
-            "label": "2019cur"
+            source: "1796",
+            target: "597",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "172",
-            "target": "4946",
-            "label": "2019dal"
+            source: "1477",
+            target: "1414",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "4941",
-            "target": "4965",
-            "label": "2017hop"
+            source: "1251",
+            target: "1410",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "449",
-            "target": "3875",
-            "label": "2017cur"
+            source: "111",
+            target: "1023",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5024",
-            "target": "20",
-            "label": "2017cars"
+            source: "4776",
+            target: "1218",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "1706",
-            "target": "4481",
-            "label": "2017tes"
+            source: "20",
+            target: "1684",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "5050",
-            "target": "3604",
-            "label": "2018cars"
+            source: "237",
+            target: "245",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2062",
-            "target": "2075",
-            "label": "2019dal"
+            source: "4613",
+            target: "4125",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "6106",
-            "target": "6390",
-            "label": "2018roe"
+            source: "1325",
+            target: "33",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "4296",
-            "target": "107",
-            "label": "2019cur"
+            source: "3015",
+            target: "11",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "3928",
-            "target": "2202",
-            "label": "2018arc"
+            source: "2960",
+            target: "3620",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "5026",
-            "target": "1477",
-            "label": "2018carv"
+            source: "148",
+            target: "2976",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "3238",
-            "target": "3339",
-            "label": "2017carv"
+            source: "3542",
+            target: "578",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "888",
-            "label": "2018dal"
+            source: "2073",
+            target: "3245",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "179",
-            "target": "3646",
-            "label": "2018roe"
+            source: "5813",
+            target: "316",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "3546",
-            "target": "11",
-            "label": "2017tes"
+            source: "4253",
+            target: "3990",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "225",
-            "target": "25",
-            "label": "2018cars"
+            source: "2054",
+            target: "1741",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "3339",
-            "target": "957",
-            "label": "2018hop"
+            source: "3538",
+            target: "4607",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "195",
-            "target": "177",
-            "label": "2017cars"
+            source: "195",
+            target: "333",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "191",
-            "target": "3414",
-            "label": "2017tes"
+            source: "3039",
+            target: "4079",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1574",
-            "target": "2485",
-            "label": "2017roe"
+            source: "5015",
+            target: "1983",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "3674",
-            "target": "233",
-            "label": "2019new"
+            source: "4939",
+            target: "131",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2075",
-            "target": "2202",
-            "label": "2018arc"
+            source: "1425",
+            target: "4795",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "1747",
-            "target": "6909",
-            "label": "2019tes"
+            source: "4561",
+            target: "4941",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "3824",
-            "target": "1311",
-            "label": "2019hop"
+            source: "1629",
+            target: "33",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3538",
-            "target": "230",
-            "label": "2019cur"
+            source: "281",
+            target: "5588",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "217",
-            "target": "5172",
-            "label": "2017arc"
+            source: "3310",
+            target: "6986",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "7426",
-            "target": "2811",
-            "label": "2019carv"
+            source: "2648",
+            target: "236",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2337",
-            "target": "250",
-            "label": "2019dar"
+            source: "5802",
+            target: "108",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "5803",
-            "target": "3663",
-            "label": "2019hop"
+            source: "8",
+            target: "3824",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "610",
-            "target": "1577",
-            "label": "2019tes"
+            source: "2930",
+            target: "6377",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "27",
-            "target": "2614",
-            "label": "2017dal"
+            source: "4967",
+            target: "4130",
+            label: "2018cars",
+            visible: true,
         },
         {
-            "source": "5801",
-            "target": "6418",
-            "label": "2019gal"
+            source: "379",
+            target: "1741",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "4488",
-            "target": "2928",
-            "label": "2019gal"
+            source: "4613",
+            target: "5468",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "5813",
-            "target": "2175",
-            "label": "2018cur"
+            source: "4237",
+            target: "4253",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "234",
-            "target": "1519",
-            "label": "2018dar"
+            source: "1747",
+            target: "2826",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "5712",
-            "target": "2096",
-            "label": "2019cars"
+            source: "1706",
+            target: "2974",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1506",
-            "target": "4541",
-            "label": "2019dal"
+            source: "4469",
+            target: "6800",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3310",
-            "target": "6986",
-            "label": "2019tur"
+            source: "456",
+            target: "4400",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "1241",
-            "target": "384",
-            "label": "2017cur"
+            source: "1506",
+            target: "3928",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "2910",
-            "target": "3598",
-            "label": "2019new"
+            source: "1296",
+            target: "3593",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "5802",
-            "target": "108",
-            "label": "2017tur"
+            source: "2062",
+            target: "2869",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "71",
-            "target": "1720",
-            "label": "2017cur"
+            source: "118",
+            target: "5892",
+            label: "2017new",
+            visible: true,
         },
         {
-            "source": "3620",
-            "target": "4909",
-            "label": "2019tes"
+            source: "548",
+            target: "5401",
+            label: "2019tes",
+            visible: true,
         },
         {
-            "source": "1515",
-            "target": "3931",
-            "label": "2019carv"
+            source: "4296",
+            target: "107",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "2468",
-            "target": "4565",
-            "label": "2019gal"
+            source: "2337",
+            target: "250",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "4967",
-            "target": "4130",
-            "label": "2018cars"
+            source: "3419",
+            target: "1706",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1731",
-            "target": "1885",
-            "label": "2018cars"
+            source: "192",
+            target: "587",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3397",
-            "target": "3495",
-            "label": "2018hop"
+            source: "4513",
+            target: "3196",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "865",
-            "target": "4917",
-            "label": "2018dar"
+            source: "27",
+            target: "4027",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "2771",
-            "target": "1507",
-            "label": "2018cars"
+            source: "1577",
+            target: "4587",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "2122",
-            "target": "4910",
-            "label": "2017carv"
+            source: "294",
+            target: "1251",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "834",
-            "target": "2607",
-            "label": "2017tes"
+            source: "4334",
+            target: "599",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "1747",
-            "target": "4607",
-            "label": "2018cur"
+            source: "1410",
+            target: "3039",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1718",
-            "target": "3414",
-            "label": "2019dal"
+            source: "619",
+            target: "5587",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2337",
-            "target": "1018",
-            "label": "2018dar"
+            source: "3598",
+            target: "5109",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "4522",
-            "target": "5985",
-            "label": "2018roe"
+            source: "2102",
+            target: "6445",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "5803",
-            "target": "1466",
-            "label": "2018carv"
+            source: "836",
+            target: "1918",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "7108",
-            "target": "7796",
-            "label": "2019carv"
+            source: "1515",
+            target: "3931",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "5172",
-            "target": "2834",
-            "label": "2017arc"
+            source: "744",
+            target: "4499",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "3512",
-            "target": "1102",
-            "label": "2018tur"
+            source: "2415",
+            target: "2630",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "5074",
-            "target": "4201",
-            "label": "2017gal"
+            source: "2200",
+            target: "5740",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "4191",
-            "target": "1983",
-            "label": "2018roe"
+            source: "2930",
+            target: "179",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "5190",
-            "target": "1369",
-            "label": "2019roe"
+            source: "5431",
+            target: "5588",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4028",
-            "target": "1391",
-            "label": "2018dar"
+            source: "2231",
+            target: "2054",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "1369",
-            "target": "6647",
-            "label": "2019roe"
+            source: "973",
+            target: "1323",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "118",
-            "target": "6377",
-            "label": "2018new"
+            source: "67",
+            target: "2137",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "624",
-            "target": "5554",
-            "label": "2018new"
+            source: "4237",
+            target: "1732",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "1156",
-            "target": "4400",
-            "label": "2018hop"
+            source: "7887",
+            target: "932",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "5417",
-            "target": "5802",
-            "label": "2017tur"
+            source: "1533",
+            target: "1369",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "1533",
-            "target": "3593",
-            "label": "2018tur"
+            source: "330",
+            target: "4201",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "3959",
-            "target": "2584",
-            "label": "2018roe"
+            source: "708",
+            target: "1720",
+            label: "2018tes",
+            visible: true,
         },
         {
-            "source": "314",
-            "target": "5114",
-            "label": "2018tes"
+            source: "1577",
+            target: "1197",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "4405",
-            "target": "5205",
-            "label": "2018cur"
+            source: "3211",
+            target: "5074",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "4911",
-            "target": "2910",
-            "label": "2018carv"
+            source: "2075",
+            target: "4392",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "141",
-            "target": "2013",
-            "label": "2018dal"
+            source: "4143",
+            target: "5205",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "5892",
-            "target": "687",
-            "label": "2019carv"
+            source: "1706",
+            target: "4481",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "4967",
-            "target": "4362",
-            "label": "2017dal"
+            source: "4967",
+            target: "85",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "3737",
-            "target": "2485",
-            "label": "2019roe"
+            source: "2451",
+            target: "5036",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "192",
-            "target": "368",
-            "label": "2017gal"
+            source: "20",
+            target: "1023",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "2221",
-            "target": "948",
-            "label": "2017tur"
+            source: "2648",
+            target: "4028",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1318",
-            "target": "3847",
-            "label": "2018tur"
+            source: "2137",
+            target: "5587",
+            label: "2019cars",
+            visible: true,
         },
         {
-            "source": "2158",
-            "target": "7121",
-            "label": "2019hop"
+            source: "2930",
+            target: "3478",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4405",
-            "target": "1718",
-            "label": "2018cur"
+            source: "217",
+            target: "1629",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "341",
-            "target": "4590",
-            "label": "2019tes"
+            source: "2200",
+            target: "2830",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "59",
-            "label": "2019hop"
+            source: "4039",
+            target: "2994",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "114",
-            "target": "5801",
-            "label": "2019gal"
+            source: "5499",
+            target: "5458",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "4481",
-            "target": "1218",
-            "label": "2019dar"
+            source: "1023",
+            target: "5509",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1712",
-            "target": "1506",
-            "label": "2018tes"
+            source: "6986",
+            target: "948",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "4414",
-            "target": "5431",
-            "label": "2019gal"
+            source: "910",
+            target: "1481",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "3539",
-            "target": "1025",
-            "label": "2017arc"
+            source: "3128",
+            target: "6768",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "3478",
-            "target": "6377",
-            "label": "2019tur"
+            source: "5458",
+            target: "2587",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1002",
-            "target": "4561",
-            "label": "2017roe"
+            source: "4980",
+            target: "1730",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "2928",
-            "target": "5499",
-            "label": "2017roe"
+            source: "4499",
+            target: "6907",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "744",
-            "target": "6907",
-            "label": "2019hop"
+            source: "2403",
+            target: "5930",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "971",
-            "target": "2992",
-            "label": "2017carv"
+            source: "271",
+            target: "3015",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3536",
-            "target": "3386",
-            "label": "2019cars"
+            source: "1305",
+            target: "2370",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "6705",
-            "target": "4561",
-            "label": "2017roe"
+            source: "4911",
+            target: "2147",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2415",
-            "target": "4112",
-            "label": "2017gal"
+            source: "3132",
+            target: "3039",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "1023",
-            "target": "1025",
-            "label": "2018cur"
+            source: "5654",
+            target: "1982",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "1102",
-            "target": "7446",
-            "label": "2019gal"
+            source: "254",
+            target: "6986",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "6803",
-            "target": "2642",
-            "label": "2019roe"
+            source: "3536",
+            target: "125",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "3452",
-            "target": "4814",
-            "label": "2018cur"
+            source: "3928",
+            target: "3277",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "5199",
-            "target": "2582",
-            "label": "2019tur"
+            source: "6072",
+            target: "6996",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "359",
-            "label": "2017dar"
+            source: "2147",
+            target: "5006",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "1023",
-            "target": "5509",
-            "label": "2019cur"
+            source: "1629",
+            target: "836",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "5572",
-            "target": "294",
-            "label": "2018hop"
+            source: "2910",
+            target: "3598",
+            label: "2019new",
+            visible: true,
         },
         {
-            "source": "836",
-            "target": "1918",
-            "label": "2019dar"
+            source: "971",
+            target: "1251",
+            label: "2018new",
+            visible: true,
         },
         {
-            "source": "192",
-            "target": "587",
-            "label": "2017gal"
+            source: "6106",
+            target: "6390",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "56",
-            "target": "365",
-            "label": "2018dar"
+            source: "2221",
+            target: "948",
+            label: "2017tur",
+            visible: true,
         },
         {
-            "source": "2403",
-            "target": "1726",
-            "label": "2019tur"
+            source: "2403",
+            target: "2733",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "234",
-            "target": "2609",
-            "label": "2017cur"
+            source: "2826",
+            target: "5404",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "2682",
-            "target": "4915",
-            "label": "2017hop"
+            source: "5190",
+            target: "1939",
+            label: "2018gal",
+            visible: true,
         },
         {
-            "source": "494",
-            "target": "865",
-            "label": "2018dar"
+            source: "5026",
+            target: "108",
+            label: "2018carv",
+            visible: true,
         },
         {
-            "source": "291",
-            "target": "4039",
-            "label": "2018tes"
+            source: "3546",
+            target: "11",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "2557",
-            "target": "120",
-            "label": "2018tur"
+            source: "862",
+            target: "2614",
+            label: "2019dal",
+            visible: true,
         },
         {
-            "source": "2611",
-            "target": "222",
-            "label": "2017arc"
+            source: "744",
+            target: "59",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1481",
-            "target": "5442",
-            "label": "2017dal"
+            source: "967",
+            target: "5509",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "4678",
-            "target": "5114",
-            "label": "2018tes"
+            source: "20",
+            target: "1025",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "525",
-            "target": "4907",
-            "label": "2019tes"
+            source: "5437",
+            target: "2576",
+            label: "2017gal",
+            visible: true,
         },
         {
-            "source": "3853",
-            "target": "4468",
-            "label": "2018new"
+            source: "3512",
+            target: "3478",
+            label: "2018tur",
+            visible: true,
         },
         {
-            "source": "5842",
-            "target": "3489",
-            "label": "2017new"
+            source: "2834",
+            target: "3461",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "1577",
-            "target": "1311",
-            "label": "2018gal"
+            source: "141",
+            target: "1189",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "3707",
-            "target": "4481",
-            "label": "2019dar"
+            source: "2682",
+            target: "4915",
+            label: "2017hop",
+            visible: true,
         },
         {
-            "source": "4026",
-            "target": "1414",
-            "label": "2019gal"
+            source: "1218",
+            target: "2830",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "604",
-            "target": "3245",
-            "label": "2019new"
+            source: "3132",
+            target: "1939",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "971",
-            "target": "179",
-            "label": "2019gal"
+            source: "1114",
+            target: "6387",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "1519",
-            "target": "3130",
-            "label": "2018dar"
+            source: "1519",
+            target: "3414",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "5436",
-            "target": "85",
-            "label": "2017dal"
+            source: "141",
+            target: "2706",
+            label: "2018dal",
+            visible: true,
         },
         {
-            "source": "7796",
-            "target": "587",
-            "label": "2019carv"
+            source: "2383",
+            target: "1094",
+            label: "2019tur",
+            visible: true,
         },
         {
-            "source": "2557",
-            "target": "6304",
-            "label": "2019roe"
+            source: "5892",
+            target: "687",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "135",
-            "target": "4003",
-            "label": "2017cars"
+            source: "179",
+            target: "2557",
+            label: "2017carv",
+            visible: true,
         },
         {
-            "source": "3512",
-            "target": "2231",
-            "label": "2018tur"
+            source: "1425",
+            target: "3735",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "6334",
-            "target": "865",
-            "label": "2017arc"
+            source: "4336",
+            target: "2655",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5036",
-            "target": "74",
-            "label": "2017dar"
+            source: "222",
+            target: "614",
+            label: "2019arc",
+            visible: true,
         },
         {
-            "source": "3620",
-            "target": "1747",
-            "label": "2019tes"
+            source: "231",
+            target: "6304",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "5436",
-            "target": "4967",
-            "label": "2017dal"
+            source: "4362",
+            target: "85",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "4903",
-            "target": "4541",
-            "label": "2019dal"
+            source: "5414",
+            target: "4565",
+            label: "2019gal",
+            visible: true,
         },
         {
-            "source": "2102",
-            "target": "2046",
-            "label": "2018tur"
+            source: "4237",
+            target: "3620",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "399",
-            "target": "3284",
-            "label": "2018hop"
+            source: "2771",
+            target: "236",
+            label: "2019dar",
+            visible: true,
         },
         {
-            "source": "2481",
-            "target": "1807",
-            "label": "2017cur"
+            source: "4534",
+            target: "1339",
+            label: "2019carv",
+            visible: true,
         },
         {
-            "source": "2974",
-            "target": "4026",
-            "label": "2019gal"
+            source: "2655",
+            target: "2642",
+            label: "2019roe",
+            visible: true,
         },
         {
-            "source": "2451",
-            "target": "2194",
-            "label": "2017cars"
+            source: "4980",
+            target: "2073",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "1506",
-            "target": "3928",
-            "label": "2017dar"
+            source: "294",
+            target: "2990",
+            label: "2018hop",
+            visible: true,
         },
         {
-            "source": "687",
-            "target": "5199",
-            "label": "2018new"
+            source: "2767",
+            target: "862",
+            label: "2017dal",
+            visible: true,
         },
         {
-            "source": "1285",
-            "target": "66",
-            "label": "2017dal"
+            source: "5437",
+            target: "7152",
+            label: "2018roe",
+            visible: true,
         },
         {
-            "source": "188",
-            "target": "2852",
-            "label": "2019arc"
+            source: "694",
+            target: "2016",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "1885",
-            "target": "74",
-            "label": "2017dar"
+            source: "2832",
+            target: "5150",
+            label: "2017cars",
+            visible: true,
         },
         {
-            "source": "2960",
-            "target": "67",
-            "label": "2019cars"
+            source: "4917",
+            target: "51",
+            label: "2018dar",
+            visible: true,
         },
         {
-            "source": "3211",
-            "target": "5074",
-            "label": "2017gal"
+            source: "1325",
+            target: "694",
+            label: "2018arc",
+            visible: true,
         },
         {
-            "source": "846",
-            "target": "4910",
-            "label": "2018gal"
+            source: "48",
+            target: "2370",
+            label: "2017dar",
+            visible: true,
         },
         {
-            "source": "3476",
-            "target": "1072",
-            "label": "2018roe"
+            source: "3663",
+            target: "6919",
+            label: "2019hop",
+            visible: true,
         },
         {
-            "source": "1986",
-            "target": "6800",
-            "label": "2019gal"
+            source: "1684",
+            target: "302",
+            label: "2018cur",
+            visible: true,
         },
         {
-            "source": "2539",
-            "target": "5687",
-            "label": "2019arc"
+            source: "1241",
+            target: "1610",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "4500",
-            "target": "4143",
-            "label": "2017cur"
+            source: "4265",
+            target: "8",
+            label: "2017roe",
+            visible: true,
         },
         {
-            "source": "1305",
-            "target": "48",
-            "label": "2017dar"
+            source: "6009",
+            target: "4039",
+            label: "2017cur",
+            visible: true,
         },
         {
-            "source": "1918",
-            "target": "5505",
-            "label": "2018cars"
+            source: "245",
+            target: "1025",
+            label: "2017arc",
+            visible: true,
         },
         {
-            "source": "342",
-            "target": "3132",
-            "label": "2018carv"
+            source: "829",
+            target: "3414",
+            label: "2017tes",
+            visible: true,
         },
         {
-            "source": "1114",
-            "target": "6387",
-            "label": "2017dar"
+            source: "1519",
+            target: "4213",
+            label: "2019cur",
+            visible: true,
         },
         {
-            "source": "1574",
-            "target": "624",
-            "label": "2017roe"
-        }
-    ]
-}
+            source: "4786",
+            target: "1559",
+            label: "2018arc",
+            visible: true,
+        },
+    ],
+    colors: {
+        ISR: "#a6cee3",
+        FIN: "#1f78b4",
+        FIT: "#b2df8a",
+        PNW: "#33a02c",
+        FIM: "#fb9a99",
+        ONT: "#e31a1c",
+        FNC: "#fdbf6f",
+        FMA: "#ff7f00",
+        CHS: "#cab2d6",
+        NE: "#6a3d9a",
+        REG: "#ffff99",
+        PCH: "#b15928",
+    },
+    regions_show: {
+        ISR: true,
+        FIN: true,
+        FIT: true,
+        PNW: true,
+        FIM: true,
+        ONT: true,
+        FNC: true,
+        FMA: true,
+        CHS: true,
+        NE: true,
+        REG: true,
+        PCH: true,
+    },
+};
