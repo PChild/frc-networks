@@ -158,15 +158,20 @@
                 folder1.add(graphData.regions_show, region).onChange((status) => {
                     Graph.graphData().nodes.forEach((node) => {
                         if (node.region === region) {
+                            node.visibile = status;
                             node.__threeObj.visible = status;
                         }
                     });
 
                     Graph.graphData().links.forEach((link) => {
-                        if (link.__lineObj && link.source.__threeObj && link.target.__threeObj) {
+                        try {
+                            link.visible = link.source.__threeObj.visible && link.target.__threeObj.visible;
                             link.__lineObj.visible = link.source.__threeObj.visible && link.target.__threeObj.visible;
-                        } else if (link.__lineObj) {
-                            link.__lineObj.visible = false;
+                        } catch (error) {
+                            try {
+                                link.visible = false;
+                                link.__lineObj.visible = false;
+                            } catch (error) {}
                         }
                     });
                 });
